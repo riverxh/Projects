@@ -2,34 +2,8 @@
 
 **Autor:** Adrian Rojas Rivera. **Modalidad:** individual.
 
-Programa en PySpark para integrar ciclistas, rutas y actividades, calcular totales por persona, provincia y fecha, y presentar dos rankings por provincia. Desarrollado a partir del enunciado, FAQ, cuaderno y ejemplo de solución compartido por el profesor.
+Programa en PySpark para integrar ciclistas, rutas y actividades, calcular totales por persona, provincia y fecha, y presentar dos rankings por provincia.
 
-## Ejecución desde una copia nueva
-
-Requisito: Docker instalado y en ejecución. Descomprimir el ZIP, abrir una terminal y entrar a la carpeta `T1` que contiene `Dockerfile`.
-
-```bash
-docker build -t tarea1-bigdata .
-docker run --rm -it tarea1-bigdata /bin/bash
-```
-
-Dentro del contenedor:
-
-```bash
-source /opt/venv/bin/activate
-cd /src
-spark-submit main.py data/ciclista.csv data/ruta.csv data/actividad.csv
-pytest
-```
-
-El programa imprime entradas, unión, agregados intermedios y los dos rankings. Las pruebas se descubren con el comando `pytest` sin opciones adicionales. También se pueden ejecutar directamente:
-
-```bash
-docker run --rm tarea1-bigdata spark-submit main.py data/ciclista.csv data/ruta.csv data/actividad.csv
-docker run --rm tarea1-bigdata pytest
-```
-
-El Dockerfile se conserva del `Dockerfile.arm64` del curso, basado en Java 17 sobre Ubuntu Jammy. Usa una imagen base multiplataforma; la verificación de esta entrega se realizó en ARM64 con Python 3.10, Spark 4.2.0 y pytest 9.1.1.
 
 ## Entradas
 
@@ -86,7 +60,3 @@ Las agregaciones se prueban desde DataFrames intermedios y los rankings desde m�
 - `doc/Manual.pdf`: manual de ejecución.
 - `doc/Fuentes.md`: procedencia del código y adaptaciones.
 - `doc/Guia_estudio.md`: explicación para comprender y defender la solución.
-
-## Fuentes y apoyo
-
-Se reutilizan y adaptan los materiales identificados en `doc/Fuentes.md`. El promedio corrige el cálculo por actividad del ejemplo mediante la secuencia de agrupación diaria y promedio propuesta en el FAQ. El desarrollo contó con apoyo de Codex para explicación, adaptación, documentación y comprobaciones. La política específica de IA citada por el curso no fue aportada; corresponde revisar sus requisitos adicionales antes de presentar la entrega.
