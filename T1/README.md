@@ -5,6 +5,33 @@
 Programa en PySpark para integrar ciclistas, rutas y actividades, calcular totales por persona, provincia y fecha, y presentar dos rankings por provincia.
 
 
+## Ejecución desde una copia nueva
+
+Requisito: Docker instalado y en ejecución. Descomprimir el ZIP, abrir una terminal y entrar a la carpeta `T1` que contiene `Dockerfile`.
+
+```bash
+docker build -t tarea1-bigdata .
+docker run --rm -it tarea1-bigdata /bin/bash
+```
+
+Dentro del contenedor:
+
+```bash
+source /opt/venv/bin/activate
+cd /src
+spark-submit main.py data/ciclista.csv data/ruta.csv data/actividad.csv
+pytest
+```
+
+El programa imprime entradas, unión, agregados intermedios y los dos rankings. Las pruebas se descubren con el comando `pytest` sin opciones adicionales. También se pueden ejecutar directamente:
+
+```bash
+docker run --rm tarea1-bigdata spark-submit main.py data/ciclista.csv data/ruta.csv data/actividad.csv
+docker run --rm tarea1-bigdata pytest
+```
+
+El Dockerfile se conserva del `Dockerfile.arm64` del curso, basado en Java 17 sobre Ubuntu Jammy. Usa una imagen base multiplataforma; la verificación de esta entrega se realizó en ARM64 con Python 3.10, Spark 4.2.0 y pytest 9.1.1.
+
 ## Entradas
 
 Los tres CSV usan UTF-8, comas como separador, punto decimal y **ninguna fila de encabezado**. El orden es obligatorio:
