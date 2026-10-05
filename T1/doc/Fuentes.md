@@ -21,8 +21,6 @@ El ZIP no identifica una autoría individual en el documento de integrantes, por
 - Se añadieron pruebas propias para recorridos repetidos y actividades vacías, casos relevantes para el enunciado.
 - Se ordenan explícitamente las tablas que se comparan por filas; `orderBy` procede del cuaderno.
 
-El desarrollo contó con apoyo de Codex para revisar materiales, explicar pasos, preparar adaptaciones y ejecutar comprobaciones. Falta consultar el documento específico de política de IA del curso para completar cualquier declaración de uso que exija; no se han supuesto sus requisitos.
-
 ## Etapas finales
 
 - Las agregaciones adaptan `groupBy` y `sum` de la función `aggregate` del ZIP. Se separan por responsabilidad para probar totales por persona, provincia y fecha.
