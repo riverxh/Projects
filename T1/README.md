@@ -86,4 +86,3 @@ Las agregaciones se prueban desde DataFrames intermedios y los rankings desde m�
 - `Dockerfile`: configuraci처n del entorno del curso.
 - `doc/Manual.pdf`: manual de ejecuci처n.
 - `doc/Fuentes.md`: procedencia del c처digo y adaptaciones.
-- `doc/Guia_estudio.md`: explicaci처n para comprender y defender la soluci처n.
