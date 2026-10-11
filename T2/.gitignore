@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+data/
+output/
+output_muestra/
+artifacts/
+spark-warehouse/
+.DS_Store
+output_alternativo/
+output_video/

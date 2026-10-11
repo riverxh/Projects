@@ -1,0 +1,10 @@
+data/
+output*/
+.git/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+artifacts/
+spark-warehouse/
+.DS_Store

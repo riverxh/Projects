@@ -1,0 +1,3 @@
+# Versiones verificadas en la imagen del curso; archivo generado con ayuda de IA.
+pyspark==4.2.0
+pytest==9.1.1
