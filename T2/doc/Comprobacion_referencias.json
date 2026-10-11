@@ -1,0 +1,60 @@
+{
+  "fuente": "crossref.zip original, cálculo independiente en Python, sin Spark",
+  "documentos": 31458,
+  "conteo": "DOI distintos por persona, preservando mayúsculas",
+  "incluye_unknown": false,
+  "incluye_ceros": false,
+  "personas": 194981,
+  "top_10": [
+    [
+      "Florian Krammer",
+      2701
+    ],
+    [
+      "Ralph S. Baric",
+      2504
+    ],
+    [
+      "Adolfo García-Sastre",
+      2204
+    ],
+    [
+      "Michael S. Diamond",
+      2181
+    ],
+    [
+      "Luis Martinez-Sobrido",
+      2126
+    ],
+    [
+      "Olivier Schwartz",
+      2074
+    ],
+    [
+      "Akiko Iwasaki",
+      2020
+    ],
+    [
+      "Andrew Pekosz",
+      2001
+    ],
+    [
+      "Wei Wang",
+      1981
+    ],
+    [
+      "Galit Alter",
+      1890
+    ]
+  ],
+  "Florian_Krammer": {
+    "articulos": 100,
+    "entradas_con_DOI": 3869,
+    "DOI_distintos": 2701
+  },
+  "percentiles_continuos": {
+    "p25": 21.0,
+    "p50": 36.0,
+    "p75": 64.0
+  }
+}

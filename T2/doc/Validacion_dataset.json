@@ -1,0 +1,40 @@
+{
+  "fecha": "2026-10-11",
+  "pruebas": "23 passed in 14.26s",
+  "documentos_json": 31458,
+  "relectura_parquet": 31458,
+  "archivos_parquet": 8,
+  "validacion_independiente_desde_zip": true,
+  "comparaciones": {
+    "meses": true,
+    "grupos": true,
+    "areas_y_orden": true,
+    "maximo": true,
+    "percentiles": true,
+    "un_archivo_por_tabla_csv_json": true
+  },
+  "configuracion": {
+    "conteo_referencias": "distinct-doi",
+    "incluye_unknown_en_referencias": false,
+    "incluye_personas_con_cero_referencias": false,
+    "metodo_percentiles": "continuous",
+    "csv_con_encabezado": true
+  },
+  "maximo": [
+    {
+      "full_name": "Florian Krammer",
+      "total_references": 2701
+    }
+  ],
+  "percentiles": {
+    "p25": 21.0,
+    "p50": 36.0,
+    "p75": 64.0
+  },
+  "pendientes_academicos": [
+    "confirmar interpretaciones ambiguas con docente",
+    "revisión personal y exportación del manual Word al PDF requerido",
+    "grabar video de máximo siete minutos",
+    "entrega y declaración real de IA"
+  ]
+}
