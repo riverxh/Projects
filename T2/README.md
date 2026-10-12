@@ -116,34 +116,12 @@ Las rutas relativas parten del directorio donde se ejecuta el comando. `/t2` cor
 
 Cada salida CSV/JSON contiene un archivo de datos `part-*` y metadatos de Spark como `_SUCCESS`; no se deben confundir esos metadatos con archivos de datos adicionales. El Parquet puede contener varios archivos. Los JSON de salida siguen el formato habitual de Spark: un objeto por línea.
 
-## Decisiones que deben explicarse y, cuando corresponda, confirmarse
-
-Estas son decisiones de esta implementación, no aclaraciones del docente:
-
-1. `createdDate` conserva el texto `message.created.date-time`. Las fechas se interpretan en UTC. Fechas nulas o inválidas permanecen en un grupo con año/mes nulos para no descartar documentos silenciosamente.
-2. Los documentos se conservan como fueron leídos; no hay deduplicación global por DOI. El conteo mensual cuenta documentos. El conteo por grupo sí usa DOI distintos; los DOI nulos o en blanco no cuentan. Los grupos nulos se conservan en esa salida.
-3. Los nombres se forman con `given` y `family`, separados por espacio y con `trim` exterior. Si el resultado está vacío, se usa `unknown`. No se identifica personas por ORCID ni se intenta resolver homónimos. Un autor nulo dentro de la lista se omite; una lista de autores ausente o vacía no crea personas ficticias.
-4. El mismo nombre repetido en la lista de autores de un artículo contribuye una vez para ese documento. Los campos originales de autores se conservan completos en Parquet. Los nombres se desanidan solamente para las métricas de personas.
-5. Las áreas de investigación excluyen grupos nulos/en blanco; conservan los nombres originales de los grupos válidos. Cada lista se ordena alfabéticamente para reproducibilidad. Una persona sin grupos válidos puede aparecer con lista vacía y total cero. La salida se ordena por total descendente y nombre ascendente.
-6. Se filtran referencias con DOI no nulo y no vacío después de `trim`. **Por defecto se cuentan DOI distintos por persona, entre todos sus artículos** (`--reference-count-mode distinct-doi`). La verificación independiente del ZIP encontró para Florian Krammer 100 artículos, 3869 entradas con DOI y **2701 DOI distintos**, exactamente el valor citado en el enunciado. El texto no dice expresamente “referencias distintas”: esta configuración es una interpretación apoyada en ese ejemplo, pendiente de confirmación. `--reference-count-mode entries` cuenta todas las entradas, incluso DOI repetidos. No se divide entre coautores ni se usan `is-referenced-by-count` o `reference-count` para sustituir el cálculo. Se preservan las mayúsculas de los DOI; normalizarlas cambia el ejemplo del docente.
-7. Por defecto, la distribución incluye solo personas con nombre identificable y al menos una referencia válida. El grupo sintético `unknown` permanece en áreas, como exige el punto 4, pero se excluye del máximo y percentiles porque agrupa autores diferentes sin nombre. El punto 5 no indica expresamente qué hacer con ese grupo: también es una interpretación pendiente de confirmar. `--include-unknown-references` permite incluirlo. `--include-zero-references` incluye personas con cero. Estas opciones afectan al máximo y a los percentiles.
-8. En empate del máximo se escoge el nombre ascendente. Una población sin personas produce una salida JSON sin registros y percentiles nulos; no se inventa una persona ganadora.
-9. Percentiles predeterminados: exactos y continuos/interpolados mediante `pyspark.sql.functions.percentile`, con índice `(n-1)*p`. `--percentile-method nearest-rank` usa el valor observado de rango `ceil(n*p)`. No se considera que uno de estos métodos esté confirmado por el enunciado. Para población vacía, los tres valores son nulos. **Los puntos 6–8 remiten al punto 4 aunque hablan de referencias; aquí se calculan sobre todos los totales de referencias por persona, antes de seleccionar el máximo.**
-10. CSV con encabezados por defecto; `--no-csv-header` permite desactivarlos. En los CSV los nulos se representan con el texto `null`. Las columnas de percentiles se llaman `total_references`; el enunciado no detalla encabezados ni nombre de esa columna.
-11. JSON malformado o tipos incompatibles: lectura `FAILFAST`. Documento sin objeto `message`: error explícito. Campos opcionales ausentes: nulos. Entrada vacía: error; el programa no anuncia éxito sin artículos.
-12. La escritura no es una transacción: un fallo posterior a Parquet puede dejar salidas parciales. Corregir la causa y repetir con `--overwrite` para reemplazar las ocho salidas; revisar siempre el resumen de ejecución final.
-
-Ejemplo para cambiar las decisiones de percentiles:
-
-```bash
-spark-submit --master 'local[2]' programa.py data/crossref --overwrite --include-zero-references --percentile-method nearest-rank
-```
 
 ## Pruebas y verificación
 
 Las pruebas cubren JSON multilínea, múltiples rutas, opcionales ausentes, esquema anidado, JSON inválido, message ausente, rutas inexistentes, fechas inválidas, autores múltiples/repetidos, nombres incompletos, listas vacías/nulas, DOI repetidos por grupo, referencias con/sin DOI, coautoría, referencia DOI repetida, personas con cero, empates, población vacía, percentiles continuos/discretos, un archivo CSV y su orden, relectura de Parquet, protección contra reemplazo y repetición sin duplicación acumulativa.
 
-La comparación con el ejemplo de Florian Krammer es una comprobación del dataset, no un valor codificado ni un sustituto de las pruebas. La salida de este programa debe revisarse antes de cualquier entrega. Ninguna comprobación local garantiza coincidir con las pruebas ocultas del docente, especialmente en las decisiones ambiguas anteriores.
+La comparación con el ejemplo de Florian Krammer es una comprobación del dataset, no un valor codificado ni un sustituto de las pruebas. L
 
 ## Fuentes y procedencia
 
