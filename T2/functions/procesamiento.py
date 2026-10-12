@@ -1,4 +1,4 @@
-"""Transformaciones de T2. Generado con ayuda de IA; decisiones en README.md."""
+"""Transformaciones de T2"""
 
 import math
 from pyspark.sql import DataFrame, Window, functions as F
