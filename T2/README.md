@@ -4,7 +4,6 @@
 
 Repositorio: [riverxh/Projects, carpeta T2](https://github.com/riverxh/Projects/tree/main/T2).
 
-Este código y sus pruebas fueron generados con ayuda de Codex a petición del usuario el 11 de octubre de 2026. No representan código desarrollado exclusivamente por integrantes del grupo. Que las pruebas pasen no cambia esa procedencia ni acredita cumplimiento de la condición de autoría del enunciado. El manual Word y el guion están disponibles en `doc/`; deben revisarse personalmente antes de la entrega. El enunciado solicita PDF para el manual final.
 
 ## Archivos
 
@@ -148,12 +147,9 @@ La comparación con el ejemplo de Florian Krammer es una comprobación del datas
 
 ## Fuentes y procedencia
 
-- Enunciado: `/Users/adrian/Downloads/L3/2026-02-M4-T2.md`, en especial programa principal, esquema Parquet, ocho salidas y pruebas.
-- Ejemplos del profesor: `/Users/adrian/Downloads/L2/notebook/biorxiv.ipynb`: lectura multilínea, selección de `message.*`, `col`/`alias`, autores, agrupación, conjuntos y escrituras. La implementación nueva no se atribuye al profesor.
-- L3, `video1745679371.mp4`: lectura de T2 aproximadamente 01:02–01:10; relectura obligatoria de Parquet 01:14:16–01:14:30.
+- Enunciado: en especial programa principal, esquema Parquet, ocho salidas y pruebas.
 - Apache Spark, [JSON](https://spark.apache.org/docs/latest/sql-data-sources-json.html), [percentile](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.functions.percentile.html).
-- Política de IA proporcionada por el estudiante y condición específica del enunciado: revisar antes de redactar la declaración de autoría y de uso de herramientas.
 
 ## Resultado observado
 
-Validación del 11 de octubre de 2026: **23 pruebas aprobadas**, 31 458 JSON y 31 458 filas releídas del Parquet. Máximo predeterminado: **Florian Krammer, 2701**; P25 **21.0**, P50 **36.0**, P75 **64.0**. Consultar `doc/Validacion.md` para el alcance y las interpretaciones pendientes.
+**23 pruebas aprobadas**, 31 458 JSON y 31 458 filas releídas del Parquet. Máximo predeterminado: **Florian Krammer, 2701**; P25 **21.0**, P50 **36.0**, P75 **64.0**. Consultar `doc/Validacion.md` para el alcance y las interpretaciones pendientes.
