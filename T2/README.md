@@ -14,11 +14,8 @@ Repositorio: [riverxh/Projects, carpeta T2](https://github.com/riverxh/Projects/
 - `pytest.ini`: permite ejecutar `pytest` desde la raíz de T2.
 - `output/resumen_ejecucion.json`: evidencia de la ejecución real, configuración y métricas resumidas. Se genera al ejecutar.
 - [Manual de ejecución en Word](doc/Manual_Tarea_2.docx): entorno, instrucciones, esquema, salidas, decisiones y fuentes.
-- [Guion del video en Word](doc/Guion_video_Tarea_2.docx): preparación, pantalla, narración y comandos para un objetivo de 6:30.
 - [Fuentes y procedencia](doc/Fuentes.md) y [validación observada](doc/Validacion.md).
 - `Dockerfile`: adaptación del Full Container ARM64 del curso; fija PySpark y pytest.
-
-El cuaderno `exploracion_t2.ipynb` permanece en el equipo de trabajo; se omite de la copia publicada y no es necesario para ejecutar ni probar el programa.
 
 ## Entorno comprobado
 
@@ -121,7 +118,7 @@ Cada salida CSV/JSON contiene un archivo de datos `part-*` y metadatos de Spark 
 
 Las pruebas cubren JSON multilínea, múltiples rutas, opcionales ausentes, esquema anidado, JSON inválido, message ausente, rutas inexistentes, fechas inválidas, autores múltiples/repetidos, nombres incompletos, listas vacías/nulas, DOI repetidos por grupo, referencias con/sin DOI, coautoría, referencia DOI repetida, personas con cero, empates, población vacía, percentiles continuos/discretos, un archivo CSV y su orden, relectura de Parquet, protección contra reemplazo y repetición sin duplicación acumulativa.
 
-La comparación con el ejemplo de Florian Krammer es una comprobación del dataset, no un valor codificado ni un sustituto de las pruebas. L
+La comparación con el ejemplo de Florian Krammer es una comprobación del dataset, no un valor codificado ni un sustituto de las pruebas.
 
 ## Fuentes y procedencia
 
