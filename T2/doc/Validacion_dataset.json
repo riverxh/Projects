@@ -30,11 +30,4 @@
     "p25": 21.0,
     "p50": 36.0,
     "p75": 64.0
-  },
-  "pendientes_academicos": [
-    "confirmar interpretaciones ambiguas con docente",
-    "revisión personal y exportación del manual Word al PDF requerido",
-    "grabar video de máximo siete minutos",
-    "entrega y declaración real de IA"
-  ]
-}
+  }
