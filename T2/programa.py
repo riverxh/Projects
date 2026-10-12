@@ -1,4 +1,3 @@
-"""Programa de T2 generado con ayuda de IA. No constituye autoría exclusiva estudiantil."""
 
 import argparse
 import json
