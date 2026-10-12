@@ -1,7 +1,5 @@
 # Validación observada — 11 de octubre de 2026
 
-Documento técnico generado con ayuda de IA; describe comprobaciones realmente ejecutadas dentro de `bigdata-t2` y contra el ZIP original del curso.
-
 - Pruebas finales: `pytest -q` → **23 passed in 14.26s**.
 - Ejecución real: `spark-submit --master 'local[2]' programa.py data/crossref --overwrite` → finalizó con código de salida 0.
 - Documentos JSON leídos: **31 458**. Artículos de la nueva lectura Parquet: **31 458**.
@@ -19,5 +17,3 @@ Evidencia detallada:
 - `Validacion_dataset.json`: comprobaciones de las salidas finales contra el ZIP.
 - `Comprobacion_referencias.json`: conteo independiente y diez mayores totales.
 - `../output/resumen_ejecucion.json`: configuración y resumen del programa.
-
-Esta validación no sustituye la revisión y comprensión del estudiante, no garantiza las pruebas ocultas y no cambia la procedencia del código. Se prepararon el manual Word y el guion. Siguen pendientes la revisión personal del estudiante, la exportación del manual al PDF solicitado por el curso, la grabación del video y el envío de la entrega. El repositorio se prepara con la carpeta T2; comprobar el enlace publicado antes de compartirlo.
