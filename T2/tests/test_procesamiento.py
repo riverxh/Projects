@@ -1,4 +1,4 @@
-"""Casos con resultados esperados independientes. Generado con ayuda de IA."""
+"""Casos con resultados esperados independientes."""
 import json
 import pytest
 from pyspark.sql.types import ArrayType, StructType
