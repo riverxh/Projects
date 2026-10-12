@@ -1,4 +1,4 @@
-# Base: Full Container ARM64 del curso. Adaptación con ayuda de IA.
+# Base: Full Container ARM64 del curso.
 # Cambios: versiones fijadas de PySpark y pytest; ver doc/Fuentes.md.
 FROM eclipse-temurin:17-jdk-jammy
 
