@@ -1,0 +1,242 @@
+{
+  "fecha_ejecucion": "2026-10-23T10:05:11.480477-06:00",
+  "versiones": {
+    "python": "3.10.12",
+    "spark": "3.5.1",
+    "jdbc": "42.7.3"
+  },
+  "fuente": {
+    "archivo": "dataset.csv",
+    "fuente": "Material del curso L5/T3.zip, T3/data/dataset.csv",
+    "problema": "Abandono de clientes, según el notebook del curso",
+    "objetivo": "etiqueta: 0 permanece, 1 abandona",
+    "sha256": "edfb442ba52a4a840c659201c941df7b5e538558c37bf1faf0d0ca5da958e25d",
+    "nota": "Archivo de ejemplo suministrado por el curso; no se documenta su mecanismo de generación ni una población real de origen."
+  },
+  "calidad": {
+    "filas_entrada": 10000,
+    "filas_validas_antes_duplicados": 10000,
+    "filas_unicas_validas": 10000,
+    "identificadores_conflictivos": 0,
+    "filas_limpias": 10000,
+    "filas_invalidas": 0,
+    "duplicados_exactos_eliminados": 0,
+    "filas_conflictivas_eliminadas": 0
+  },
+  "particion": {
+    "entrenamiento": 8079,
+    "reserva": 1921,
+    "semilla": 27,
+    "folds": 4
+  },
+  "clase_mayoritaria": 0,
+  "accuracy_referencia": 0.5804268610098907,
+  "modelos": {
+    "modelo1": {
+      "nombre": "Regresión logística",
+      "parametros": {
+        "regParam": 0.01,
+        "elasticNetParam": 0.5
+      },
+      "auc_cv": 0.700283946159476,
+      "desv_cv": 0.003610272297831245,
+      "segundos": 9.940861671999983
+    },
+    "modelo2": {
+      "nombre": "Bosque aleatorio",
+      "parametros": {
+        "maxDepth": 4,
+        "minInstancesPerNode": 2
+      },
+      "auc_cv": 0.699741253876441,
+      "desv_cv": 0.008550176204663027,
+      "segundos": 16.324982423999927
+    }
+  },
+  "metricas_entrenamiento": {
+    "modelo1": {
+      "n": 8079,
+      "auc_roc": 0.7009274245124002,
+      "auc_pr": 0.6069064820924175,
+      "accuracy": 0.658126005693774,
+      "precision_positiva": 0.6104674390731123,
+      "recall_positivo": 0.46093514328808444,
+      "f1_positivo": 0.5252664145754554,
+      "tn": 3789,
+      "fp": 975,
+      "fn": 1787,
+      "tp": 1528
+    },
+    "modelo2": {
+      "n": 8079,
+      "auc_roc": 0.711508795858329,
+      "auc_pr": 0.6283981740889125,
+      "accuracy": 0.6651813343235549,
+      "precision_positiva": 0.64892578125,
+      "recall_positivo": 0.40090497737556563,
+      "f1_positivo": 0.4956181241842253,
+      "tn": 4045,
+      "fp": 719,
+      "fn": 1986,
+      "tp": 1329
+    }
+  },
+  "metricas_reserva": {
+    "modelo1": {
+      "n": 1921,
+      "auc_roc": 0.7180640710367341,
+      "auc_pr": 0.6241965213294796,
+      "accuracy": 0.6710046850598647,
+      "precision_positiva": 0.638095238095238,
+      "recall_positivo": 0.4987593052109181,
+      "f1_positivo": 0.5598885793871866,
+      "tn": 887,
+      "fp": 228,
+      "fn": 404,
+      "tp": 402
+    },
+    "modelo2": {
+      "n": 1921,
+      "auc_roc": 0.7196469305322192,
+      "auc_pr": 0.6298724762911503,
+      "accuracy": 0.6652785007808433,
+      "precision_positiva": 0.6564299424184261,
+      "recall_positivo": 0.42431761786600497,
+      "f1_positivo": 0.5154483798040694,
+      "tn": 936,
+      "fp": 179,
+      "fn": 464,
+      "tp": 342
+    }
+  },
+  "validacion_cruzada": [
+    {
+      "modelo": "modelo1",
+      "regParam": 0.01,
+      "elasticNetParam": 0.0,
+      "auc_cv_media": 0.7000853525080081,
+      "auc_cv_desv": 0.004174049748944247
+    },
+    {
+      "modelo": "modelo1",
+      "regParam": 0.01,
+      "elasticNetParam": 0.5,
+      "auc_cv_media": 0.700283946159476,
+      "auc_cv_desv": 0.003610272297831245
+    },
+    {
+      "modelo": "modelo1",
+      "regParam": 0.1,
+      "elasticNetParam": 0.0,
+      "auc_cv_media": 0.70014373357896,
+      "auc_cv_desv": 0.004205632066688104
+    },
+    {
+      "modelo": "modelo1",
+      "regParam": 0.1,
+      "elasticNetParam": 0.5,
+      "auc_cv_media": 0.696409659975482,
+      "auc_cv_desv": 0.004137597775353214
+    },
+    {
+      "modelo": "modelo2",
+      "maxDepth": 4,
+      "minInstancesPerNode": 2,
+      "auc_cv_media": 0.699741253876441,
+      "auc_cv_desv": 0.008550176204663027
+    },
+    {
+      "modelo": "modelo2",
+      "maxDepth": 4,
+      "minInstancesPerNode": 10,
+      "auc_cv_media": 0.6996195458110599,
+      "auc_cv_desv": 0.008509367431139385
+    },
+    {
+      "modelo": "modelo2",
+      "maxDepth": 8,
+      "minInstancesPerNode": 2,
+      "auc_cv_media": 0.6913767355223623,
+      "auc_cv_desv": 0.008235602465240742
+    },
+    {
+      "modelo": "modelo2",
+      "maxDepth": 8,
+      "minInstancesPerNode": 10,
+      "auc_cv_media": 0.6953361730258119,
+      "auc_cv_desv": 0.008429682795890986
+    }
+  ],
+  "verificacion_sql": {
+    "tarea3": {
+      "filas": 10000,
+      "columnas": [
+        "id",
+        "edad",
+        "gasto_mensual",
+        "tickets_soporte",
+        "meses_cliente",
+        "usa_app",
+        "etiqueta"
+      ],
+      "diferencias": 0
+    },
+    "modelo1": {
+      "filas": 1921,
+      "columnas": [
+        "id",
+        "edad",
+        "gasto_mensual",
+        "tickets_soporte",
+        "meses_cliente",
+        "usa_app",
+        "etiqueta",
+        "prediccion"
+      ],
+      "diferencias": 0
+    },
+    "modelo2": {
+      "filas": 1921,
+      "columnas": [
+        "id",
+        "edad",
+        "gasto_mensual",
+        "tickets_soporte",
+        "meses_cliente",
+        "usa_app",
+        "etiqueta",
+        "prediccion"
+      ],
+      "diferencias": 0
+    }
+  },
+  "repeticion_overwrite_verificada": true,
+  "atributos_modelos": [
+    {
+      "atributo": "edad",
+      "coeficiente_logistico": 0.0,
+      "importancia_bosque": 0.010621615530440841
+    },
+    {
+      "atributo": "gasto_mensual",
+      "coeficiente_logistico": 0.36129789162616105,
+      "importancia_bosque": 0.2374279731074221
+    },
+    {
+      "atributo": "tickets_soporte",
+      "coeficiente_logistico": 0.6102717691482099,
+      "importancia_bosque": 0.6444146480617483
+    },
+    {
+      "atributo": "meses_cliente",
+      "coeficiente_logistico": -0.08968508932830006,
+      "importancia_bosque": 0.10733808069357113
+    },
+    {
+      "atributo": "usa_app",
+      "coeficiente_logistico": -0.00676442085060322,
+      "importancia_bosque": 0.00019768260681747447
+    }
+  ],
+  "segundos_totales": 41.622456851999914
+}

@@ -1,0 +1,13 @@
+
+La regresión logística obtuvo AUC ROC **0.7181** y F1 positivo **0.5599** en reserva.
+El bosque obtuvo AUC ROC **0.7196** y F1 positivo **0.5154**. La diferencia de AUC del bosque respecto a la regresión fue **+0.0016**.
+
+La mayor AUC final correspondió a **Bosque aleatorio**. Sus resultados describen esta reserva y no son una prueba de superioridad universal ni de significación estadística. La referencia que predice siempre la clase 0 alcanzó accuracy **0.5804**; compararla con ambas matrices ayuda a no confundir la proporción de aciertos con la detección de abandonos.
+
+La regresión dejó sin detectar **404** abandonos y generó **228** falsas alertas; el bosque dejó **464** sin detectar y produjo **179** falsas alertas. Estos errores tienen implicaciones distintas: perder un abandono y contactar innecesariamente a un cliente. No se dispone de costos de negocio para convertir esa diferencia en una decisión operativa.
+
+El atributo de mayor importancia interna del bosque fue **tickets_soporte**. El bosque puede representar umbrales e interacciones; la regresión ajusta un efecto aditivo sobre el logaritmo de las probabilidades relativas. Esto ofrece una explicación posible de diferencias de desempeño, pero el archivo no documenta su mecanismo de generación y no permite afirmar que la relación encontrada sea causal o representativa de clientes reales.
+
+La AUC de entrenamiento fue **0.7009** para la regresión y **0.7115** para el bosque; sus medias de CV fueron **0.7003** y **0.6997**, con desviaciones entre folds de **0.0036** y **0.0086**. La diferencia entrenamiento-CV es mayor en el bosque y sugiere mayor optimismo de ajuste. Que la reserva obtenga una AUC superior a CV puede deberse a la variación de la partición; no demuestra un beneficio de generalización.
+
+Con el umbral fijado, la regresión tiene mayor recall y F1 positivo en esta reserva y sería la opción a considerar si el propósito prioriza detectar abandonos. El bosque tiene mayor precision y genera menos falsas alertas. La ventaja de AUC del bosque es pequeña y no basta para preferirlo en cualquier uso. Ninguno detecta más de la mitad de los abandonos con este umbral. La AUC PR se contrasta con la proporción positiva de reserva (**0.4196**), que sirve como referencia de precisión para una clasificación sin información. No se reajusta el umbral tras observar estos resultados. Hay cuatro candidatos por modelo y cuatro folds; no es una búsqueda exhaustiva. La partición es por registros de ID único y no evalúa cambios temporales o traslados a otra población. La reserva se utilizó para la evaluación final y no para volver a elegir parámetros.

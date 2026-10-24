@@ -1,0 +1,91 @@
+Pager usage is off.
+  tabla  | filas | ids_unicos 
+---------+-------+------------
+ tarea3  | 10000 |      10000
+ modelo1 |  1921 |       1921
+ modelo2 |  1921 |       1921
+(3 rows)
+
+ table_name | ordinal_position |   column_name   |    data_type     
+------------+------------------+-----------------+------------------
+ modelo1    |                1 | id              | text
+ modelo1    |                2 | edad            | integer
+ modelo1    |                3 | gasto_mensual   | double precision
+ modelo1    |                4 | tickets_soporte | integer
+ modelo1    |                5 | meses_cliente   | integer
+ modelo1    |                6 | usa_app         | integer
+ modelo1    |                7 | etiqueta        | integer
+ modelo1    |                8 | prediccion      | integer
+ modelo2    |                1 | id              | text
+ modelo2    |                2 | edad            | integer
+ modelo2    |                3 | gasto_mensual   | double precision
+ modelo2    |                4 | tickets_soporte | integer
+ modelo2    |                5 | meses_cliente   | integer
+ modelo2    |                6 | usa_app         | integer
+ modelo2    |                7 | etiqueta        | integer
+ modelo2    |                8 | prediccion      | integer
+ tarea3     |                1 | id              | text
+ tarea3     |                2 | edad            | integer
+ tarea3     |                3 | gasto_mensual   | double precision
+ tarea3     |                4 | tickets_soporte | integer
+ tarea3     |                5 | meses_cliente   | integer
+ tarea3     |                6 | usa_app         | integer
+ tarea3     |                7 | etiqueta        | integer
+(23 rows)
+
+  tabla  | filas_sin_correspondencia 
+---------+---------------------------
+ modelo1 |                         0
+ modelo2 |                         0
+(2 rows)
+
+ ids_distintos_entre_modelos 
+-----------------------------
+                           0
+(1 row)
+
+  tabla  | predicciones_invalidas 
+---------+------------------------
+ modelo1 |                      0
+ modelo2 |                      0
+(2 rows)
+
+ modelo  | etiqueta | prediccion | registros 
+---------+----------+------------+-----------
+ modelo1 |        0 |          0 |       887
+ modelo1 |        0 |          1 |       228
+ modelo1 |        1 |          0 |       404
+ modelo1 |        1 |          1 |       402
+ modelo2 |        0 |          0 |       936
+ modelo2 |        0 |          1 |       179
+ modelo2 |        1 |          0 |       464
+ modelo2 |        1 |          1 |       342
+(8 rows)
+
+                  id                  | edad | gasto_mensual | tickets_soporte | meses_cliente | usa_app | etiqueta 
+--------------------------------------+------+---------------+-----------------+---------------+---------+----------
+ 0008d2a2-0ae0-4b3c-b36c-f9147dd882f3 |   74 |        201.12 |               0 |            76 |       0 |        0
+ 00252802-99db-4397-8dd7-225759abe10f |   44 |        750.38 |              15 |           102 |       1 |        0
+ 003911c8-38d7-4ed2-82ae-b732aaa3de99 |   34 |        927.91 |               6 |           105 |       1 |        0
+ 003c1d64-9f0e-4ffa-89e2-d7734b72d3c9 |   34 |        472.89 |               9 |            15 |       0 |        0
+ 00415e95-dc8e-40d5-86a7-55a2d473536a |   75 |        267.08 |               3 |            89 |       0 |        0
+(5 rows)
+
+                  id                  | edad | gasto_mensual | tickets_soporte | meses_cliente | usa_app | etiqueta | prediccion 
+--------------------------------------+------+---------------+-----------------+---------------+---------+----------+------------
+ 003911c8-38d7-4ed2-82ae-b732aaa3de99 |   34 |        927.91 |               6 |           105 |       1 |        0 |          0
+ 00450712-037b-4d24-b43b-4ba216e8078b |   60 |        780.92 |               7 |            87 |       0 |        1 |          0
+ 004b2c95-716f-4a28-af84-1d182624e5f8 |   26 |        434.93 |              13 |            62 |       1 |        0 |          1
+ 0087d923-7cdf-48db-97ca-43cf01b68fdd |   62 |        664.24 |               1 |            15 |       0 |        0 |          0
+ 008c771e-10d1-4368-8644-93c5b035d9a7 |   52 |         449.2 |               1 |            52 |       1 |        0 |          0
+(5 rows)
+
+                  id                  | edad | gasto_mensual | tickets_soporte | meses_cliente | usa_app | etiqueta | prediccion 
+--------------------------------------+------+---------------+-----------------+---------------+---------+----------+------------
+ 003911c8-38d7-4ed2-82ae-b732aaa3de99 |   34 |        927.91 |               6 |           105 |       1 |        0 |          0
+ 00450712-037b-4d24-b43b-4ba216e8078b |   60 |        780.92 |               7 |            87 |       0 |        1 |          0
+ 004b2c95-716f-4a28-af84-1d182624e5f8 |   26 |        434.93 |              13 |            62 |       1 |        0 |          0
+ 0087d923-7cdf-48db-97ca-43cf01b68fdd |   62 |        664.24 |               1 |            15 |       0 |        0 |          0
+ 008c771e-10d1-4368-8644-93c5b035d9a7 |   52 |         449.2 |               1 |            52 |       1 |        0 |          0
+(5 rows)
+
