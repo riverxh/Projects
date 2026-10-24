@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+tmp/
+.env
+output/modelos/
+output/spark-warehouse/
+output/*.log

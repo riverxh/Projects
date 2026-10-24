@@ -1,0 +1,41 @@
+name: tarea3
+services:
+  postgres:
+    image: postgres:16.6
+    environment:
+      POSTGRES_DB: tarea3
+      POSTGRES_USER: estudiante
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-tarea3_local}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U estudiante -d tarea3"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  bigdata:
+    build: .
+    image: tarea3-bigdata:local
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      POSTGRES_DB: tarea3
+      POSTGRES_USER: estudiante
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-tarea3_local}
+      JUPYTER_TOKEN: ${JUPYTER_TOKEN:-tarea3-local}
+      SPARK_LOCAL_IP: 127.0.0.1
+      PYSPARK_SUBMIT_ARGS: --driver-memory 1536m pyspark-shell
+      OPENBLAS_NUM_THREADS: "1"
+      OMP_NUM_THREADS: "1"
+    ports:
+      - "127.0.0.1:8893:8888"
+      - "127.0.0.1:4043:4040"
+    volumes:
+      - .:/src
+    working_dir: /src
+    shm_size: 512mb
+volumes:
+  postgres_data:
