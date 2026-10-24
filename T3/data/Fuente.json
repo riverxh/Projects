@@ -1,0 +1,8 @@
+{
+  "archivo": "dataset.csv",
+  "fuente": "Material del curso L5/T3.zip, T3/data/dataset.csv",
+  "problema": "Abandono de clientes, según el notebook del curso",
+  "objetivo": "etiqueta: 0 permanece, 1 abandona",
+  "sha256": "edfb442ba52a4a840c659201c941df7b5e538558c37bf1faf0d0ca5da958e25d",
+  "nota": "Archivo de ejemplo suministrado por el curso; no se documenta su mecanismo de generación ni una población real de origen."
+}
