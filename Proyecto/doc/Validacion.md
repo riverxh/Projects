@@ -31,5 +31,3 @@ La segunda pasada reutilizó los 298 vectores de pasajes y las 14 consultas, con
 ## Límites de la evidencia
 
 La validación de relevancia es interna y no tiene un segundo anotador independiente. Los folds territoriales no son folds temporales. La prueba cronológica usa versiones revisadas de las fuentes. Ni los permisos ni los textos históricos acreditan obras terminadas, causalidad o vigencia regulatoria actual. La lineal mejora el agregado de prueba, pero persistencia ganó en validación 2022; los vectores no superan BM25 en las ocho consultas reservadas.
-
-La validación local no equivale a enviar el correo, otorgar acceso al profesor, entregar en clase o realizar la exposición. Esos pasos se registran por separado en la lista de entrega.
