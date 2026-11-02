@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "codigo_agrupacion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "agrupacion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "provincia": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "anio_objetivo": {
+        "type": "long"
+      },
+      "anio_datos": {
+        "type": "long"
+      },
+      "observado_m2": {
+        "type": "double"
+      },
+      "prediccion_m2": {
+        "type": "double"
+      },
+      "persistencia_m2": {
+        "type": "double"
+      },
+      "modelo": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "error_m2": {
+        "type": "double"
+      },
+      "error_absoluto_m2": {
+        "type": "double"
+      },
+      "fecha": {
+        "type": "date"
+      }
+    }
+  }
+}

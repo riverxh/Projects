@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "codigo_canton": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "canton": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "archivo": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "hoja": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "fuente_url": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "poblacion": {
+        "type": "double"
+      },
+      "hombres": {
+        "type": "double"
+      },
+      "mujeres": {
+        "type": "double"
+      },
+      "celda_total": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "celda_hombres": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "celda_mujeres": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "anio": {
+        "type": "long"
+      },
+      "fila": {
+        "type": "long"
+      },
+      "fecha": {
+        "type": "date"
+      }
+    }
+  }
+}

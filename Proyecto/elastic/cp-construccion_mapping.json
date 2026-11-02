@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "anio": {
+        "type": "long"
+      },
+      "codigo_canton": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "canton": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "obras_total": {
+        "type": "long"
+      },
+      "area_m2": {
+        "type": "double"
+      },
+      "valor_miles_colones": {
+        "type": "double"
+      },
+      "obras_nuevas": {
+        "type": "long"
+      },
+      "area_nueva_m2": {
+        "type": "double"
+      },
+      "valor_nueva_miles": {
+        "type": "double"
+      },
+      "obras_ampliacion": {
+        "type": "long"
+      },
+      "area_ampliacion_m2": {
+        "type": "double"
+      },
+      "valor_ampliacion_miles": {
+        "type": "double"
+      },
+      "obras_reparacion": {
+        "type": "long"
+      },
+      "valor_reparacion_miles": {
+        "type": "double"
+      },
+      "archivo": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "hoja": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "fila": {
+        "type": "long"
+      },
+      "fuente_url": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "columnas_metricas": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "fecha": {
+        "type": "date"
+      }
+    }
+  }
+}

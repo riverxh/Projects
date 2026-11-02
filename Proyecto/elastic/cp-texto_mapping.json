@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "fragmento_id": {
+        "type": "keyword"
+      },
+      "documento_id": {
+        "type": "keyword"
+      },
+      "titulo": {
+        "type": "text",
+        "analyzer": "spanish"
+      },
+      "autor": {
+        "type": "keyword"
+      },
+      "anio": {
+        "type": "integer"
+      },
+      "idioma": {
+        "type": "keyword"
+      },
+      "pagina_pdf": {
+        "type": "integer"
+      },
+      "tipo": {
+        "type": "keyword"
+      },
+      "texto": {
+        "type": "text",
+        "analyzer": "spanish"
+      },
+      "url_fuente": {
+        "type": "keyword"
+      },
+      "url_pdf": {
+        "type": "keyword"
+      },
+      "pdf_sha256": {
+        "type": "keyword"
+      },
+      "char_inicio": {
+        "type": "integer"
+      },
+      "char_fin": {
+        "type": "integer"
+      },
+      "tokens_entrada": {
+        "type": "integer"
+      },
+      "fecha": {
+        "type": "date"
+      }
+    }
+  }
+}

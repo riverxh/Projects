@@ -1,0 +1,90 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "codigo_agrupacion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "anio": {
+        "type": "long"
+      },
+      "obras_total": {
+        "type": "long"
+      },
+      "area_m2": {
+        "type": "double"
+      },
+      "valor_miles_colones": {
+        "type": "double"
+      },
+      "obras_nuevas": {
+        "type": "long"
+      },
+      "area_nueva_m2": {
+        "type": "double"
+      },
+      "valor_nueva_miles": {
+        "type": "double"
+      },
+      "obras_ampliacion": {
+        "type": "long"
+      },
+      "area_ampliacion_m2": {
+        "type": "double"
+      },
+      "valor_ampliacion_miles": {
+        "type": "double"
+      },
+      "obras_reparacion": {
+        "type": "long"
+      },
+      "valor_reparacion_miles": {
+        "type": "double"
+      },
+      "codigos_construccion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "origen_construccion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "poblacion": {
+        "type": "double"
+      },
+      "hombres": {
+        "type": "double"
+      },
+      "mujeres": {
+        "type": "double"
+      },
+      "codigos_poblacion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "origen_poblacion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "agrupacion": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "provincia": {
+        "type": "keyword",
+        "ignore_above": 16000
+      },
+      "area_por_habitante": {
+        "type": "double"
+      },
+      "fecha": {
+        "type": "date"
+      }
+    }
+  }
+}
