@@ -1,0 +1,65 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "data": {
+    "url": {
+      "%context%": true,
+      "%timefield%": "fecha",
+      "index": "cp-integrado",
+      "body": {
+        "size": 0,
+        "aggs": {
+          "valores": {
+            "terms": {
+              "field": "provincia",
+              "size": 7
+            },
+            "aggs": {
+              "obras": {
+                "sum": {
+                  "field": "obras_total"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "format": {
+      "property": "aggregations.valores.buckets"
+    }
+  },
+  "mark": {
+    "type": "bar",
+    "color": "#176D8A",
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "obras.value",
+      "type": "quantitative",
+      "title": "Obras",
+      "axis": {
+        "format": "~s"
+      }
+    },
+    "y": {
+      "field": "key",
+      "type": "nominal",
+      "title": "Provincia",
+      "sort": "-x"
+    }
+  },
+  "config": {
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}

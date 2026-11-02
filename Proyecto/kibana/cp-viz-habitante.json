@@ -1,0 +1,76 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "data": {
+    "url": {
+      "%context%": true,
+      "%timefield%": "fecha",
+      "index": "cp-integrado",
+      "body": {
+        "size": 0,
+        "aggs": {
+          "valores": {
+            "terms": {
+              "field": "provincia",
+              "size": 7
+            },
+            "aggs": {
+              "area": {
+                "sum": {
+                  "field": "area_m2"
+                }
+              },
+              "poblacion": {
+                "sum": {
+                  "field": "poblacion"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "format": {
+      "property": "aggregations.valores.buckets"
+    }
+  },
+  "mark": {
+    "type": "bar",
+    "color": "#176D8A",
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "ratio",
+      "type": "quantitative",
+      "title": "m² por habitante",
+      "axis": {
+        "format": ".2f"
+      }
+    },
+    "y": {
+      "field": "key",
+      "type": "nominal",
+      "title": "Provincia",
+      "sort": "-x"
+    }
+  },
+  "config": {
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "view": {
+      "stroke": null
+    }
+  },
+  "transform": [
+    {
+      "calculate": "datum.area.value / datum.poblacion.value",
+      "as": "ratio"
+    }
+  ]
+}

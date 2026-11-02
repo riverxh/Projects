@@ -1,0 +1,71 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "data": {
+    "url": {
+      "%context%": true,
+      "%timefield%": "fecha",
+      "index": "cp-integrado",
+      "body": {
+        "size": 0,
+        "aggs": {
+          "valores": {
+            "terms": {
+              "field": "anio",
+              "size": 20,
+              "order": {
+                "_key": "asc"
+              }
+            },
+            "aggs": {
+              "area": {
+                "sum": {
+                  "field": "area_m2"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "format": {
+      "property": "aggregations.valores.buckets"
+    }
+  },
+  "mark": {
+    "type": "line",
+    "color": "#176D8A",
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "key",
+      "type": "ordinal",
+      "title": "Año",
+      "sort": "ascending",
+      "axis": {
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "area.value",
+      "type": "quantitative",
+      "title": "Área autorizada (m²)",
+      "axis": {
+        "format": "~s"
+      }
+    }
+  },
+  "config": {
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}
