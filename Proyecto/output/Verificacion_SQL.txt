@@ -1,0 +1,169 @@
+Pager usage is off.
+         tabla         | filas 
+-----------------------+-------
+ territorios           |    81
+ construccion_cantonal |   818
+ poblacion_cantonal    |   840
+ destinos_cantonales   | 12121
+ integrado             |   810
+ predicciones          |   324
+(6 rows)
+
+ anio | agrupaciones | obras | area_m2 | poblacion  
+------+--------------+-------+---------+------------
+ 2015 |           81 | 33514 | 3772941 | 4828520.30
+ 2016 |           81 | 34909 | 3684089 | 4882722.97
+ 2017 |           81 | 30507 | 3498161 | 4933518.87
+ 2018 |           81 | 30347 | 3030842 | 4981349.01
+ 2019 |           81 | 34419 | 3631154 | 5020970.09
+ 2020 |           81 | 30675 | 3405104 | 5051379.23
+ 2021 |           81 | 39960 | 3681777 | 5077666.86
+ 2022 |           81 | 43422 | 3918842 | 5104906.84
+ 2023 |           81 | 40440 | 3692085 | 5135911.62
+ 2024 |           81 | 40351 | 3684654 | 5164859.94
+(10 rows)
+
+ codigo_agrupacion |        agrupacion        | anio | area_m2 |     poblacion      |                        origen_construccion                        |                              origen_poblacion                               
+-------------------+--------------------------+------+---------+--------------------+-------------------------------------------------------------------+-----------------------------------------------------------------------------
+ 101               | San José                 | 2024 |  101064 | 352298.48491473496 | Construccion_2024.xlsx:2024:61                                    | Poblacion_2000_2050_INEC.xlsx:C4:F180
+ 203               | Grecia y Río Cuarto      | 2024 |  139320 |    98206.868006214 | Construccion_2024.xlsx:2024:515;Construccion_2024.xlsx:2024:764   | Poblacion_2000_2050_INEC.xlsx:C4:F202;Poblacion_2000_2050_INEC.xlsx:C4:F215
+ 601               | Puntarenas y Monteverde  | 2024 |  115346 | 148060.75130198465 | Construccion_2024.xlsx:2024:1457;Construccion_2024.xlsx:2024:1668 | Poblacion_2000_2050_INEC.xlsx:C4:F245;Poblacion_2000_2050_INEC.xlsx:C4:F256
+ 607               | Golfito y Puerto Jiménez | 2024 |   28197 |  45783.16703377398 | Construccion_2024.xlsx:2024:1574;Construccion_2024.xlsx:2024:1683 | Poblacion_2000_2050_INEC.xlsx:C4:F251;Poblacion_2000_2050_INEC.xlsx:C4:F257
+(4 rows)
+
+ codigo_agrupacion | anio 
+-------------------+------
+(0 rows)
+
+ modelo |  n  |  mae_m2  | rmse_m2  
+--------+-----+----------+----------
+ bosque | 162 | 13783.18 | 26836.64
+ lineal | 162 | 11790.68 | 22202.14
+(2 rows)
+
+ modelo | anio_objetivo | n  |  mae_m2  
+--------+---------------+----+----------
+ bosque |          2023 | 81 | 16429.44
+ bosque |          2024 | 81 | 11136.91
+ lineal |          2023 | 81 | 13987.32
+ lineal |          2024 | 81 |  9594.04
+(4 rows)
+
+      table_name       |      column_name       |    data_type     
+-----------------------+------------------------+------------------
+ construccion_agrupada | codigo_agrupacion      | text
+ construccion_agrupada | anio                   | integer
+ construccion_agrupada | obras_total            | bigint
+ construccion_agrupada | area_m2                | double precision
+ construccion_agrupada | valor_miles_colones    | double precision
+ construccion_agrupada | obras_nuevas           | bigint
+ construccion_agrupada | area_nueva_m2          | double precision
+ construccion_agrupada | valor_nueva_miles      | double precision
+ construccion_agrupada | obras_ampliacion       | bigint
+ construccion_agrupada | area_ampliacion_m2     | double precision
+ construccion_agrupada | valor_ampliacion_miles | double precision
+ construccion_agrupada | obras_reparacion       | bigint
+ construccion_agrupada | valor_reparacion_miles | double precision
+ construccion_agrupada | codigos_construccion   | text
+ construccion_agrupada | origen_construccion    | text
+ construccion_cantonal | anio                   | integer
+ construccion_cantonal | codigo_canton          | text
+ construccion_cantonal | canton                 | text
+ construccion_cantonal | obras_total            | bigint
+ construccion_cantonal | area_m2                | double precision
+ construccion_cantonal | valor_miles_colones    | double precision
+ construccion_cantonal | obras_nuevas           | bigint
+ construccion_cantonal | area_nueva_m2          | double precision
+ construccion_cantonal | valor_nueva_miles      | double precision
+ construccion_cantonal | obras_ampliacion       | bigint
+ construccion_cantonal | area_ampliacion_m2     | double precision
+ construccion_cantonal | valor_ampliacion_miles | double precision
+ construccion_cantonal | obras_reparacion       | bigint
+ construccion_cantonal | valor_reparacion_miles | double precision
+ construccion_cantonal | archivo                | text
+ construccion_cantonal | hoja                   | text
+ construccion_cantonal | fila                   | integer
+ construccion_cantonal | fuente_url             | text
+ construccion_cantonal | columnas_metricas      | text
+ destinos_cantonales   | anio                   | integer
+ destinos_cantonales   | codigo_canton          | text
+ destinos_cantonales   | canton                 | text
+ destinos_cantonales   | obras_total            | bigint
+ destinos_cantonales   | area_m2                | double precision
+ destinos_cantonales   | valor_miles_colones    | double precision
+ destinos_cantonales   | obras_nuevas           | bigint
+ destinos_cantonales   | area_nueva_m2          | double precision
+ destinos_cantonales   | valor_nueva_miles      | double precision
+ destinos_cantonales   | obras_ampliacion       | bigint
+ destinos_cantonales   | area_ampliacion_m2     | double precision
+ destinos_cantonales   | valor_ampliacion_miles | double precision
+ destinos_cantonales   | obras_reparacion       | bigint
+ destinos_cantonales   | valor_reparacion_miles | double precision
+ destinos_cantonales   | archivo                | text
+ destinos_cantonales   | hoja                   | text
+ destinos_cantonales   | fila                   | integer
+ destinos_cantonales   | fuente_url             | text
+ destinos_cantonales   | columnas_metricas      | text
+ destinos_cantonales   | destino                | text
+ destinos_cantonales   | categoria              | text
+ destinos_cantonales   | nivel                  | text
+ destinos_cantonales   | id                     | text
+ integrado             | codigo_agrupacion      | text
+ integrado             | anio                   | integer
+ integrado             | obras_total            | bigint
+ integrado             | area_m2                | double precision
+ integrado             | valor_miles_colones    | double precision
+ integrado             | obras_nuevas           | bigint
+ integrado             | area_nueva_m2          | double precision
+ integrado             | valor_nueva_miles      | double precision
+ integrado             | obras_ampliacion       | bigint
+ integrado             | area_ampliacion_m2     | double precision
+ integrado             | valor_ampliacion_miles | double precision
+ integrado             | obras_reparacion       | bigint
+ integrado             | valor_reparacion_miles | double precision
+ integrado             | codigos_construccion   | text
+ integrado             | origen_construccion    | text
+ integrado             | poblacion              | double precision
+ integrado             | hombres                | double precision
+ integrado             | mujeres                | double precision
+ integrado             | codigos_poblacion      | text
+ integrado             | origen_poblacion       | text
+ integrado             | agrupacion             | text
+ integrado             | provincia              | text
+ integrado             | area_por_habitante     | double precision
+ poblacion_agrupada    | codigo_agrupacion      | text
+ poblacion_agrupada    | anio                   | integer
+ poblacion_agrupada    | poblacion              | double precision
+ poblacion_agrupada    | hombres                | double precision
+ poblacion_agrupada    | mujeres                | double precision
+ poblacion_agrupada    | codigos_poblacion      | text
+ poblacion_agrupada    | origen_poblacion       | text
+ poblacion_cantonal    | codigo_canton          | text
+ poblacion_cantonal    | canton                 | text
+ poblacion_cantonal    | archivo                | text
+ poblacion_cantonal    | hoja                   | text
+ poblacion_cantonal    | fuente_url             | text
+ poblacion_cantonal    | poblacion              | double precision
+ poblacion_cantonal    | hombres                | double precision
+ poblacion_cantonal    | mujeres                | double precision
+ poblacion_cantonal    | celda_total            | text
+ poblacion_cantonal    | celda_hombres          | text
+ poblacion_cantonal    | celda_mujeres          | text
+ poblacion_cantonal    | anio                   | integer
+ poblacion_cantonal    | fila                   | integer
+ predicciones          | codigo_agrupacion      | text
+ predicciones          | agrupacion             | text
+ predicciones          | provincia              | text
+ predicciones          | anio_objetivo          | integer
+ predicciones          | anio_datos             | integer
+ predicciones          | observado_m2           | double precision
+ predicciones          | prediccion_m2          | double precision
+ predicciones          | persistencia_m2        | double precision
+ predicciones          | modelo                 | text
+ predicciones          | error_m2               | double precision
+ predicciones          | error_absoluto_m2      | double precision
+ territorios           | codigo_agrupacion      | text
+ territorios           | agrupacion             | text
+ territorios           | provincia              | text
+(114 rows)
+

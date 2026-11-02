@@ -1,0 +1,23 @@
+{
+  "indices": {
+    "cp-construccion": 818,
+    "cp-poblacion": 840,
+    "cp-destinos": 12121,
+    "cp-integrado": 810,
+    "cp-predicciones": 324,
+    "cp-texto": 298,
+    "cp-vector": 298
+  },
+  "tablas": {
+    "territorios": 81,
+    "construccion_cantonal": 818,
+    "poblacion_cantonal": 840,
+    "destinos_cantonales": 12121,
+    "construccion_agrupada": 810,
+    "poblacion_agrupada": 810,
+    "integrado": 810,
+    "predicciones": 324
+  },
+  "relectura_sql_contenido_identico": true,
+  "escritura": "Reemplazo del esquema proyecto y recreación de cp-*; fuentes originales intactas"
+}

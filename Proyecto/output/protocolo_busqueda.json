@@ -1,0 +1,11 @@
+{
+  "consultas_sha256": "b7287c391bc33d86534760523d24de088864850b27b527fbb256a3042e180283",
+  "consulta_y_mappings_congelados_antes_de_ejecutar": true,
+  "k": 5,
+  "num_candidates": 200,
+  "texto": "BM25 multi_match texto y titulo^0.2, analyzer spanish; sin filtro territorial automático",
+  "vector": "kNN coseno con E5 query:, sin filtro territorial automático",
+  "relevancia": "0 no pertinente, 1 contextual/parcial, 2 responde de manera directa. Métricas estrictas consideran relevante grado 2.",
+  "grupos": "Q01-Q04 desarrollo; Q05-Q12 reserva sin ajuste posterior del ranking; Q13-Q14 controles sin respuesta",
+  "advertencia": "Q01-Q04 ya se exploraron en el piloto; las de reserva son una evaluación interna pequeña, no validación externa"
+}

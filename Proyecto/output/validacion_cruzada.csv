@@ -1,0 +1,9 @@
+modelo,configuracion,parametros,rmse_cv_m2,std_rmse_folds,seleccionado
+lineal,0,"{""regParam"": 0.01, ""elasticNetParam"": 0.0}",29676.676697842267,7833.7575487800295,True
+lineal,1,"{""regParam"": 0.01, ""elasticNetParam"": 0.5}",29786.852519666583,7968.582900164878,False
+lineal,2,"{""regParam"": 0.1, ""elasticNetParam"": 0.0}",30613.849094865072,8638.479155908182,False
+lineal,3,"{""regParam"": 0.1, ""elasticNetParam"": 0.5}",31395.449501266634,9576.65884871628,False
+bosque,0,"{""maxDepth"": 3, ""minInstancesPerNode"": 4}",35396.52184326058,13909.534471250106,False
+bosque,1,"{""maxDepth"": 3, ""minInstancesPerNode"": 8}",35462.24750292033,13997.448786851497,False
+bosque,2,"{""maxDepth"": 5, ""minInstancesPerNode"": 4}",34463.013981409174,12539.630044441437,True
+bosque,3,"{""maxDepth"": 5, ""minInstancesPerNode"": 8}",34602.835279544764,12707.222765610804,False

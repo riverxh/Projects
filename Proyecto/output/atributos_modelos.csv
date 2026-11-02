@@ -1,0 +1,11 @@
+modelo,atributo,valor,tipo
+lineal,log_area_t,0.45531625200236897,coeficiente_log_escalado
+lineal,log_area_t_menos1,0.29417676126925524,coeficiente_log_escalado
+lineal,log_obras_t,0.0700165412231967,coeficiente_log_escalado
+lineal,log_poblacion_t,0.08132726731047639,coeficiente_log_escalado
+lineal,crecimiento_poblacion,0.01910993366808101,coeficiente_log_escalado
+bosque,log_area_t,0.445487094576092,importancia_impureza
+bosque,log_area_t_menos1,0.3985257262858468,importancia_impureza
+bosque,log_obras_t,0.08011677723345036,importancia_impureza
+bosque,log_poblacion_t,0.058523091657557515,importancia_impureza
+bosque,crecimiento_poblacion,0.017347310247053292,importancia_impureza

@@ -1,0 +1,15 @@
+{
+  "seleccion_familia_solo_2022": "lineal",
+  "hiperparametros": {
+    "lineal": {
+      "regParam": 0.01,
+      "elasticNetParam": 0.0
+    },
+    "bosque": {
+      "maxDepth": 5,
+      "minInstancesPerNode": 4
+    }
+  },
+  "criterio": "RMSE m²; CV por territorios 2017-2021 para hiperparámetros; 2022 para familia; prueba 2023-2024 intacta",
+  "refit": "Ambos pipelines se reajustan con objetivos 2017-2022 antes de consultar la prueba final"
+}

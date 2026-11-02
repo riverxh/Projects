@@ -1,0 +1,49 @@
+{
+  "consultas": 14,
+  "juicios": 110,
+  "resumen": [
+    {
+      "grupo": "control_sin_respuesta",
+      "metodo": "texto",
+      "precision_5_estricta": 0.0,
+      "precision_5_contextual": 0.0,
+      "reciproco_primer_relevante": 0.0
+    },
+    {
+      "grupo": "control_sin_respuesta",
+      "metodo": "vector",
+      "precision_5_estricta": 0.0,
+      "precision_5_contextual": 0.0,
+      "reciproco_primer_relevante": 0.0
+    },
+    {
+      "grupo": "desarrollo",
+      "metodo": "texto",
+      "precision_5_estricta": 0.35,
+      "precision_5_contextual": 0.55,
+      "reciproco_primer_relevante": 0.625
+    },
+    {
+      "grupo": "desarrollo",
+      "metodo": "vector",
+      "precision_5_estricta": 0.6,
+      "precision_5_contextual": 0.9,
+      "reciproco_primer_relevante": 1.0
+    },
+    {
+      "grupo": "reserva",
+      "metodo": "texto",
+      "precision_5_estricta": 0.30000000000000004,
+      "precision_5_contextual": 0.85,
+      "reciproco_primer_relevante": 0.65
+    },
+    {
+      "grupo": "reserva",
+      "metodo": "vector",
+      "precision_5_estricta": 0.30000000000000004,
+      "precision_5_contextual": 0.8,
+      "reciproco_primer_relevante": 0.625
+    }
+  ],
+  "limites": "Un único conjunto pequeño de juicios documentales; pool top5 de ambos métodos, no exhaustivo; no permite medir recall global ni superioridad universal. Controles sin respuesta se informan separados."
+}

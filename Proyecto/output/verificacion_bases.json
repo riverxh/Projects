@@ -1,0 +1,38 @@
+{
+  "tablas": {
+    "territorios": 81,
+    "construccion_cantonal": 818,
+    "poblacion_cantonal": 840,
+    "destinos_cantonales": 12121,
+    "construccion_agrupada": 810,
+    "poblacion_agrupada": 810,
+    "integrado": 810,
+    "predicciones": 324
+  },
+  "indices": {
+    "cp-construccion": 818,
+    "cp-poblacion": 840,
+    "cp-destinos": 12121,
+    "cp-integrado": 810,
+    "cp-predicciones": 324,
+    "cp-texto": 298,
+    "cp-vector": 298
+  },
+  "fragmentos_identicos_entre_indices": true,
+  "cruce_sql_comprobado": true,
+  "objetivos_prediccion_comprobados": true,
+  "metricas_recalculadas_sql": [
+    {
+      "modelo": "bosque",
+      "n": 162,
+      "mae_m2": 13783.17540485658,
+      "rmse_m2": 26836.63817411886
+    },
+    {
+      "modelo": "lineal",
+      "n": 162,
+      "mae_m2": 11790.675917130964,
+      "rmse_m2": 22202.135441825518
+    }
+  ]
+}

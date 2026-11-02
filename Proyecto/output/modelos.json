@@ -1,0 +1,119 @@
+{
+  "filas_supervisadas": 648,
+  "particiones": {
+    "entrenamiento": 405,
+    "validacion_2022": 81,
+    "prueba_2023_2024": 162
+  },
+  "folds": [
+    {
+      "fold": 0,
+      "filas": 155,
+      "territorios": 31
+    },
+    {
+      "fold": 1,
+      "filas": 160,
+      "territorios": 32
+    },
+    {
+      "fold": 2,
+      "filas": 90,
+      "territorios": 18
+    }
+  ],
+  "seleccion": {
+    "seleccion_familia_solo_2022": "lineal",
+    "hiperparametros": {
+      "lineal": {
+        "regParam": 0.01,
+        "elasticNetParam": 0.0
+      },
+      "bosque": {
+        "maxDepth": 5,
+        "minInstancesPerNode": 4
+      }
+    },
+    "criterio": "RMSE m²; CV por territorios 2017-2021 para hiperparámetros; 2022 para familia; prueba 2023-2024 intacta",
+    "refit": "Ambos pipelines se reajustan con objetivos 2017-2022 antes de consultar la prueba final"
+  },
+  "metricas": [
+    {
+      "modelo": "lineal",
+      "particion": "prueba_2023_2024",
+      "n": 162,
+      "mae_m2": 11790.675917130971,
+      "rmse_m2": 22202.135441825518,
+      "sesgo_m2": -3780.0625032505686
+    },
+    {
+      "modelo": "lineal",
+      "particion": "2023",
+      "n": 81,
+      "mae_m2": 13987.316139712235,
+      "rmse_m2": 24798.69943739645,
+      "sesgo_m2": -3585.2783466081673
+    },
+    {
+      "modelo": "lineal",
+      "particion": "2024",
+      "n": 81,
+      "mae_m2": 9594.035694549713,
+      "rmse_m2": 19258.612166197294,
+      "sesgo_m2": -3974.8466598929717
+    },
+    {
+      "modelo": "bosque",
+      "particion": "prueba_2023_2024",
+      "n": 162,
+      "mae_m2": 13783.175404856576,
+      "rmse_m2": 26836.63817411886,
+      "sesgo_m2": -4730.987255981686
+    },
+    {
+      "modelo": "bosque",
+      "particion": "2023",
+      "n": 81,
+      "mae_m2": 16429.44404508381,
+      "rmse_m2": 30553.12829125665,
+      "sesgo_m2": -4860.393369200816
+    },
+    {
+      "modelo": "bosque",
+      "particion": "2024",
+      "n": 81,
+      "mae_m2": 11136.906764629342,
+      "rmse_m2": 22514.8095393934,
+      "sesgo_m2": -4601.581142762558
+    },
+    {
+      "modelo": "persistencia",
+      "particion": "prueba_2023_2024",
+      "n": 162,
+      "mae_m2": 12410.703703703704,
+      "rmse_m2": 24385.11662348041,
+      "sesgo_m2": 1445.6049382716049
+    },
+    {
+      "modelo": "persistencia",
+      "particion": "2023",
+      "n": 81,
+      "mae_m2": 13127.543209876543,
+      "rmse_m2": 27262.36409524545,
+      "sesgo_m2": 2799.4691358024693
+    },
+    {
+      "modelo": "persistencia",
+      "particion": "2024",
+      "n": 81,
+      "mae_m2": 11693.864197530864,
+      "rmse_m2": 21119.453814427896,
+      "sesgo_m2": 91.74074074074075
+    }
+  ],
+  "segundos": 22.981368927001313,
+  "escala_objetivo_ajuste": "log1p(m²)",
+  "escala_seleccion_y_metricas": "m²",
+  "limitacion_cv": "K-fold por territorio mezcla años dentro de 2017-2021; no es validación de pronóstico temporal. La evaluación cronológica es 2022 y la prueba 2023-2024.",
+  "limitacion_versiones": "Retrospectiva con versiones revisadas, no reconstruye las publicaciones disponibles en cada fecha"
+}

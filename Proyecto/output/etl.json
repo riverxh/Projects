@@ -1,0 +1,25 @@
+{
+  "filas": {
+    "territorios": 81,
+    "construccion_cantonal": 818,
+    "poblacion_cantonal": 840,
+    "destinos_cantonales": 12121,
+    "construccion_agrupada": 810,
+    "poblacion_agrupada": 810,
+    "integrado": 810
+  },
+  "claves_unicas": true,
+  "totales_nacionales_preservados": true,
+  "cruce_sin_perdidas": true,
+  "reglas_territoriales": {
+    "216": "203",
+    "612": "601",
+    "613": "607"
+  },
+  "signos_no_convertidos_a_cero": true,
+  "hoja_poblacion": "C4",
+  "anios": [
+    2015,
+    2024
+  ]
+}

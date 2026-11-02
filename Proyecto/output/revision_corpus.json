@@ -1,0 +1,4010 @@
+[
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 1,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice y referencias bibliográficas."
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 2,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  2"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice y referencias bibliográficas."
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 3,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  3"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Resumen"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Las ciudades intermedias en Costa Rica"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 4,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  4"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 1 Ubicación de las ciudades intermedias en la GAM"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 5,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  5"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Las ciudades intermedias y su rol funcional"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 6,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  6"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 7,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  7"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 3 Flujo inter-cantonal de trabajadores"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 8,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  8"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Zona 1963-1973 1984-1973 1984-2000 2000-2011 Costa Rica 3,4 2,4 2,9 1,1 GAM 3,9 2,8 3,0 0,8 San Isidro de El General 2,6 -1,4 2,4 0,9 Quesada 2,5 2,2 3,3 1,3 Guápiles -1,1 4,0 5,7 2,6 Fuente: elaboración propia con datos del INEC."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 9,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  9"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: elaboración propia con datos del INEC."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Gráfico 2 Pirámides poblacionales. 2017"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 10,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  10"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Gráfico 3 Crecimiento de la mancha urbana"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 11,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  11"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 12,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  12"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 13,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  13"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 14,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  14"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 15,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  15"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 16,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  16"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Gráfico 4 Crecimiento de la densidad urbana"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 17,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  17"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 18,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  18"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Figura 1 Uso del suelo en San Isidro del General. 2015"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 19,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  19"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Figura 2 Uso del suelo en Quesada. 2016"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Figura 3 Uso del suelo en Guápiles. 2016"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 20,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  20"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 21,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  21"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 22,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  22"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 7 Valor de la tierra por m2"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 23,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  23"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Cuadro 3 Determinantes del valor de la tierra"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 24,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  24"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Cuadro 4 Perfil de las viviendas construidas. 2016"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "% Tamaño promedio Valor m2 % Tamaño promedio Valor m2 (colones) % Tamaño promedio Valor m2 % Tamaño promedio Valor m2 Total 100,0% 102 232.783 100,0% 54,8 210.494 100,0% 58,81 207.278 100,0% 57 193.918 Menos de 40 0,9% 34 218.172 De 40 a 70 37,3% 46 205.411 84,8% 44,3 199.906 63,7% 45,2 196.516 85,6% 47 179.436 De 71 a 100 27,3% 85 296.733 7,1% 76,3 209.775 17,2% 83,7 230.178 8,7% 78 213.750 De 100 a 150 20,8% 116 222.260 6,1% 124,5 260.000 16,3% 123,6 210.566 3,8% 117 238.672 De 150 a 200 4,3% 173 258.872 1,0% 173 204.624 2,7% 187 294.118 1,0% 183 232.951 De 200 y más 9,3% 321 200.983 1,0% 243 226.337 1,0% 364 246.154 Costa Rica Tamaño Vivienda (m2) Pococí San Carlos Pérez Zeledón"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 25,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  25"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del MIVAH."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del INEC."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 26,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  26"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del INEC."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 27,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  27"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del INEC."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "1984-2000 2000-2011 1984 2000 2011 Costa Rica 9,7 5,6 24,4 45,3 124,2 GAM 7,1 10,5 21,0 69,6 123,5 San Isidro de El General 10,4 6,3 24,4 74,1 123,8 Quesada 10,7 6,2 14,8 70,4 114,7 Guápiles 16,6 7,3 23,7 65,7 106,5 Tasa de crecimiento medio anual intercensal de vehículos (no incluye de trabajo) Zona Cantidad de vehículos (no incluye de trabajo) por cada 1.000 habitantes"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 28,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  28"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del INEC."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 29,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  29"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia. Liberia Puntarenas Limón Pococí Pérez Zeledón Turrialba San Carlos Liberia Puntarenas Limón Guápiles San Isidro del General Turrialba Ciudad Quesada Porcentaje de hogares con al menos una carencia 24,6 26,5 30,3 34,8 33,3 31,1 26,1 28,9 18,2 17,7 24,8 19,4 22,1 16,9 20,2 Porcentaje de hogares con carencia de albergue digno 9,3 13,4 13,6 14,6 12,4 7,7 8,8 10,6 12,7 7,3 8,9 6,2 6,1 4,3 5,9 Porcentaje de hogares con carencia de vida saludable 6,2 6,1 7,2 14,6 9,3 10,9 9,5 5,6 5,5 6,2 5,2 2,7 4,5 3,9 4,8 Porcentaje de hogares con carencia de acceso al conocimiento 8,3 9,3 9,0 11,4 11,6 9,2 7,5 10,4 9,0 3,7 8,8 7,8 7,1 4,8 6,7 Porcentaje de hogares con carencia de acceso a otros bienes y servicios 7,8 7,6 9,8 9,7 11,3 10,9 9,4 11,2 7,2 5,1 7,8 6,3 8,2 6,3 7,0 Tasa de ocupación 51,7 49,5 46,4 46,4 48,9 46,4 46,1 52,7 50,1 51,4 48,1 53,1 49,3 48,1 55,6 Tasa de desempleo abierto 3,4 4,8 3,7 5,1 4,5 3,4 3,0 2,8 5,1 3,4 5,3 3,1 3,8 2,7 2,5 Porcentaje de población empleadora 6,6 5,3 5,9 5,5 5,6 6,5 5,4 6,7 5,1 10,0 6,2 8,0 7,4 6,4 8,4 Porcentaje de población asegurada 85,4 81,1 85,8 84,6 83,9 87,1 87,4 80,5 81,0 88,0 84,2 85,7 87,2 89,6 85,3 Porcentaje de población menor de 5 años que asiste a guardería, maternal o prekinder 13,7 11,0 10,8 8,6 8,1 8,7 18,8 9,5 11,3 16,6 10,8 10,9 10,9 25,1 15,0 Porcentaje de población de 5 a 15 años que asiste a educación general básica 85,6 85,0 85,6 83,8 84,3 84,6 86,5 85,4 85,0 88,6 85,5 87,3 85,8 89,3 87,6 Porcentaje de población de 17 años y más con educación superior 22,5 22,9 14,3 16,5 11,8 16,1 18,0 14,1 24,7 31,4 20,5 20,9 23,8 28,3 23,7 Escolaridad promedio de la población de 15 años y más 8,7 8,9 7,9 8,3 7,3 7,7 7,8 7,4 9,1 10,1 9,2 8,8 8,8 9,2 8,9 Porcentaje de población de 5 años y más que en los últimos tres meses ha utilizado computadora 48,7 46,2 37,8 41,0 36,4 40,6 40,1 40,8 48,8 53,5 50,5 52,1 51,0 52,5 56,3 Porcentaje de población de 5 años y más que en los últimos tres meses ha utilizado Internet 45,3 43,3 34,4 38,0 31,9 37,0 36,8 37,4 45,8 50,8 47,2 47,8 47,7 49,6 53,5 Porcentaje de viviendas en mal estado 7,3 7,9 12,8 12,2 12,7 8,9 8,9 9,6 7,5 7,2 9,0 5,9 7,8 5,8 5,9 Porcentaje de viviendas que eliminan la basura por camión recolector 74,3 84,7 74,9 74,6 59,2 61,9 80,0 65,6 88,4 95,3 91,2 85,9 84,9 96,7 94,5 Valor Promedio Cantonal Valor promedio Ciudad Intermedia Promedio NacionalIndicador"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 30,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  30"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 31,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  31"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 32,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  32"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 33,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  33"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 34,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  34"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 35,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  35"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del INEC."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 36,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  36"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del INEC."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del INEC."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 37,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  37"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Presencia de amenazas naturales"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "a) San Isidro del General"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 38,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  38"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 8 Mapa de inundaciones de San Isidro del General"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 39,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  39"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Figura 4 Mapa de inundaciones de Ciudad Quesada"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: ProDUS-UCR."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 40,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  40"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "c) Guápiles"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Presencia de Planes Reguladores"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "a) San Isidro del General"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 41,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  41"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "b) Ciudad Quesada"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 42,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  42"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "d) Guápiles"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Algunas consideraciones finales"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 43,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  43"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 44,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias de crecimiento en ciudades intermedias. El caso de San Isidro de El General, Ciudad",
+      "Quesada y Guápiles",
+      "Informe Estado de la Nación 2017  44"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice y referencias bibliográficas."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 1,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 2,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           2"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 3,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           3"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 4,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           4"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Introducción"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 5,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           5"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 1. Zona de estudio"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 6,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           6"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 7,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           7"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 8,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           8"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "1 Elaboración propia. Estimaciones 1986-2010 véase Sánchez (2015)."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 9,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           9"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 10,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           10"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Cuadro 1. Evolución del crecimiento urbano en la GAM. 1986-2018"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Indicador"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "1986 1997 2010 2018"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Área construida (ha.) 20 986 27 044 33 088 34.639 Crecimiento con respecto a periodo inicial (ha.) 6058.4 6043.1 1.551"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Población 1 434 242 1 931 255 2.377.714 2.569.462"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Densidad poblacional (habitantes / ha. urbana) 68.34 71.41 71,86 74,17"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Índices"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Dispersión del área construida 0.5248 0.4457 0.3956"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "0,3781"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Compacidad del área construida 0.1712 0.2206 0.2699"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "0,2830"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Contigüidad del área construida 0.3153 0.4216 0.4247"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 11,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           11"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 12,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           12"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 5. Porcentaje del distrito urbanizado en la GAM 2018"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 13,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           13"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 14,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           14"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Cuadro 3. Metros cuadrados de construcción en la GAM. 2013-2016"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 15,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           15"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 16,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           16"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 17,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           17"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 18,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           18"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 19,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           19"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 20,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           20"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 21,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           21"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 22,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           22"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 23,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           23"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 24,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           24"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 25,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           25"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 26,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           26"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Figura 1. Ejemplo de mapa de zonas homogéneas"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Ministerio de Hacienda."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 27,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           27"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Ministerio de Hacienda."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 28,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           28"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 13. Mapa de valores de terrenos para la GAM"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 29,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           29"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 30,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           30"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 31,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           31"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Cuadro 4. Determinantes del valor del suelo"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Tiempo de viaje a San José - condiciones de ongestión (min.) -0,21456 929,310 <0,001 Tiempo de viaje a Heredia - condiciones de congestión (min.) -0,12177 470,193 <0,001 Tiempo de viaje a Cartago - condiciones de flujo libre (min.) -0,0914 312,790 <0,000 Tiempo de viaje a Alajuela - condiciones de flujo libre (min.) -0,150192 650,517 <0,001 Uso del suelo (urbano = 1) 28, 981 403,876 <0,001 Pendiente (%) -0,0091 12,614 <0,001 Posición X 0,01072 117,664 <0,001 Posición Y 0,01456 200,378 <0,001 Intercepto 168,223 526,281 <0.001 R2 R2 ajustado Estadístico F (Prob.) N Coeficiente Estadístico t Prob. 98.3009,613 (<0.001) 4.870.654 0,609 0,615 Variable"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 32,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           32"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 33,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           33"
+    ],
+    "uniones_guion": 1,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 34,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           34"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Las ocupaciones utilizadas serán las siguientes:"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 35,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           35"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 36,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           36"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 37,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           37"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia. cod Cantón Costo total anual $ millones Costo percapita anual en dolares 101 San José 297,73 2.444,1 102 Escazú 59,05 2.270,3 103 Desamparados 218,48 2.533,1 106 Aserrí 69,53 3.088,4 107 Mora 30,25 2.869,2 108 Goicoechea 144,87 2.954,6 109 Santa Ana 54,01 2.371,1 110 Alajuelita 77,95 2.569,9 111 V. Coronado 107,81 4.030,4 113 Tibás 68,59 2.456,7 114 Moravia 93,18 3.650,1 115 Montes de Oca 69,33 2.971,1 118 Curridabat 81,69 2.789,5 201 Alajuela 191,23 1.858,6 205 Atenas 18,38 1.933,9 208 Poás 26,72 2.511,1 301 Cartago 140,18 2.421,1 302 Para so 55,95 2.656,1 303 La Unión 128,83 3.027,9 306 Alvarado 7,84 1.417,9 307 Oreamuno 45,20 2.549,0 308 El Guarco 33,62 2.045,3 401 Heredia 159,62 2.927,5 402 Barva 88,16 5.005,2 403 Santo Domingo 46,77 2.655,7 404 Santa Bábara 39,82 2.651,1 405 San Rafael 53,25 2.699,4 406 San Isidro 28,53 3.120,8 407 Belén 24,82 2.524,1 408 Flores 23,42 2.635,5 409 San Pablo 42,35 3.444,4 2.527,1 2.657,4Total GAM % PIB 3,8%"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 38,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           38"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 39,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           39"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 40,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           40"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 41,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           41"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 42,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           42"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 43,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           43"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 44,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           44"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 45,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           45"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 46,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           46"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 47,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           47"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 48,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           48"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 49,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           49"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 50,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           50"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 51,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           51"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 52,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           52"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 53,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           53"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 54,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           54"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 55,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           55"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 56,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           56"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 57,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           57"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 58,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           58"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 59,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           59"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 60,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           60"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 61,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           61"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 62,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           62"
+    ],
+    "uniones_guion": 3,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 63,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           63"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 64,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           64"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 65,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           65"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 66,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           66"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 67,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           67"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 68,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           68"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 69,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           69"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 70,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           70"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 71,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           71"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 72,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           72"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 73,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Informe Estado de la Nación 2018           73"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 74,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y",
+      "ambientales y desafíos desde el Ordenamiento territorial",
+      "Informe Estado de la Nación 2018           74"
+    ],
+    "uniones_guion": 2,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 1,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 2,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”"
+    ],
+    "uniones_guion": 1,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 3,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 4,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 5,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           1"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 6,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           2"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 7,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           3"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 8,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           4"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 9,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           5"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 10,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           6"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Bases de datos utilizadas y metodología"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 11,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           7"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Cuadro 3 Cantidad de observaciones por año, según obras en metros cuadrados. 2014-2021ª/ Año Observaciones 2014 48.336 2015 53.816 2016 60.151 2017 52.900 2018 52.651 2019 55.807 2020 47.753 2021 15.361 a/ Incluye información a abril. Fuente: Elaboración propia."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Cuadro 4 Cantidad de planos de agrimensura registrados en el CFIA. 2016-2020 Año Observaciones 2016 89.253 2017 97.277 2018 97.475 2019 102.051 2020 117.914 Fuente: Elaboración propia."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 12,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           8"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "glifos_de_formula",
+        "texto": " Ordenamiento territorial: En el análisis se utilizan las bases de datos del Instituto Nacional de Vivienda y Urbanismo (INVU) sobre el estado de los planes reguladores en los cantones de Costa Rica. La información permite identificar si un cantón cuenta o no con plan regulador, si está vigente o en proceso de elaboración o actualización, o si por el contrario no se encuentra en ningún proceso, así como la publicación en la Gaceta. De igual forma se utiliza la información de la Secretaría Técnica Nacional Ambiental (SETENA) para verificar por distrito la viabilidad ambiental de los planes reguladores."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 13,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           9"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Mapa 3 Costa Rica: Estado de los planes reguladores, 2021"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 14,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           10"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 15,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           11"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 16,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           12"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: SETENA."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 17,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           13"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 18,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           14"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "23 años IFAS aprobados"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Liberia"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Si Vigente Gaceta N° 202 21/11/1983 - Gaceta N° 200 17/10/2002 - Gaceta N° 194 08/10/2008 Fe de erratas Art. 6 Zona Rural"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "13 años"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Archivado Limón Si Vigente Gaceta N° 67 17/04/1993 - Gaceta N° 209 31/10/2001 - Gaceta N° 8 11/01/2002"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "20 años Con viabilidad ambiental"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Puntarenas"
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Si Vigente Gaceta N° 93 16/05/2006 - Gaceta N° 240 15/12/1981 16 años Archivado Quesada Si Vigente y en proceso de actualización Gaceta N° 81 21/01/1982 - Gaceta N° 18 25/01/2002 Alcance N° 15 Gaceta N° 107 05/06/2007 (Anulado por Sala Constitucional 01/06/10)"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 19,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           15"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 20,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           16"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 21,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           17"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Unidad de Criterios Técnicos y Operativos Territorial, INVU, SETENA y CFIA. 703 329 4533 324 1554 501 1380 543 349 872 0 500 000 1000 000 1500 000 2000 000 2500 000 3000 000 3500 000 4000 000 4500 000 5000 000 Apartamentos Casas Casas de interes social exoneradas Condominios Urbanizaciones 3781 155 7857 297 0 1000 000 2000 000 3000 000 4000 000 5000 000 6000 000 7000 000 8000 000 9000 000 Sin plan regulador Sin viabilidad ambiental"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 22,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           18"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 23,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           19"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Periodo Metros cuadrados Tasa crecimiento anual Enero-abril 2014 3,09 Enero-abril 2015 2,94 -4,9% Enero-abril 2016 3,33 13,3% Enero-abril 2017 3,05 -8,4% Enero-abril 2018 3,26 6,9% Enero-abril 2019 3,2 -1,8% Enero-abril 2020 2,73 -14,7% Enero-abril 2021 2,76 1,1%"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 24,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           20"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 25,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           21"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 26,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           22"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Código Nombre Área construida (millones) Porcentaje respecto al país Porcentaje acumulado M2 de construcción por km2 201 Alajuela 6,64 9,8 9,8 16 979,8 101 San José 5,46 8,0 17,8 122 066,4 401 Heredia 3,12 4,6 22,4 11 014,8 301 Cartago 2,59 3,8 26,2 9 311,2 102 Escazú 2,45 3,6 29,8 70 899,7 210 San Carlos 2,37 3,5 33,3 707,5 109 Santa Ana 2,33 3,4 36,7 37 946,5 601 Puntarenas 2,11 3,1 39,8 1 144,4 503 Santa Cruz 1,98 2,9 42,7 1 498,4 118 Curridabat 1,62 2,4 45,1 100 286,8 702 Pococí 1,47 2,2 47,2 617,4 501 Liberia 1,45 2,1 49,4 1 006,0 119 Pérez Zeledón 1,40 2,1 51,4 734,1 203 Grecia 1,36 2,0 53,4 3 418,5 115 Montes de Oca 1,36 2,0 55,4 87 225,8 701 Limón 1,34 2,0 57,4 761,1 407 Belén 1,19 1,7 59,1 95 349,8 502 Nicoya 1,09 1,6 60,7 821,9 202 San Ramón 1,07 1,6 62,3 1 048,9 108 Goicoechea 1,01 1,5 63,8 31 997,9 611 Garabito 0,98 1,4 65,2 3 139,7 303 La Unión 0,97 1,4 66,7 21 759,3 403 Santo Domingo 0,95 1,4 68,1 37 724,5 603 Buenos Aires 0,93 1,4 69,4 392,2 103 Desamparados 0,90 1,3 70,8 7 557,1 505 Carrillo 0,90 1,3 72,1 1 500,8 113 Tibás 0,86 1,3 73,3 102 938,6 507 Abangares 0,81 1,2 74,5 1 259,1 308 El Guarco 0,69 1,0 75,5 3 993,7 605 Osa 0,68 1,0 76,5 364,0 110 Alajuelita 0,66 1,0 77,5 30 668,5 506 Cañas 0,65 1,0 78,5 952,4 410 Sarapiquí 0,62 0,9 79,4 290,3 606 Quepos 0,61 0,9 80,3 1 105,7 302 Paraíso 0,58 0,8 81,1 1 210,3 602 Esparza 0,58 0,8 82,0 2 660,3 409 San Pablo 0,57 0,8 82,8 67 393,6 405 San Rafael 0,49 0,7 83,5 10 226,6 607 Golfito 0,45 0,7 84,2 260,7 114 Moravia 0,44 0,7 84,9 15 260,6 402 Barva 0,42 0,6 85,5 7 560,2 209 Orotina 0,42 0,6 86,1 2 859,4 305 Turrialba 0,41 0,6 86,7 255,8 213 Upala 0,40 0,6 87,3 254,3 207 Palmares 0,40 0,6 87,9 10 263,4 408 Flores 0,39 0,6 88,5 58 561,6 504 Bagaces 0,39 0,6 89,0 304,2 206 Naranjo 0,38 0,6 89,6 3 008,6 609 Parrita 0,38 0,6 90,1 796,7 703 Siquirres 0,37 0,5 90,7 437,4 704 Talamanca 0,33 0,5 91,2 117,6 107 Mora 0,33 0,5 91,7 2 023,2 307 Oreamuno 0,33 0,5 92,1 1 618,9 205 Atenas 0,32 0,5 92,6 2 509,8 706 Guacimo 0,31 0,5 93,1 533,2 406 San Isidro 0,29 0,4 93,5 11 100,3 705 Matina 0,29 0,4 93,9 379,0 610 Corredores 0,28 0,4 94,3 444,9 608 Coto Brus 0,28 0,4 94,7 292,2 111 Vázquez de Coronado 0,27 0,4 95,1 1 190,7 106 Aserrí 0,25 0,4 95,5 1 521,3 510 La Cruz 0,25 0,4 95,9 178,2 404 Santa Barbara 0,24 0,4 96,2 4 609,2 104 Puriscal 0,23 0,3 96,6 421,4 208 Poas 0,23 0,3 96,9 3 083,4 214 Los Chiles 0,22 0,3 97,2 165,6 215 Guatuso 0,20 0,3 97,5 261,5 508 Tilarán 0,18 0,3 97,8 266,8 105 Tarrazú 0,16 0,2 98,0 545,5 204 San Mateo 0,16 0,2 98,2 1 264,8 112 Acosta 0,15 0,2 98,5 446,3 511 Hojancha 0,14 0,2 98,7 539,7 211 Zarcero 0,14 0,2 98,9 873,3 212 Sarchí 0,12 0,2 99,1 896,1 306 Alvarado 0,12 0,2 99,2 1 523,7 304 Jiménez 0,10 0,2 99,4 412,3 509 Nandayure 0,10 0,1 99,5 171,0 116 Turrubares 0,10 0,1 99,7 229,6 604 Montes de Oro 0,08 0,1 99,8 322,8 120 León Cortes 0,07 0,1 99,9 608,8 117 Dota 0,07 0,1 100,0 164,1 216 Rio Cuarto 0,01 0,0 100,0 33,7"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 27,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           23"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 28,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           24"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Comercial"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 29,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           25"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Industrial"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Urbanístico"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 30,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           26"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 31,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           27"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Cuadro 11 Costa Rica: Tasa de crecimiento anual de los metros cuadrados de construcción , según cantón y tipo de obra. 2019-2020 (efecto COVID-19) Código Nombre Total Habitacional Comercial Industrial Urbanístico 101 SAN JOSÉ -34,7 -47,0 -4,6 -50,8 6,4 102 ESCAZU -25,8 -44,7 -73,4 2 313,9 292,7 103 DESAMPARADOS -34,2 -0,7 -47,0 -53,2 -98,0 104 PURISCAL 17,6 7,7 11,9 268,7 334,0 105 TARRAZU 28,0 40,8 51,8 -63,4 367,6 106 ASERRI -59,1 6,4 27,0 -90,1 -98,6 107 MORA -29,4 -30,4 -55,6 129,5 -57,5 108 GOICOECHEA -27,0 -57,3 5,4 -74,0 -70,7 109 SANTA ANA -74,4 -58,5 -73,2 123,8 -94,6 110 ALAJUELITA -78,4 15,7 -65,2 -99,6 121,8 111 VÁZQUEZ DE CORONADO 23,8 -6,8 262,8 -53,1 -95,3 112 ACOSTA -53,4 18,1 -45,9 -65,6 1 626,4 113 TIBAS -60,9 -18,7 -14,6 27,9 -86,2 114 MORAVIA 8,1 -53,7 30,1 -32,3 1 348,5 115 MONTES DE OCA -81,0 -59,0 -91,0 -77,5 2,3 116 TURRUBARES 164,1 -26,2 216,6 8 834,4 117 DOTA -6,8 25,1 -24,1 -37,4 -93,0 118 CURRIDABAT -6,7 -29,8 -17,6 83,0 50,8 119 PEREZ ZELEDON -24,4 -14,1 -15,3 -66,0 -21,3 120 LEON CORTES -7,6 8,3 33,0 -82,3 201 ALAJUELA 7,1 -31,0 32,5 53,4 38,1 202 SAN RAMÓN 42,4 -16,7 -38,2 147,4 206,4 203 GRECIA -33,6 -42,6 -42,8 -55,1 0,9 204 SAN MATEO -61,1 -20,4 -88,9 -69,5 -71,0 205 ATENAS 30,3 3,3 -29,7 -48,2 100,2 206 NARANJO 6,6 26,9 -58,2 -8,6 174,3 207 PALMARES -52,5 8,2 -63,3 -15,4 -89,7 208 POAS 10,0 11,4 199,4 -17,4 -93,4 209 OROTINA -29,3 23,7 159,5 72,3 210 SAN CARLOS -22,1 -9,1 57,8 -60,3 -98,9 211 ZARCERO -41,9 -5,3 -27,2 -74,6 267,2 212 SARCHI -48,1 -3,0 -48,5 130,6 -96,9 213 UPALA -25,4 -5,5 -60,4 -35,3 -88,7 214 LOS CHILES -12,4 -23,5 20,4 -63,7 215 GUATUSO -75,5 -11,3 206,1 297,4"
+      }
+    ],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 32,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           28"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Código Nombre Total Habitacional Comercial Industrial Urbanístico 301 CARTAGO -4,0 26,4 32,8 179,8 -88,8 302 PARAISO 273,1 7,6 -25,8 4 090,2 5 814,0 303 LA UNION -23,5 -32,0 79,8 -94,0 -67,7 304 JIMENEZ -9,6 -16,2 173,2 -8,2 305 TURRIALBA 82,2 -27,3 6,6 52,1 537,6 306 ALVARADO -7,7 -0,6 -43,9 138,8 307 OREAMUNO -0,9 8,9 -22,5 40,6 7,5 308 EL GUARCO -66,1 -63,6 -51,4 -32,9 -95,6 401 HEREDIA -36,4 -49,2 -39,9 -75,5 -15,4 402 BARVA -1,8 -8,4 -46,1 -78,0 1 894,8 403 SANTO DOMINGO -30,6 -56,2 63,7 -85,5 -65,6 404 SANTA BARBARA -18,7 -22,4 -72,7 58,1 9 215,3 405 SAN RAFAEL -17,4 -17,2 -47,9 -37,1 417,8 406 SAN ISIDRO -49,8 -20,2 -44,6 -95,5 -92,8 407 BELEN -73,7 -59,5 -81,7 -33,8 -95,2 408 FLORES -28,9 -26,4 -57,1 -60,7 -47,9 409 SAN PABLO -2,8 -8,5 -25,2 -91,2 2 936,3 410 SARAPIQUI -80,5 -17,9 -74,1 27,5 -99,6 501 LIBERIA 55,0 -59,3 61,3 -53,6 379,9 502 NICOYA -56,8 15,6 40,9 -51,1 -78,8 503 SANTA CRUZ -44,3 -0,3 -37,3 -34,0 -63,2 504 BAGACES 140,2 -0,1 51,3 -83,0 505 CARRILLO -23,5 -47,4 29,7 -51,3 -96,0 506 CAÑAS 10,8 -29,1 132,5 525,3 -98,1 507 ABANGARES 7,7 10,0 -49,6 104,5 508 TILARAN 37,9 -14,0 6,9 -84,5 509 NANDAYURE -37,6 -8,6 128,3 -90,2 510 LA CRUZ -58,2 -49,8 12,1 33,3 511 HOJANCHA -53,3 57,0 -16,2 -39,9 601 PUNTARENAS -12,2 -41,3 -47,6 -1,4 -81,1 602 ESPARZA 219,0 51,3 414,1 775,7 -8,1 603 BUENOS AIRES -13,2 -13,7 16,4 57,5 -55,7 604 MONTES DE ORO -38,3 10,4 26,4 -68,0 605 OSA 8,8 -23,7 -42,8 -15,2 4 864,2 606 QUEPOS -54,1 -28,7 -31,9 138,6 -65,9 607 GOLFITO -60,2 -24,5 -49,1 -53,8 -92,7 608 COTO BRUS -29,7 -27,6 -49,5 26,5 -81,2 609 PARRITA 17,3 -34,8 -42,6 -4,9 78,6 610 CORREDORES 33,7 -19,5 74,7 368,5 115,6"
+      }
+    ],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 33,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           29"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Código Nombre Total Habitacional Comercial Industrial Urbanístico 611 GARABITO -46,8 -25,3 0,0 10,3 -96,4 701 LIMON 17,1 -16,8 26,4 -76,3 -52,3 702 POCOCÍ -9,1 0,7 -29,6 18,0 773,0 703 SIQUIRRES -63,9 35,6 -32,7 -87,5 704 TALAMANCA -5,0 -2,7 9,1 -86,7 705 MATINA 48,3 -9,8 -26,0 -16,9 -71,6 706 GUACIMO -4,8 16,7 -6,0 -37,1 -84,1"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 34,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           30"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 35,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           31"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 36,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           32"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 37,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           33"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CCP-UCR-INEC, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 38,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           34"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CCP-UCR-INEC, 2021. 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050 San Isidro del General Quesada Turrialba Liberia Puntarenas Limón Guápiles Evolución de la población (verde=crecimiento) (rojo= decrecimiento) Ciudad intermedia / año"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 39,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           35"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 40,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           36"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Quesada"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Elaboración propia con datos del CFIA."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Guápiles"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Elaboración propia con datos del CFIA."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 41,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           37"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "San Isidro de El General"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Elaboración propia con datos del CFIA."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Elaboración propia con datos del CFIA."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 42,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           38"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 43,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           39"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021. Nombre Área construida (m2) Porcentaje respecto al total de ciudades intermedias Porcentaje respecto al país Posición respecto a todos los distritos San Isidro del General 544 297 12,0% 0,80% 32 Quesada 684 909 15,0% 1,01% 21 Turrialba 236 513 5,2% 0,35% 81 Liberia 1 083 456 23,8% 1,59% 11 Puntarenas 232 520 5,1% 0,34% 84 Limón 1 131 483 24,9% 1,66% 9 Guápiles 639 643 14,0% 0,94% 24"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 44,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           40"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 45,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           41"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 46,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           42"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Ciudad intermedia Apartamentos Casas Casas de interés social Condominio Guápiles 2,1% 18,9% 7,5% 0,5% Liberia 1,5% 13,8% 3,7% 1,8% Limón 2,6% 6,4% 2,4% 1,2% Puntarenas 2,9% 8,4% 3,9% 2,6% Quesada 2,1% 18,3% 4,9% 1,4% San Isidro del General 2,0% 22,1% 14,9% 0,0% Turrialba 2,0% 23,8% 15,6% 0,0% País 4,3% 20,3% 5,9% 10,4%"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 47,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           43"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Ciudad intermedia Carreteras Puentes Acueductos Centros educativos públicos Guápiles 17,3% 0,2% 0,0% 0,1% Liberia 46,2% 0,2% 0,1% 0,0% Limón 40,0% 7,2% 0,0% 0,1% Puntarenas 11,6% 0,0% 0,0% 5,1% Quesada 20,0% 0,1% 0,0% 0,2% San Isidro del General 18,9% 0,1% 1,4% 1,6% Turrialba 0,7% 0,0% 0,0% 0,0% País 13,5% 0,5% 0,2% 0,2%"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 48,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           44"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Ciudad intermedia Bodegas Edificios Locales Oficinas Guápiles 5,9% 2,8% 21,0% 1,0% Liberia 1,6% 1,2% 16,4% 1,0% Limón 4,6% 1,4% 12,2% 1,1% Puntarenas 13,4% 4,9% 23,4% 2,7% Quesada 4,3% 2,3% 22,3% 2,8% San Isidro del General 2,1% 1,8% 14,3% 1,4% Turrialba 1,4% 2,3% 22,4% 0,8% País 7,1% 2,3% 16,8% 2,8%"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 49,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           45"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Nombre 2014-2015 2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 Guápiles 25,38 39,50 10,83 60,30 -62,18 -9,90 Liberia 14,36 239,50 -76,35 178,40 -52,40 169,50 Limón -72,68 55,30 -65,59 62,10 -50,85 24,50 Puntarenas 340,10 -17,20 38,39 -28,20 15,49 -68,70 Quesada 211,74 -50,00 -25,25 -3,60 45,00 -26,00 San Isidro del General 87,80 -38,50 58,01 8,80 19,47 -38,00 Turrialba -0,22 -3,60 5,01 -24,90 -1,63 179,50 País 14,25 13,12 -2,15 4,33 6,82 -26,54 Nombre Comercial Habitacional Industrial Urbanístico Guápiles -43,9 4,5 16,8 786,6 Liberia -54,8 -54,6 -73,4 5 221,0 Limón -11,5 -16,6 57,7 -98,2 Puntarenas -88,4 -71,5 409,2 -100,0 Quesada 50,7 -8,6 -87,4 -100,0 San Isidro del General -52,2 -7,2 -91,9 -40,0 Turrialba -20,5 -7,6 1 623,1 203 500,0"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 50,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           46"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 51,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           47"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos de CFIA, 2021."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 52,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           48"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Quesada"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Limón"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Guápiles"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 53,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           49"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "San Isidro del General"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Puntarenas"
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Ciudades intermedias Cantidad de planos Área (m2) Promedio Guápiles 909 12 318 021 13 551 Liberia 1072 76 322 648 71 197 Limón 908 2 199 165 2 422 Puntarenas 64 37 501 586 Quesada 1197 6 672 267 5 574 San Isidro del General 1477 5 471 262 3 704 Turrialba 285 2 051 596 7 199"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 54,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           50"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Costa Rica Zona Costera/ Costa Rica Población (2021) 544 254 5 163 021 0,11 Área (km 2) 13 752 51 100 0,27 Densidad (hab/ km2) 39,6 101,0 0,39 Fuente: Elaboración propia con datos del INEC y CCP-UCR."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 55,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           51"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 56,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           52"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 57,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           53"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021. Canton Distrito costero Area (m2) Porcentaje Porcentaje acumulado LIMON LIMON 1 131 483 12,2% 12,2% GARABITO JACO 775 214 8,3% 20,5% CARRILLO SARDINAL 662 926 7,1% 27,7% QUEPOS QUEPOS 479 662 5,2% 32,8% SANTA CRUZ CABO VELAS 470 878 5,1% 37,9% NICOYA NOSARA 469 367 5,1% 43,0% SANTA CRUZ TAMARINDO 431 916 4,7% 47,6% PARRITA PARRITA 376 612 4,1% 51,7% OSA BAHIA BALLENA 262 299 2,8% 54,5% LIBERIA NACASCOLO 239 615 2,6% 57,1% PUNTARENAS PUNTARENAS 232 520 2,5% 59,6% OSA PUERTO CORTES 230 691 2,5% 62,1% SANTA CRUZ CUAJINIQUIL 229 867 2,5% 64,5% NICOYA SAMARA 226 902 2,4% 67,0% SANTA CRUZ TEMPATE 225 598 2,4% 69,4% SANTA CRUZ VEINTISIETE DE ABRIL 206 748 2,2% 71,6% GARABITO TARCOLES 203 503 2,2% 73,8% GOLFITO GOLFITO 194 471 2,1% 75,9% ESPARZA ESPIRITU SANTO 188 514 2,0% 77,9% SIQUIRRES SIQUIRRES 175 574 1,9% 79,8% LA CRUZ LA CRUZ 169 722 1,8% 81,7% ESPARZA SAN JUAN GRANDE 159 274 1,7% 83,4% TALAMANCA CAHUITA 140 247 1,5% 84,9% MATINA BATAN 135 385 1,5% 86,4% GOLFITO PUERTO JIMENEZ 129 681 1,4% 87,7% PUNTARENAS PAQUERA 99 892 1,1% 88,8% QUEPOS SAVEGRE 96 029 1,0% 89,9% LIMON RIO BLANCO 95 519 1,0% 90,9% MATINA MATINA 93 866 1,0% 91,9% PUNTARENAS CHACARITA 86 233 0,9% 92,8% HOJANCHA PUERTO CARRILLO 69 110 0,7% 93,6% TALAMANCA SIXAOLA 63 772 0,7% 94,3% PUNTARENAS LEPANTO 58 041 0,6% 94,9% LIMON MATAMA 56 335 0,6% 95,5% ABANGARES COLORADO 54 617 0,6% 96,1% NANDAYURE BEJUCO 45 788 0,5% 96,6% GOLFITO PAVON 45 589 0,5% 97,1% SIQUIRRES PACUARITO 41 731 0,4% 97,5% OSA SIERPE 36 863 0,4% 97,9% LA CRUZ SANTA ELENA 35 782 0,4% 98,3% PUNTARENAS CHOMES 26 976 0,3% 98,6% NICOYA QUEBRADA HONDA 26 114 0,3% 98,9% NICOYA MANSION 26 014 0,3% 99,1% PUNTARENAS PITAHAYA 20 715 0,2% 99,4% POCOCÍ COLORADO 20 087 0,2% 99,6% LIMON VALLE DE LA ESTRELLA 18 618 0,2% 99,8% NANDAYURE ZAPOTAL 8 516 0,1% 99,9% OSA BAHIA DRAKE 7 541 0,1% 100,0% PUNTARENAS MANZANILLO 4 049 0,0% 100,0% 9 286 461 100,0%Total distritos costeros"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 58,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           54"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA. Canton Distrito Área (m2) Porcentaje Porcentaje acumulado GARABITO JACO 333 457 10,30% 10,30% SANTA CRUZ TAMARINDO 259 392 8,01% 18,31% CARRILLO SARDINAL 208 766 6,45% 24,75% NICOYA NOSARA 181 062 5,59% 30,35% OSA BAHIA BALLENA 177 744 5,49% 35,83% PARRITA PARRITA 154 188 4,76% 40,60% LIMON LIMON 142 844 4,41% 45,01% QUEPOS QUEPOS 136 785 4,22% 49,23% SANTA CRUZ CABO VELAS 123 757 3,82% 53,05% SANTA CRUZ TEMPATE 120 156 3,71% 56,76% GARABITO TARCOLES 109 970 3,40% 60,16% SANTA CRUZ VEINTISIETE DE ABRIL 104 625 3,23% 63,39% TALAMANCA CAHUITA 90 941 2,81% 66,20% SIQUIRRES SIQUIRRES 83 720 2,59% 68,78% OSA PUERTO CORTES 81 285 2,51% 71,29% LIBERIA NACASCOLO 69 894 2,16% 73,45% PUNTARENAS PAQUERA 68 007 2,10% 75,55% LA CRUZ LA CRUZ 64 146 1,98% 77,53% GOLFITO PUERTO JIMENEZ 57 842 1,79% 79,32% NICOYA SAMARA 49 700 1,53% 80,85% ESPARZA ESPIRITU SANTO 48 258 1,49% 82,34% QUEPOS SAVEGRE 46 823 1,45% 83,79% SANTA CRUZ CUAJINIQUIL 44 108 1,36% 85,15% PUNTARENAS PUNTARENAS 42 674 1,32% 86,47% MATINA BATAN 42 165 1,30% 87,77% GOLFITO GOLFITO 36 668 1,13% 88,90% GOLFITO PAVON 31 778 0,98% 89,88% ESPARZA SAN JUAN GRANDE 30 302 0,94% 90,82% PUNTARENAS LEPANTO 26 313 0,81% 91,63% MATINA MATINA 25 205 0,78% 92,41% LIMON MATAMA 24 948 0,77% 93,18% NANDAYURE BEJUCO 24 077 0,74% 93,92% TALAMANCA SIXAOLA 22 347 0,69% 94,61% HOJANCHA PUERTO CARRILLO 21 664 0,67% 95,28% ABANGARES COLORADO 20 071 0,62% 95,90% PUNTARENAS CHACARITA 18 219 0,56% 96,47% NICOYA MANSION 15 625 0,48% 96,95% LIMON RIO BLANCO 13 895 0,43% 97,38% LIMON VALLE DE LA ESTRELLA 11 853 0,37% 97,74% LA CRUZ SANTA ELENA 11 029 0,34% 98,08% PUNTARENAS CHOMES 10 598 0,33% 98,41% SIQUIRRES PACUARITO 10 070 0,31% 98,72% PUNTARENAS PITAHAYA 8 968 0,28% 99,00% OSA SIERPE 8 488 0,26% 99,26% NICOYA QUEBRADA HONDA 7 995 0,25% 99,51% NANDAYURE ZAPOTAL 6 475 0,20% 99,71% POCOCÍ COLORADO 4 882 0,15% 99,86% OSA BAHIA DRAKE 2 738 0,08% 99,94% PUNTARENAS MANZANILLO 1 826 0,06% 100,00% 3 238 341 100%Total distritos costeros"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 59,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           55"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021. Canton Distrito Área (m2) Porcentaje Porcentaje acumulado LIMON LIMON 156 878 13,4% 13,4% QUEPOS QUEPOS 120 661 10,3% 23,7% CARRILLO SARDINAL 85 104 7,3% 31,0% GARABITO JACO 78 971 6,7% 37,7% PUNTARENAS PUNTARENAS 62 474 5,3% 43,0% GOLFITO GOLFITO 58 762 5,0% 48,0% ESPARZA ESPIRITU SANTO 51 925 4,4% 52,5% SANTA CRUZ TAMARINDO 47 129 4,0% 56,5% SIQUIRRES SIQUIRRES 39 725 3,4% 59,9% PARRITA PARRITA 34 494 2,9% 62,8% NICOYA NOSARA 30 231 2,6% 65,4% GOLFITO PUERTO JIMENEZ 28 278 2,4% 67,8% SANTA CRUZ VEINTISIETE DE ABRIL 27 954 2,4% 70,2% SANTA CRUZ TEMPATE 26 750 2,3% 72,5% SANTA CRUZ CABO VELAS 26 392 2,3% 74,7% MATINA MATINA 25 098 2,1% 76,9% LIBERIA NACASCOLO 25 020 2,1% 79,0% LA CRUZ LA CRUZ 25 020 2,1% 81,2% OSA BAHIA BALLENA 23 725 2,0% 83,2% TALAMANCA CAHUITA 19 916 1,7% 84,9% LIMON RIO BLANCO 18 339 1,6% 86,4% OSA PUERTO CORTES 16 942 1,4% 87,9% MATINA BATAN 15 055 1,3% 89,2% PUNTARENAS LEPANTO 13 358 1,1% 90,3% GARABITO TARCOLES 12 341 1,1% 91,4% NICOYA SAMARA 10 282 0,9% 92,3% ESPARZA SAN JUAN GRANDE 9 415 0,8% 93,1% ABANGARES COLORADO 7 932 0,7% 93,7% SIQUIRRES PACUARITO 7 384 0,6% 94,4% PUNTARENAS PAQUERA 6 789 0,6% 94,9% LA CRUZ SANTA ELENA 6 714 0,6% 95,5% PUNTARENAS CHACARITA 5 733 0,5% 96,0% QUEPOS SAVEGRE 5 342 0,5% 96,5% NICOYA MANSION 4 710 0,4% 96,9% PUNTARENAS CHOMES 4 492 0,4% 97,2% TALAMANCA SIXAOLA 4 176 0,4% 97,6% NANDAYURE BEJUCO 3 729 0,3% 97,9% POCOCÍ COLORADO 3 657 0,3% 98,2% SANTA CRUZ CUAJINIQUIL 3 288 0,3% 98,5% NICOYA QUEBRADA HONDA 3 157 0,3% 98,8% GOLFITO PAVON 3 046 0,3% 99,0% PUNTARENAS PITAHAYA 2 561 0,2% 99,3% HOJANCHA PUERTO CARRILLO 2 020 0,2% 99,4% OSA SIERPE 1 936 0,2% 99,6% LIMON VALLE DE LA ESTRELLA 1 369 0,1% 99,7% PUNTARENAS MANZANILLO 1 319 0,1% 99,8% OSA BAHIA DRAKE 852 0,1% 99,9% NANDAYURE ZAPOTAL 702 0,1% 100,0% LIMON MATAMA 470 0,0% 100,0% 1 171 617 100%Total distritos costeros"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 60,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           56"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA. Canton Distrito Área (m2) Porcentaje Porcentaje acumulado LIMON LIMON 119 263 26,6% 26,6% ESPARZA ESPIRITU SANTO 35 431 7,9% 34,5% PUNTARENAS PUNTARENAS 32 076 7,2% 41,7% SIQUIRRES SIQUIRRES 31 545 7,0% 48,7% LIMON RIO BLANCO 27 901 6,2% 54,9% QUEPOS QUEPOS 16 963 3,8% 58,7% SANTA CRUZ TAMARINDO 13 811 3,1% 61,8% CARRILLO SARDINAL 13 379 3,0% 64,8% MATINA BATAN 12 174 2,7% 67,5% PARRITA PARRITA 11 900 2,7% 70,2% GARABITO JACO 10 931 2,4% 72,6% SIQUIRRES PACUARITO 10 690 2,4% 75,0% LA CRUZ LA CRUZ 10 077 2,2% 77,2% NICOYA NOSARA 9 389 2,1% 79,3% OSA PUERTO CORTES 6 931 1,5% 80,9% ESPARZA SAN JUAN GRANDE 6 618 1,5% 82,3% TALAMANCA CAHUITA 6 337 1,4% 83,8% ABANGARES COLORADO 6 094 1,4% 85,1% MATINA MATINA 5 548 1,2% 86,4% SANTA CRUZ VEINTISIETE DE ABRIL 4 939 1,1% 87,5% SANTA CRUZ TEMPATE 4 660 1,0% 88,5% LIBERIA NACASCOLO 4 424 1,0% 89,5% SANTA CRUZ CABO VELAS 4 308 1,0% 90,5% TALAMANCA SIXAOLA 4 132 0,9% 91,4% OSA BAHIA BALLENA 4 048 0,9% 92,3% PUNTARENAS LEPANTO 3 619 0,8% 93,1% NANDAYURE BEJUCO 3 473 0,8% 93,9% GOLFITO GOLFITO 2 861 0,6% 94,5% GARABITO TARCOLES 2 772 0,6% 95,1% PUNTARENAS CHOMES 2 520 0,6% 95,7% SANTA CRUZ CUAJINIQUIL 2 438 0,5% 96,2% NICOYA MANSION 2 190 0,5% 96,7% NICOYA SAMARA 2 037 0,5% 97,2% GOLFITO PUERTO JIMENEZ 1 979 0,4% 97,6% LIMON VALLE DE LA ESTRELLA 1 846 0,4% 98,0% PUNTARENAS PAQUERA 1 753 0,4% 98,4% QUEPOS SAVEGRE 1 440 0,3% 98,7% NICOYA QUEBRADA HONDA 1 402 0,3% 99,0% POCOCÍ COLORADO 1 046 0,2% 99,3% HOJANCHA PUERTO CARRILLO 737 0,2% 99,4% GOLFITO PAVON 507 0,1% 99,6% PUNTARENAS CHACARITA 430 0,1% 99,6% PUNTARENAS PITAHAYA 394 0,1% 99,7% LA CRUZ SANTA ELENA 349 0,1% 99,8% LIMON MATAMA 312 0,1% 99,9% NANDAYURE ZAPOTAL 282 0,1% 99,9% OSA SIERPE 150 0,0% 100,0% OSA BAHIA DRAKE 42 0,0% 100,0% PUNTARENAS MANZANILLO 41 0,0% 100,0% 448 189 100%Total distritos costeros"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 61,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           57"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA. Canton Distrito Área (m2) Porcentaje Porcentaje acumulado CARRILLO SARDINAL 133 661 32,2% 32,2% SANTA CRUZ CABO VELAS 66 610 16,1% 48,3% LIBERIA NACASCOLO 57 954 14,0% 62,2% GARABITO JACO 31 966 7,7% 69,9% QUEPOS QUEPOS 21 824 5,3% 75,2% NICOYA NOSARA 13 398 3,2% 78,4% LA CRUZ LA CRUZ 9 950 2,4% 80,8% SANTA CRUZ TAMARINDO 9 746 2,3% 83,2% PUNTARENAS PUNTARENAS 8 600 2,1% 85,2% TALAMANCA CAHUITA 7 812 1,9% 87,1% HOJANCHA PUERTO CARRILLO 6 287 1,5% 88,6% GOLFITO GOLFITO 6 078 1,5% 90,1% SANTA CRUZ TEMPATE 5 457 1,3% 91,4% GOLFITO PUERTO JIMENEZ 4 316 1,0% 92,4% PARRITA PARRITA 3 871 0,9% 93,4% NICOYA SAMARA 3 607 0,9% 94,2% OSA BAHIA BALLENA 3 589 0,9% 95,1% OSA PUERTO CORTES 2 645 0,6% 95,7% POCOCÍ COLORADO 2 528 0,6% 96,4% SANTA CRUZ VEINTISIETE DE ABRIL 2 143 0,5% 96,9% OSA SIERPE 1 966 0,5% 97,3% OSA BAHIA DRAKE 1 925 0,5% 97,8% QUEPOS SAVEGRE 1 540 0,4% 98,2% LIMON LIMON 1 201 0,3% 98,5% TALAMANCA SIXAOLA 1 148 0,3% 98,7% SIQUIRRES SIQUIRRES 1 128 0,3% 99,0% SANTA CRUZ CUAJINIQUIL 895 0,2% 99,2% ESPARZA SAN JUAN GRANDE 582 0,1% 99,4% PUNTARENAS PAQUERA 505 0,1% 99,5% PUNTARENAS LEPANTO 447 0,1% 99,6% MATINA MATINA 335 0,1% 99,7% NANDAYURE BEJUCO 334 0,1% 99,8% ABANGARES COLORADO 264 0,1% 99,8% GARABITO TARCOLES 253 0,1% 99,9% PUNTARENAS CHOMES 202 0,0% 99,9% GOLFITO PAVON 195 0,0% 100,0% ESPARZA ESPIRITU SANTO 50 0,0% 100,0% LA CRUZ SANTA ELENA 0 0,0% 100,0% LIMON MATAMA 0 0,0% 100,0% LIMON RIO BLANCO 0 0,0% 100,0% LIMON VALLE DE LA ESTRELLA 0 0,0% 100,0% MATINA BATAN 0 0,0% 100,0% NANDAYURE ZAPOTAL 0 0,0% 100,0% NICOYA MANSION 0 0,0% 100,0% NICOYA QUEBRADA HONDA 0 0,0% 100,0% PUNTARENAS CHACARITA 0 0,0% 100,0% PUNTARENAS MANZANILLO 0 0,0% 100,0% PUNTARENAS PITAHAYA 0 0,0% 100,0% SIQUIRRES PACUARITO 0 0,0% 100,0% 415 012 100%Total distritos costeros"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 62,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           58"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA. Canton Distrito Área (m2) Porcentaje Porcentaje acumulado SIQUIRRES SIQUIRRES 49 444 9,6% 9,6% PARRITA PARRITA 35 668 6,9% 16,5% MATINA BATAN 33 003 6,4% 22,9% LIMON LIMON 26 775 5,2% 28,1% GOLFITO PUERTO JIMENEZ 24 316 4,7% 32,8% OSA PUERTO CORTES 19 070 3,7% 36,4% CARRILLO SARDINAL 18 020 3,5% 39,9% LIMON MATAMA 16 505 3,2% 43,1% LA CRUZ LA CRUZ 16 412 3,2% 46,3% MATINA MATINA 15 376 3,0% 49,3% GOLFITO GOLFITO 14 301 2,8% 52,1% SANTA CRUZ VEINTISIETE DE ABRIL 12 586 2,4% 54,5% PUNTARENAS PAQUERA 12 550 2,4% 56,9% ABANGARES COLORADO 11 395 2,2% 59,1% PUNTARENAS LEPANTO 11 220 2,2% 61,3% PUNTARENAS CHACARITA 10 816 2,1% 63,4% LIMON VALLE DE LA ESTRELLA 10 698 2,1% 65,5% ESPARZA ESPIRITU SANTO 10 340 2,0% 67,5% SANTA CRUZ TEMPATE 9 497 1,8% 69,3% SANTA CRUZ TAMARINDO 9 486 1,8% 71,1% GOLFITO PAVON 9 331 1,8% 72,9% PUNTARENAS PUNTARENAS 8 971 1,7% 74,7% LA CRUZ SANTA ELENA 8 853 1,7% 76,4% QUEPOS QUEPOS 8 655 1,7% 78,1% QUEPOS SAVEGRE 8 240 1,6% 79,7% GARABITO TARCOLES 8 212 1,6% 81,3% PUNTARENAS CHOMES 7 949 1,5% 82,8% TALAMANCA CAHUITA 7 486 1,4% 84,2% PEREZ ZELEDON BARU 7 412 1,4% 85,7% PUNTARENAS PITAHAYA 7 385 1,4% 87,1% TALAMANCA SIXAOLA 6 900 1,3% 88,4% SIQUIRRES PACUARITO 6 046 1,2% 89,6% OSA BAHIA BALLENA 5 894 1,1% 90,8% NICOYA MANSION 5 766 1,1% 91,9% OSA SIERPE 5 504 1,1% 92,9% LIMON RIO BLANCO 5 213 1,0% 94,0% NANDAYURE BEJUCO 4 542 0,9% 94,8% NICOYA NOSARA 4 268 0,8% 95,7% NICOYA QUEBRADA HONDA 3 977 0,8% 96,4% NICOYA SAMARA 3 220 0,6% 97,0% ESPARZA SAN JUAN GRANDE 3 132 0,6% 97,7% GARABITO JACO 2 655 0,5% 98,2% HOJANCHA PUERTO CARRILLO 2 023 0,4% 98,6% NANDAYURE ZAPOTAL 1 854 0,4% 98,9% SANTA CRUZ CABO VELAS 1 394 0,3% 99,2% PUNTARENAS MANZANILLO 1 358 0,3% 99,5% LIBERIA NACASCOLO 1 345 0,3% 99,7% POCOCÍ COLORADO 690 0,1% 99,8% SANTA CRUZ CUAJINIQUIL 655 0,1% 100,0% OSA BAHIA DRAKE 132 0,0% 100,0% 516 539 100%Total distritos costeros"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 63,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           59"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos Google Earth, 2020."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 64,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           60"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 65,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           61"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos Google Earth, 2020."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 66,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           62"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 67,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           63"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021. Canton Distrito Area construid a 2019 Area construid a 2020 Tasa de crecimiento absoluta Tasa de crecimiento relativa SANTA CRUZ CABO VELAS 258 427 28 254 -230 173 -89,1% NICOYA NOSARA 261 659 54 989 -206 670 -79,0% LIBERIA NACASCOLO 114 332 8 749 -105 583 -92,3% QUEPOS QUEPOS 129 269 31 954 -97 315 -75,3% GARABITO JACO 117 295 64 506 -52 789 -45,0% PUNTARENAS CHACARITA 51 019 2 203 -48 816 -95,7% GOLFITO GOLFITO 49 998 9 794 -40 204 -80,4% SANTA CRUZ TAMARINDO 102 015 68 379 -33 636 -33,0% PUNTARENAS PUNTARENAS 41 926 13 125 -28 801 -68,7% GARABITO TARCOLES 48 440 23 665 -24 775 -51,1% HOJANCHA PUERTO CARRILLO 27 992 3 334 -24 658 -88,1% CARRILLO SARDINAL 165 979 141 557 -24 422 -14,7% LA CRUZ SANTA ELENA 17 919 1 006 -16 913 -94,4% PUNTARENAS PAQUERA 22 279 8 097 -14 182 -63,7% SANTA CRUZ VEINTISIETE DE ABRIL 31 639 22 926 -8 713 -27,5% SANTA CRUZ TEMPATE 33 768 25 085 -8 683 -25,7% TALAMANCA CAHUITA 26 848 19 605 -7 243 -27,0% NANDAYURE BEJUCO 12 216 5 936 -6 280 -51,4% GOLFITO PUERTO JIMENEZ 13 093 9 369 -3 724 -28,4% LA CRUZ LA CRUZ 14 844 11 985 -2 859 -19,3% ABANGARES COLORADO 4 263 2 209 -2 054 -48,2% SIQUIRRES PACUARITO 5 793 3 812 -1 981 -34,2% PUNTARENAS MANZANILLO 1 502 388 -1 114 -74,2% OSA SIERPE 2 790 1 840 -950 -34,1% TALAMANCA SIXAOLA 4 115 3 438 -677 -16,5% NANDAYURE ZAPOTAL 2 107 1 503 -604 -28,7% PUNTARENAS PITAHAYA 1 616 1 230 -386 -23,9% PUNTARENAS CHOMES 4 539 4 281 -258 -5,7% PUNTARENAS LEPANTO 9 914 9 710 -204 -2,1% SIQUIRRES SIQUIRRES 17 141 17 006 -135 -0,8% GOLFITO PAVON 5 103 4 989 -114 -2,2% LIMON MATAMA 5 154 5 345 191 3,7% NICOYA MANSION 4 002 4 287 285 7,1% LIMON RIO BLANCO 18 798 19 285 487 2,6% MATINA BATAN 8 241 9 260 1 019 12,4% OSA BAHIA DRAKE 1 219 2 842 1 623 133,1% NICOYA SAMARA 12 455 15 532 3 078 24,7% OSA BAHIA BALLENA 40 691 44 982 4 291 10,5% POCOCÍ COLORADO 1 484 5 796 4 312 290,6% OSA PUERTO CORTES 21 710 27 180 5 470 25,2% PARRITA PARRITA 56 714 66 511 9 797 17,3% NICOYA QUEBRADA HONDA 2 719 14 358 11 639 428,1% LIMON LIMON 56 220 69 998 13 779 24,5% ESPARZA ESPIRITU SANTO 30 023 44 438 14 415 48,0% QUEPOS SAVEGRE 18 200 35 265 17 065 93,8% MATINA MATINA 4 235 23 699 19 464 459,6% SANTA CRUZ CUAJINIQUIL 25 835 63 146 37 311 144,4% ESPARZA SAN JUAN GRANDE 17 465 64 459 46 994 269,1% 1 930 062 1 126 328 -803 734 -41,6%Total distritos costeros"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 68,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           64"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia. 2015 2020 2015 2020 Transporte público 69,3% 66,8% 60,5% Servicios educativos 85,7% 83,2% 73,9% Servicios salud 63,4% 62,1% 57,4% Ciudades intermedia Distritos costeros Servicio"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 69,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           65"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 70,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           66"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021 PEN (2020)."
+      },
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021 PEN (2020)."
+      },
+      {
+        "motivo": "tabla_numerica",
+        "texto": "19176 333 (28%) 30184 366 (44,4%) 18655 282 (27,4%) 0 5000 000 10000 000 15000 000 20000 000 25000 000 30000 000 35000 000 Alto Medio Bajo"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 71,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           67"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021 PEN (2020)."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 72,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           68"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021 PEN, 2020 10% 6% 16% 14% 22% 40% 56% 40% 31% 46% 48% 47% 42% 43% 37% 19% 38% 38% 44% 46% 38% 43% 35% 23% 25% 23% 30% 0% 20% 40% 60% 80% 100% 120% Carreteras y puentes Casas de interes social exoneradas Centros educativos Hospitales Hoteles Edificios Oficinas Locales Restaurantes Bajo Medio Alto"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 73,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           69"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021 PEN, 2020. Como se muestra en el gráfico siguiente los cantones clasificados como de alta vulnerabilidad que tuvieron durante el periodo 2014 -2020 un mayor crecimiento en el área construida fue en orden de importancia: • San Ramon • Esparza • Puntarenas • Carrillo • Pérez Zeledón • Bagaces • Turrialba • Parrita 2258 660 2367 887 2518 578 2929 368 3584 828 3061 787 2469 346 0 500 000 1000 000 1500 000 2000 000 2500 000 3000 000 3500 000 4000 000 2014 2015 2016 2017 2018 2019 2020"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 74,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           70"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021 PEN, 2020."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 75,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           71"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Fuente: Elaboración propia con datos del CFIA, 2021 PEN, 2020."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 76,
+    "incluida": true,
+    "tipo": "tabla_layout",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           72"
+    ],
+    "uniones_guion": 3,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 77,
+    "incluida": true,
+    "tipo": "tabla_layout",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           73"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 78,
+    "incluida": true,
+    "tipo": "tabla_layout",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           74"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 79,
+    "incluida": true,
+    "tipo": "tabla_layout",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           75"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 80,
+    "incluida": true,
+    "tipo": "tabla_layout",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           76"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 81,
+    "incluida": true,
+    "tipo": "tabla_layout",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           77"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 82,
+    "incluida": true,
+    "tipo": "tabla_layout",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           78"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 83,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           79"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 84,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           80"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 85,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           81"
+    ],
+    "uniones_guion": 1,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 86,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           82"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 87,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "“Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la",
+      "zona marino costera”",
+      "Informe Estado de la Nación 2021                                                                                           83"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 1,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y referencias."
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 2,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023   2"
+    ],
+    "uniones_guion": 2,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y referencias."
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 3,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     3"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y referencias."
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 4,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     4"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 5,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     5"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 6,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     6"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 7,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     7"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 8,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     8"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 9,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     9"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 10,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     10"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 11,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     11"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 12,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     12"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "Figura 3 Evolución de los tamaños de lote segregados. 2016-2022"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 13,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     13"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "rotulo_sin_desarrollo",
+        "texto": "𝑊𝑗,𝑢,𝑇 −𝐶𝑗,𝑢,𝑇 −∑ 𝐴𝑗,𝑎,𝑡 ∙𝜅𝑡+∞ 𝑇 > 0 𝑊𝑗,𝑢,𝑇 −𝐶𝑗,𝑢,𝑇 −𝐴𝑗,𝑎,𝑇 > 𝜅(𝑊𝑗,𝑢,𝑇+1 −𝐶𝑗,𝑢,𝑇+1) [1]"
+      },
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "donde Wj,u,T|a es el valor presente de la renta de la parcela j cuando su estado es urbano (u) en el periodo de conversión T, dado que era agrícola (a) en periodos anteriores , Cj,u,T|a es el costo de conversión (en ese momento) de agrícola a urbano , Aj,a,T es la renta agrícola de la parcela en el periodo T y  es la tasa de descuento. Es decir, el momento óptimo en que el dueño de la parcela j cambia su uso es el momento en que maximiza su utilidad con un mayor y mejor uso urbano, ya no agropecuario, pero también el momento en que su renta es mayor al convertir el uso y no esperar mayores rentas en periodos futuros (del uso urbano). Si la segunda condición no se cumple, el dueño de la parcela optará por especular: retirar la parcela del mercado (no desarrollarla) hasta que llegue el momento en que se cumple esta condición."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 14,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     14"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 15,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     15"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "diferencias entre individuos en los grupos de tratamiento (beneficiarios de la política pública) y control (no beneficiarios) (ver la síntesis de Holland, 1986)9. Para enfrentar este reto, se han desarrollado técnicas de análisis cuasi-experimental que pueden aplicarse a datos observacionales 10. En 1985, Ashenfelter & Card propusieron el modelo de diferencia-en-diferencias: esta formalización pretendió (con éxito) utilizar datos observacionales para analizarlos siguiendo la lógica de un ensayo de control aleatorio. Este modelo de regresión tiene la forma: 𝑦𝑖𝑡 = 𝜌1 ∙𝜏𝑡 +𝜌2 ∙𝑟𝑖 +𝛿 ∙𝜏𝑡 ∙𝑟𝑖+∑𝛽𝑘 𝑋𝑖𝑡𝑘 +𝜀𝑖𝑡 [2] donde yit es la variable de respuesta, (a) cada registro de una unidad observacional, i, se mide en dos momentos, t=0 (antes de aplicar la intervención) y t=1 (después de que se haya aplicado), t es una variable dicotómica que identifica estos dos momentos para cada registro; (b) ri es una variable dicotómica igual a 1 para los registros que recibieron la intervención (el grupo de tratamiento) y 0 para los que no (el grupo de control); (c) el coeficiente  (asociado a la interacción entre ri y t) representa el impacto causal del tratamiento; (d) crucialmente, el modelo controla por un vector de variables independientes, X, que introducen variación sistemática en yit (y por tanto, esta variación ya no es capturada en ). La validez del modelo de diferencia -en-diferencias, y de técnicas simila res de análisis cuasi - experimental (e.g., ver Morgan & Winship, 2015), depende de una suposición crucial, la stable unit treatment assumption (SUTVA). SUTVA implica cuatro condiciones que son problemáticas cuando se aplica el marco metodológico descrito a problemas espaciales (Kolak y Anselin, 2020): • las características de las unidades de análisis que reciben el tratamiento no deben influir sobre el valor de yit de las unidades que no reciben el tratamiento (si las unidades de análisis son localizaciones en el espacio y yit se refiere a características del entorno, es común que haya influencias recíprocas –formalizadas en modelos microeconómicos como externalidades– cuya magnitud depende de la distancia entre las unidades);"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 16,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     16"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 17,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     17"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 18,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     18"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 19,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     19"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "tabla_numerica",
+        "texto": "Figura 4 Crecimiento urbano en la GAM. 1979-2021"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 20,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     20"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 21,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     21"
+    ],
+    "uniones_guion": 1,
+    "parrafos_excluidos": [
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "Nótese que (d) se incluyen dos tratamientos, el tratamiento r1i es la existencia de plan regulador en el periodo t en la municipalidad a la que pertenece i y el tratamiento r2i corresponde al límite de crecimiento urbano regional, que no aplica directamente en municipios con plan regulador vigente pero que ciertamente contribuye a controlar por la heterogeneidad del tratamiento; (e) se controla explícitamente por la intensidad de la regulación al incluir el coeficiente de aprovechamiento del suelo (altura permitida por porcentaje de cobertura) de la regulación. (f) Como t es igual a 1 para los periodos en que estaba en vigencia el plan regulador, esta variable es igual a tr1i (es decir, ambas expresiones representan el efecto posterior a la implementación del plan regulador en los municipios donde fue implementado). (g) Siguiendo a Dempsey & Plantinga (2013), se estimó una versión del modelo con un efecto fijo espacial: una variable categórica común para todas las localizaciones de una cuadrícul a uniforme de 1500 m; este factor captura (gran parte de) la heterogeneidad espacial no modelada explícitamente mediante factores espaciales11."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 22,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     22"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "Análisis y discusión de modelos del impacto de la regulación Los resultados de estimar la ecuación [3] se muestran en el cuadro 1. En general, cuando se comparan las distintas versiones del modelo, no hay diferencias entre los coeficientes de regresión que representan los efectos que se estiman: los determinantes de r1i y r2i son negativos (con el efecto de r2i siendo alrededor del triple que el de r1i) y su interacción es positiva. Los determinantes que describen el impacto causal, asimismo, son bastante robustos ante las distintas especificaciones: el coeficiente de t  r1i es positivo y varía entre 1.1 y 1.5, el coeficiente de t  r1i  r2i es en general negativo y, cuando se suma al anterior, presenta una diferencia de aproximadamente 0.5 (esta diferencia representa cuánto se reduce el crecimiento urbano, por causa de la implementación de ordenamiento territorial, dentro del límite de crecimiento). Esta última interacción (t  r1i  r2i) no resulta significativa cuando no se controla por la intensidad de la regulación o cuando se introduce el área mínima de lote en lugar del coeficiente de edificabilidad (lo cual sugiere que el área mínima de lote está menos relacionada con el crecimiento urbano que el coeficiente de edificabilidad). Como se ha mencionado en la sección de hallazgos, el patrón general mostrado en el cuadro 2 sobre limitaciones impuestas por la regulación municipal (por la implementación de planes reguladores) al crecimiento urbano no es simple: en primera instancia, los cantones con planes reguladores vigentes presentaron menor crecimiento urbano que cantones sin regulación (coeficiente de r1i negativo); segundo, esta diferencia desaparece sustancialmente cuando se implementa el plan regulador (coeficiente de t  r1i positivo y de mayor magnitud al coeficiente anterior); tercero, este efecto de mayor desarrollo es mayor dentro del límite de crecimiento (que es también el área de los cantones más apta para desarrollo urbano) que fuera de él (pues los coeficientes de la interacción t  r1i  r2i son en general negativos, aunque de menor magnitud que los de t  r1i). En 2012, Pujol y Pérez hab ían estimado el impacto de la restricción a la urbanización que introducía el límite de crecimiento urbano: encontraron que era cinco veces más probable encontrar área urbanizada dentro que fuera del límite de crecimiento (para el periodo 1986 - 2010). Los resultados estimados en este trabajo muestran una situación más compleja cuando se considera simultáneamente el efecto de la regulación municipal (planes reguladores, que en principio sustituyen a al plan regional del cual forma parte el límite de crecimien to) y del límite de crecimiento. Adicionalmente, ha ocurrido un crecimiento urbano muy importante durante 2010-2021 (como se muestra aproximadamente en la figura 4. Este crecimiento ha ocurrido en gran medida en la periferia, desbordando el límite de creci miento (notable pero no exclusivamente en Curridabat y La Unión). Sin embargo, los modelos estimados continúan"
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 23,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     23"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "registrando efectos restrictivos muy importantes asociados a localizaciones fuera del límite de crecimiento, aún después de controlar por factore s físicos (distancia a centralidades, por ejemplo, o pendiente). Estos podrían explicarse en la medida en que los planes reguladores municipales incorporen el concepto, si bien no necesariamente la localización exacta, de límite a la ciudad que constituye el límite de crecimiento del plan regional (el llamado anillo de contención). Cuadro 2 Coeficientes de regresión y resultados de modelos especificados con base en ecuación [3]: determinantes de modelo logit de probabilidad de crecimiento urbano, 1979-2021 Determinantes Modelo 1 Modelo 2 Modelo 3 Modelo 4 Modelo 5 Intercepto 6,769* 6,275* 5,095* -21,28 -19,52 r1i -0,596* -0,605* -0,484* -0,428* -0,508* r2i -1,884* -1,929* -1,685* -1,549* -1,667* r1i  r2i 0,451* 0,453* 0,322* 0,242* t  r1i 1,109* 1,034* 1,056* 1,470* 1,565* t  r1i  r2i 0,091 -0,500* -0,480* -0,965* 0,062 t  r1i  CASi — 0,035 0,016 0,019 — t  r1i  r2i  CASi — 0,690* 0,661* 0,732* — t  r1i  AMini — — — — -1,68*10-5 t  r1i  r2i  AMini — — — — -2,50*10-5 Pendiente — -0,459* -0,433* -0,403* -0,493* Elevación — 0,211* 0,143 1,006 0,712* Dist. a San José — -0,980* -0,762* -0,093 -0,171* Dist. a carreteras primarias — — -6,74*10-6 -1,75*10-4* -2,02*10-4* Dist. a centro municipal — — -1,90*10-4* -2,52*10-4* — Efectos fijos espaciales No No No Sí Sí Pesudo-R2 0,242 0,249 0,258 0,340 AIC 24.322 24.125 23.883 22.975 n 108.706 108.706 108.706 108.706 108.706 Nota: Variable dependiente: crecimiento urbano. t igual a 1 a partir de cuándo se implementó r1i. *: estadísticamente significativo con p<0.05. Los modelos desarrollados y reportados en el cuadro 2 corresponden a un periodo muy largo (1979 a 2021) durante el cual han ocurrido cambios en los sistemas estructurantes del crecimiento urbano regional (además de la implementación de planes reguladores, es notable la construcción d e muchas carreteras primarias que funcionan como autopistas urbanas, específicamente la ruta nacional 27, ruta nacional 32, la ampli ación de la Carretera Interamericana entre San José y Cartago y la Carretera de Circunvalación). Este periodo largo es necesario para entender los cambios introducidos por la regulación antes y después d e su implementación. Sin embargo, los modelos estimados no son dinámicos (no controlan por cambios en la regulación misma ni en el sistema de carreteras). La interpretación que se ha hecho de los resultados supone que las variaciones espaciales en intensidad de la regulación y en general en los factores que determina la aptitud para usos urbanos presentan una variabilidad mayor en el espacio que en el tiempo, lo cual en el caso d e la regulación puede ser aceptable porque esta se define (en gran medida) con base en factores físicos. Sin embargo, esta es una limitación de los resultados que debe ser explorada con mayor profundidad y se están"
+      }
+    ],
+    "motivo_pagina_excluida": "Portada, ficha, índice y referencias."
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 24,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     24"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "desarrollando esfuerzos en este sentido (e.g., se ha creado ya un inventario en que se describe el momento de construcción de distintos tramos de la red vial nacional primaria en la GAM). Los resultados mostrados buscan modelar el pasado reciente del crecimiento regional. Sin embargo, es importante señalar que, en un futuro relativamente cercano, es de esperar que otros condicionantes espaciales tomen mayor importancia. Entre ellos, la disponibilidad de agua potable12 es acaso el más crítico: es de esperar que este recurso sea más escaso por causa del cambio climático (concretamente, aunque la precipitación total no debería variar, sí son esperables aumentos en la temperatura que a su vez implicarán una mayor demanda hídrica de la atmósfera; al respecto, ver Hidalgo, 2021). La disponibilidad de agua está relacionada con la infraestructura: la reducción del recurso implicará, a futuro, la necesidad de contar con tomas de agua adicionales, lo cual a su vez implica desarrollar extensiones de los acueductos existentes (en principio, los volúmenes de agua en los acuíferos de la región deberían bastar para suplir la demanda incluso a largo plazo). Dado que los sistemas de acueductos en la región funcionan por gravedad en su gran mayoría, la elevación hasta cierto punto controla por el efecto (pasado) de la disponibilidad de agua sobre la probabilidad de crecimiento urbano. Pero es un determinante débil y con una relación muy indirecta, a lo cual debe sumarse que los impactos históricos de la disponibilidad de agua (por oposición a los futuros) posiblemente fueron menores. En todo caso, es una limitación de los modelos desarrollados que no reflejen la evolución de los sistemas de infraestructura (como sí incorporan la de la regulación); una extensión necesaria de los trabajos planteados consiste en reproducir la cobertura de distintos servicios urbanos (y en particular de acueductos y de carreteras nacionales, aunque sobre lo segundo ya hay avances) e introducirla explícitamente en la modelación (como se mencionó, los sesgos espaciales pueden ser menores por la introducción de efectos fijos espaciales; pero el cambio en el tiempo de estos factores puede ser importante). Antes de analizar los resultados del cuadro 3, que resume la e stimación de la ecuación [4], es importante señalar que –a diferencia del modelo de desarrollo urbano mostrado en el cuadro 1— la resolución y extensión temporal de los datos de segregaciones de lote son más limitados. Por ello, se diseñó un modelo con solo dos periodos (de los años disponibles, el más antiguo, 2016, y el más reciente, 2022). En este periodo, solo un cantón que carecía de plan regulador lo implementó (Alvarado); los otros 20 cantones ya tenían plan regulador antes de 2016 (aunque algunos lo renovaron en ese periodo). Esto significa que los coeficientes de regresión de la interacción t  r1i en realidad representan solo el aumento (o reducción) de área de lote en el cantón de Alvarado con respecto a las áreas no reguladas. Claramente, como puede verse en el cuadro 3, el ordenamiento territorial tiene mucho menor impacto sobre el área de las segregaciones resultantes (las cuales representan el cambio en el tamaño de lote) que sobre la probabilidad de desarrollo urbano. Aunque la legislación nac ional lista tanto el volumen construido como el área de predio entre las características que deben regularse, parece claro que el énfasis de los controles urbanos municipales en la GAM se concentra en la construcción antes que en la segregación (algo ya detectado y señalado en Pujol et al., 2006)."
+      }
+    ],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 25,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     25"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "De las variables categóricas que modelan el tratamiento, solo tres coeficientes presentan estadísticamente significativos en el cuadro 3: el coeficiente de t es positivo, lo cual significa que el tamaño de las segregaciones aprobadas ha aumentado en un 30%; el coeficiente de r2i es significativo, positivo y de una magnitud mayor a 1 (implica que los lotes fuera del anillo de contención son alrededor del doble de grandes que dentro de este anillo), reflejando la frontera regulatoria regional de la GAM. Esta coincide en gran medida con las zonas de planes reguladores con mayores niveles de protección (Pérez et al., 2023a). Parece, entonces, que los planes reguladores tienden a mantener el límite de crecimiento urbano dentro de su zonificación (lo cual tiene sentido en la medida en que este límite de crecimiento urbano está muy relacionado con la pendiente del terreno, más plana dentro del límite de crecimiento urbano y más empinada fuera de él). Sin embargo, el término r1i  r2i presenta un coeficiente significativo y negativo, que implica una disminución en la restricción de tamaño introducida por el límite de crecimiento urbano: en los lugares donde sí hay plan regulador, aunque fuera del límite de crecimiento, los predios sí son más grandes, lo son en mucha menor medida que para los cantones sin regulación. Así, el efecto del ordenamiento territorial es de relajar el tamaño mínimo permitido (o, alternativamente, permitir usos no agropecuarios como viviendas exurbanas, que son má s factibles cuando los tamaños de lote permitidos se reducen)."
+      },
+      {
+        "motivo": "glifos_de_formula",
+        "texto": "Cuadro 3 Coeficientes de regresión y resultados de modelos especificados con base en ecuación [4]: determinantes de modelo lineal de fragmentación de la propiedad (logaritmo de área de lote resultante). 2016-2022 Determinantes Modelo 1 Modelo 2 Modelo 3 Modelo 4 Intercepto -1,024* -1,172* -2,726* -18,982* r1i 0,099 0,097 0,053 -0,099 r2i 1,174* 1,175* 0,999* 0,792* t 0,304* 0,302* 0,201* 0,422* r1i  r2i -0,864* -0,867* -0,794* -0,261 t  r1i -0,170 -0,202 -0,121 -0,010 t  r2i -0,198 -0,198 -0,199 -0,613* t  r1i  r2i 0,217 -0,021 -0,083 0,482* t  r1i  log(AMini) — 0,007 0,002 0,014* t  r1i  r2i  log(AMini) — 0,043* 0,051* 0,016 Pendiente 0,191* 0,188* 0,169* 0,050* Elevación 0,345* 0,366* 0,406* 3,250* Dist. a San José 0,418* 0,419* 0,367* 0,154 Dist. a carreteras primarias — — 0,015* -0,014 Dist. a centro municipal — — 0,237* 0,105* Efectos fijos espaciales No No No Sí R2 ajustado 0,149 0,151 0,161 0,388 f stat. (d.f., prob.) 540,8 (10 & 30.912 <0,01) 458,1 (12 & 30.910 <0,01) 423,4 (14 & 30.906 <0,01) 27,9 (729 & 30.191 <0,01) AIC 110.363,3 110.291,6 109.922,8 100.856,4 n 30.923 30.923 30.923 30.923 *Estadísticamente significativo con p<0.05."
+      }
+    ],
+    "motivo_pagina_excluida": "Portada, ficha, índice y referencias."
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 26,
+    "incluida": true,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     26"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": ""
+  },
+  {
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 27,
+    "incluida": false,
+    "tipo": "narrativo",
+    "encabezados_retirados": [
+      "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "Informe Estado de la Nación 2023                                                                                                                     27"
+    ],
+    "uniones_guion": 0,
+    "parrafos_excluidos": [],
+    "motivo_pagina_excluida": "Portada, ficha, índice y referencias."
+  }
+]

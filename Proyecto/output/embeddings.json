@@ -1,0 +1,50 @@
+{
+  "modelo": {
+    "modelo": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "dimensiones": 384,
+    "max_tokens_entrada": 512
+  },
+  "versiones": {
+    "torch": "2.6.0+cpu",
+    "transformers": "4.48.3",
+    "sentence-transformers": "3.4.1",
+    "tokenizers": "0.21.4"
+  },
+  "paginas_originales": 232,
+  "paginas_incluidas": 194,
+  "fragmentos": 298,
+  "por_documento": {
+    "PEN_2017_CIUDADES": 65,
+    "PEN_2018_GAM": 90,
+    "PEN_2021_TERRITORIO": 99,
+    "PEN_2023_REGULACION": 44
+  },
+  "por_tipo": {
+    "narrativo": 285,
+    "tabla_layout": 13
+  },
+  "tokens_max": 397,
+  "preparacion_segundos": 8.335974129000533,
+  "modelo_y_codificacion_segundos": 2.7778979179965972,
+  "cache": {
+    "entradas": 298,
+    "nuevos": 0,
+    "reutilizados": 298,
+    "segundos": 0.00048349999997299165,
+    "lote": 4
+  },
+  "cache_consultas": {
+    "entradas": 14,
+    "nuevos": 0,
+    "reutilizados": 14,
+    "segundos": 2.6166999305132776e-05,
+    "lote": 4
+  },
+  "dimensiones": [
+    298,
+    384
+  ],
+  "limitacion_tablas": "Las páginas 76-82 conservan maquetación textual por página; no se usan para atribuir un estado regulatorio municipal sin inspeccionar el PDF. Los fragmentos no son filas estructuradas.",
+  "ejecucion_firma": "300acfaf1e87f9b70cc44cf07c7ceca0c639c685e63edf5b306380aa8f61c799"
+}

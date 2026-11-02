@@ -1,0 +1,195 @@
+{
+  "id": "cp-dashboard",
+  "visualizaciones": 5,
+  "url_local": "http://127.0.0.1:5604/app/dashboards#/view/cp-dashboard",
+  "objetos_exportados": 7,
+  "resultado_api": {
+    "saved_objects": [
+      {
+        "type": "visualization",
+        "id": "cp-viz-area",
+        "namespaces": [
+          "default"
+        ],
+        "attributes": {
+          "title": "Área autorizada por año (m²)",
+          "description": "Datos del proyecto; respeta periodo y filtros globales.",
+          "visState": "{\"title\": \"\\u00c1rea autorizada por a\\u00f1o (m\\u00b2)\", \"type\": \"vega\", \"aggs\": [], \"params\": {\"spec\": \"{\\\"$schema\\\": \\\"https://vega.github.io/schema/vega-lite/v5.json\\\", \\\"autosize\\\": {\\\"type\\\": \\\"fit\\\", \\\"contains\\\": \\\"padding\\\"}, \\\"data\\\": {\\\"url\\\": {\\\"%context%\\\": true, \\\"%timefield%\\\": \\\"fecha\\\", \\\"index\\\": \\\"cp-integrado\\\", \\\"body\\\": {\\\"size\\\": 0, \\\"aggs\\\": {\\\"valores\\\": {\\\"terms\\\": {\\\"field\\\": \\\"anio\\\", \\\"size\\\": 20, \\\"order\\\": {\\\"_key\\\": \\\"asc\\\"}}, \\\"aggs\\\": {\\\"area\\\": {\\\"sum\\\": {\\\"field\\\": \\\"area_m2\\\"}}}}}}}, \\\"format\\\": {\\\"property\\\": \\\"aggregations.valores.buckets\\\"}}, \\\"mark\\\": {\\\"type\\\": \\\"line\\\", \\\"color\\\": \\\"#176D8A\\\", \\\"tooltip\\\": true}, \\\"encoding\\\": {\\\"x\\\": {\\\"field\\\": \\\"key\\\", \\\"type\\\": \\\"ordinal\\\", \\\"title\\\": \\\"A\\\\u00f1o\\\", \\\"sort\\\": \\\"ascending\\\", \\\"axis\\\": {\\\"labelAngle\\\": 0}}, \\\"y\\\": {\\\"field\\\": \\\"area.value\\\", \\\"type\\\": \\\"quantitative\\\", \\\"title\\\": \\\"\\\\u00c1rea autorizada (m\\\\u00b2)\\\", \\\"axis\\\": {\\\"format\\\": \\\"~s\\\"}}}, \\\"config\\\": {\\\"axis\\\": {\\\"labelFontSize\\\": 11, \\\"titleFontSize\\\": 12}, \\\"view\\\": {\\\"stroke\\\": null}}}\"}}",
+          "uiStateJSON": "{}",
+          "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{}"
+          }
+        },
+        "references": [],
+        "managed": false,
+        "migrationVersion": {
+          "visualization": "8.5.0"
+        },
+        "coreMigrationVersion": "8.8.0",
+        "typeMigrationVersion": "8.5.0",
+        "updated_at": "2026-10-29T16:15:07.183Z",
+        "created_at": "2026-10-29T16:15:07.183Z",
+        "version": "WzcxLDFd"
+      },
+      {
+        "type": "visualization",
+        "id": "cp-viz-obras",
+        "namespaces": [
+          "default"
+        ],
+        "attributes": {
+          "title": "Obras autorizadas por provincia, periodo seleccionado",
+          "description": "Datos del proyecto; respeta periodo y filtros globales.",
+          "visState": "{\"title\": \"Obras autorizadas por provincia, periodo seleccionado\", \"type\": \"vega\", \"aggs\": [], \"params\": {\"spec\": \"{\\\"$schema\\\": \\\"https://vega.github.io/schema/vega-lite/v5.json\\\", \\\"autosize\\\": {\\\"type\\\": \\\"fit\\\", \\\"contains\\\": \\\"padding\\\"}, \\\"data\\\": {\\\"url\\\": {\\\"%context%\\\": true, \\\"%timefield%\\\": \\\"fecha\\\", \\\"index\\\": \\\"cp-integrado\\\", \\\"body\\\": {\\\"size\\\": 0, \\\"aggs\\\": {\\\"valores\\\": {\\\"terms\\\": {\\\"field\\\": \\\"provincia\\\", \\\"size\\\": 7}, \\\"aggs\\\": {\\\"obras\\\": {\\\"sum\\\": {\\\"field\\\": \\\"obras_total\\\"}}}}}}}, \\\"format\\\": {\\\"property\\\": \\\"aggregations.valores.buckets\\\"}}, \\\"mark\\\": {\\\"type\\\": \\\"bar\\\", \\\"color\\\": \\\"#176D8A\\\", \\\"tooltip\\\": true}, \\\"encoding\\\": {\\\"x\\\": {\\\"field\\\": \\\"obras.value\\\", \\\"type\\\": \\\"quantitative\\\", \\\"title\\\": \\\"Obras\\\", \\\"axis\\\": {\\\"format\\\": \\\"~s\\\"}}, \\\"y\\\": {\\\"field\\\": \\\"key\\\", \\\"type\\\": \\\"nominal\\\", \\\"title\\\": \\\"Provincia\\\", \\\"sort\\\": \\\"-x\\\"}}, \\\"config\\\": {\\\"axis\\\": {\\\"labelFontSize\\\": 11, \\\"titleFontSize\\\": 12}, \\\"view\\\": {\\\"stroke\\\": null}}}\"}}",
+          "uiStateJSON": "{}",
+          "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{}"
+          }
+        },
+        "references": [],
+        "managed": false,
+        "migrationVersion": {
+          "visualization": "8.5.0"
+        },
+        "coreMigrationVersion": "8.8.0",
+        "typeMigrationVersion": "8.5.0",
+        "updated_at": "2026-10-29T16:15:07.183Z",
+        "created_at": "2026-10-29T16:15:07.183Z",
+        "version": "WzcyLDFd"
+      },
+      {
+        "type": "visualization",
+        "id": "cp-viz-habitante",
+        "namespaces": [
+          "default"
+        ],
+        "attributes": {
+          "title": "Área anual por habitante, media ponderada del periodo",
+          "description": "Datos del proyecto; respeta periodo y filtros globales.",
+          "visState": "{\"title\": \"\\u00c1rea anual por habitante, media ponderada del periodo\", \"type\": \"vega\", \"aggs\": [], \"params\": {\"spec\": \"{\\\"$schema\\\": \\\"https://vega.github.io/schema/vega-lite/v5.json\\\", \\\"autosize\\\": {\\\"type\\\": \\\"fit\\\", \\\"contains\\\": \\\"padding\\\"}, \\\"data\\\": {\\\"url\\\": {\\\"%context%\\\": true, \\\"%timefield%\\\": \\\"fecha\\\", \\\"index\\\": \\\"cp-integrado\\\", \\\"body\\\": {\\\"size\\\": 0, \\\"aggs\\\": {\\\"valores\\\": {\\\"terms\\\": {\\\"field\\\": \\\"provincia\\\", \\\"size\\\": 7}, \\\"aggs\\\": {\\\"area\\\": {\\\"sum\\\": {\\\"field\\\": \\\"area_m2\\\"}}, \\\"poblacion\\\": {\\\"sum\\\": {\\\"field\\\": \\\"poblacion\\\"}}}}}}}, \\\"format\\\": {\\\"property\\\": \\\"aggregations.valores.buckets\\\"}}, \\\"mark\\\": {\\\"type\\\": \\\"bar\\\", \\\"color\\\": \\\"#176D8A\\\", \\\"tooltip\\\": true}, \\\"encoding\\\": {\\\"x\\\": {\\\"field\\\": \\\"ratio\\\", \\\"type\\\": \\\"quantitative\\\", \\\"title\\\": \\\"m\\\\u00b2 por habitante\\\", \\\"axis\\\": {\\\"format\\\": \\\".2f\\\"}}, \\\"y\\\": {\\\"field\\\": \\\"key\\\", \\\"type\\\": \\\"nominal\\\", \\\"title\\\": \\\"Provincia\\\", \\\"sort\\\": \\\"-x\\\"}}, \\\"config\\\": {\\\"axis\\\": {\\\"labelFontSize\\\": 11, \\\"titleFontSize\\\": 12}, \\\"view\\\": {\\\"stroke\\\": null}}, \\\"transform\\\": [{\\\"calculate\\\": \\\"datum.area.value / datum.poblacion.value\\\", \\\"as\\\": \\\"ratio\\\"}]}\"}}",
+          "uiStateJSON": "{}",
+          "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{}"
+          }
+        },
+        "references": [],
+        "managed": false,
+        "migrationVersion": {
+          "visualization": "8.5.0"
+        },
+        "coreMigrationVersion": "8.8.0",
+        "typeMigrationVersion": "8.5.0",
+        "updated_at": "2026-10-29T16:15:07.183Z",
+        "created_at": "2026-10-29T16:15:07.183Z",
+        "version": "WzczLDFd"
+      },
+      {
+        "type": "visualization",
+        "id": "cp-viz-destinos",
+        "namespaces": [
+          "default"
+        ],
+        "attributes": {
+          "title": "Área por categoría de destino, sin sumar subtotales y detalle",
+          "description": "Datos del proyecto; respeta periodo y filtros globales.",
+          "visState": "{\"title\": \"\\u00c1rea por categor\\u00eda de destino, sin sumar subtotales y detalle\", \"type\": \"vega\", \"aggs\": [], \"params\": {\"spec\": \"{\\\"$schema\\\": \\\"https://vega.github.io/schema/vega-lite/v5.json\\\", \\\"autosize\\\": {\\\"type\\\": \\\"fit\\\", \\\"contains\\\": \\\"padding\\\"}, \\\"data\\\": {\\\"url\\\": {\\\"%context%\\\": true, \\\"%timefield%\\\": \\\"fecha\\\", \\\"index\\\": \\\"cp-destinos\\\", \\\"body\\\": {\\\"size\\\": 0, \\\"aggs\\\": {\\\"seleccion\\\": {\\\"filter\\\": {\\\"term\\\": {\\\"nivel\\\": \\\"subtotal_categoria\\\"}}, \\\"aggs\\\": {\\\"valores\\\": {\\\"terms\\\": {\\\"field\\\": \\\"categoria\\\", \\\"size\\\": 20}, \\\"aggs\\\": {\\\"area\\\": {\\\"sum\\\": {\\\"field\\\": \\\"area_m2\\\"}}}}}}}}}, \\\"format\\\": {\\\"property\\\": \\\"aggregations.seleccion.valores.buckets\\\"}}, \\\"mark\\\": {\\\"type\\\": \\\"bar\\\", \\\"color\\\": \\\"#176D8A\\\", \\\"tooltip\\\": true}, \\\"encoding\\\": {\\\"x\\\": {\\\"field\\\": \\\"area.value\\\", \\\"type\\\": \\\"quantitative\\\", \\\"title\\\": \\\"\\\\u00c1rea autorizada (m\\\\u00b2)\\\", \\\"axis\\\": {\\\"format\\\": \\\"~s\\\"}}, \\\"y\\\": {\\\"field\\\": \\\"key\\\", \\\"type\\\": \\\"nominal\\\", \\\"title\\\": \\\"Categor\\\\u00eda\\\", \\\"sort\\\": \\\"-x\\\"}}, \\\"config\\\": {\\\"axis\\\": {\\\"labelFontSize\\\": 11, \\\"titleFontSize\\\": 12}, \\\"view\\\": {\\\"stroke\\\": null}}}\"}}",
+          "uiStateJSON": "{}",
+          "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{}"
+          }
+        },
+        "references": [],
+        "managed": false,
+        "migrationVersion": {
+          "visualization": "8.5.0"
+        },
+        "coreMigrationVersion": "8.8.0",
+        "typeMigrationVersion": "8.5.0",
+        "updated_at": "2026-10-29T16:15:07.183Z",
+        "created_at": "2026-10-29T16:15:07.183Z",
+        "version": "Wzc0LDFd"
+      },
+      {
+        "type": "visualization",
+        "id": "cp-viz-errores",
+        "namespaces": [
+          "default"
+        ],
+        "attributes": {
+          "title": "Error absoluto medio de modelos, reserva 2023–2024",
+          "description": "Datos del proyecto; respeta periodo y filtros globales.",
+          "visState": "{\"title\": \"Error absoluto medio de modelos, reserva 2023\\u20132024\", \"type\": \"vega\", \"aggs\": [], \"params\": {\"spec\": \"{\\\"$schema\\\": \\\"https://vega.github.io/schema/vega-lite/v5.json\\\", \\\"autosize\\\": {\\\"type\\\": \\\"fit\\\", \\\"contains\\\": \\\"padding\\\"}, \\\"data\\\": {\\\"url\\\": {\\\"%context%\\\": true, \\\"%timefield%\\\": \\\"fecha\\\", \\\"index\\\": \\\"cp-predicciones\\\", \\\"body\\\": {\\\"size\\\": 0, \\\"aggs\\\": {\\\"valores\\\": {\\\"terms\\\": {\\\"field\\\": \\\"modelo\\\", \\\"size\\\": 2}, \\\"aggs\\\": {\\\"mae\\\": {\\\"avg\\\": {\\\"field\\\": \\\"error_absoluto_m2\\\"}}}}}}}, \\\"format\\\": {\\\"property\\\": \\\"aggregations.valores.buckets\\\"}}, \\\"mark\\\": {\\\"type\\\": \\\"bar\\\", \\\"color\\\": \\\"#176D8A\\\", \\\"tooltip\\\": true}, \\\"encoding\\\": {\\\"x\\\": {\\\"field\\\": \\\"key\\\", \\\"type\\\": \\\"nominal\\\", \\\"title\\\": \\\"Modelo\\\"}, \\\"y\\\": {\\\"field\\\": \\\"mae.value\\\", \\\"type\\\": \\\"quantitative\\\", \\\"title\\\": \\\"MAE (m\\\\u00b2)\\\", \\\"axis\\\": {\\\"format\\\": \\\"~s\\\"}}}, \\\"config\\\": {\\\"axis\\\": {\\\"labelFontSize\\\": 11, \\\"titleFontSize\\\": 12}, \\\"view\\\": {\\\"stroke\\\": null}}}\"}}",
+          "uiStateJSON": "{}",
+          "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{}"
+          }
+        },
+        "references": [],
+        "managed": false,
+        "migrationVersion": {
+          "visualization": "8.5.0"
+        },
+        "coreMigrationVersion": "8.8.0",
+        "typeMigrationVersion": "8.5.0",
+        "updated_at": "2026-10-29T16:15:07.183Z",
+        "created_at": "2026-10-29T16:15:07.183Z",
+        "version": "Wzc1LDFd"
+      },
+      {
+        "type": "dashboard",
+        "id": "cp-dashboard",
+        "namespaces": [
+          "default"
+        ],
+        "attributes": {
+          "title": "Construcción autorizada y población en Costa Rica",
+          "description": "INEC 2015–2024. Permisos autorizados, no obras terminadas. Tres segregaciones agregadas a sus territorios de origen. Errores: reserva 2023–2024.",
+          "panelsJSON": "[{\"version\": \"8.14.3\", \"type\": \"visualization\", \"gridData\": {\"x\": 0, \"y\": 0, \"w\": 48, \"h\": 10, \"i\": \"0\"}, \"panelIndex\": \"0\", \"embeddableConfig\": {}, \"panelRefName\": \"panel_0\"}, {\"version\": \"8.14.3\", \"type\": \"visualization\", \"gridData\": {\"x\": 0, \"y\": 10, \"w\": 24, \"h\": 11, \"i\": \"1\"}, \"panelIndex\": \"1\", \"embeddableConfig\": {}, \"panelRefName\": \"panel_1\"}, {\"version\": \"8.14.3\", \"type\": \"visualization\", \"gridData\": {\"x\": 24, \"y\": 10, \"w\": 24, \"h\": 11, \"i\": \"2\"}, \"panelIndex\": \"2\", \"embeddableConfig\": {}, \"panelRefName\": \"panel_2\"}, {\"version\": \"8.14.3\", \"type\": \"visualization\", \"gridData\": {\"x\": 0, \"y\": 21, \"w\": 24, \"h\": 11, \"i\": \"3\"}, \"panelIndex\": \"3\", \"embeddableConfig\": {}, \"panelRefName\": \"panel_3\"}, {\"version\": \"8.14.3\", \"type\": \"visualization\", \"gridData\": {\"x\": 24, \"y\": 21, \"w\": 24, \"h\": 11, \"i\": \"4\"}, \"panelIndex\": \"4\", \"embeddableConfig\": {}, \"panelRefName\": \"panel_4\"}]",
+          "optionsJSON": "{\"useMargins\": true, \"hidePanelTitles\": false}",
+          "timeRestore": true,
+          "timeFrom": "2015-01-01T06:00:00.000Z",
+          "timeTo": "2025-01-01T05:59:59.999Z",
+          "kibanaSavedObjectMeta": {
+            "searchSourceJSON": "{\"query\": {\"query\": \"\", \"language\": \"kuery\"}, \"filter\": []}"
+          }
+        },
+        "references": [
+          {
+            "type": "visualization",
+            "id": "cp-viz-area",
+            "name": "panel_0"
+          },
+          {
+            "type": "visualization",
+            "id": "cp-viz-obras",
+            "name": "panel_1"
+          },
+          {
+            "type": "visualization",
+            "id": "cp-viz-habitante",
+            "name": "panel_2"
+          },
+          {
+            "type": "visualization",
+            "id": "cp-viz-destinos",
+            "name": "panel_3"
+          },
+          {
+            "type": "visualization",
+            "id": "cp-viz-errores",
+            "name": "panel_4"
+          }
+        ],
+        "managed": false,
+        "migrationVersion": {
+          "dashboard": "10.2.0"
+        },
+        "coreMigrationVersion": "8.8.0",
+        "typeMigrationVersion": "10.2.0",
+        "updated_at": "2026-10-29T16:15:07.183Z",
+        "created_at": "2026-10-29T16:15:07.183Z",
+        "version": "Wzc2LDFd"
+      }
+    ]
+  }
+}

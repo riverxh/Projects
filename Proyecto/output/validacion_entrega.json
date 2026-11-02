@@ -1,0 +1,42 @@
+{
+  "fecha": "2026-10-28",
+  "pipeline_completo": "correcto",
+  "pruebas": 15,
+  "tablas": {
+    "territorios": 81,
+    "construccion_cantonal": 818,
+    "poblacion_cantonal": 840,
+    "destinos_cantonales": 12121,
+    "construccion_agrupada": 810,
+    "poblacion_agrupada": 810,
+    "integrado": 810,
+    "predicciones": 324
+  },
+  "indices": {
+    "cp-construccion": 818,
+    "cp-poblacion": 840,
+    "cp-destinos": 12121,
+    "cp-integrado": 810,
+    "cp-predicciones": 324,
+    "cp-texto": 298,
+    "cp-vector": 298
+  },
+  "notebook": {
+    "celdas": 20,
+    "celdas_codigo": 10,
+    "todas_ejecutadas": true,
+    "errores": 0
+  },
+  "cache_repeticion": {
+    "pasajes": 298,
+    "consultas": 14,
+    "nuevos": 0
+  },
+  "pdf_paginas": 12,
+  "diapositivas": 15,
+  "pdf_sha256": "0271633027fd15e4254bcb2003746a175ce8c8068341091519666513afd574d9",
+  "pptx_sha256": "3f04243b4fdde8df1e8ec9af3c493805d4d35889d679cab25e5b0e9706b4efcc",
+  "consulta_kibana": "Q03 textual y vectorial, 200 OK",
+  "dashboard": "cinco paneles y filtro provincial revisados",
+  "limite_presentacion": "validación del archivo y renderizado; sin apertura nativa en PowerPoint"
+}

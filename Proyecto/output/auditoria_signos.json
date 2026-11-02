@@ -1,0 +1,2506 @@
+[
+  {
+    "id": "2019-101-81",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 81,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-101-81",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 81,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-101-82",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 82,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-101-82",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 82,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-101-83",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 83,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-101-84",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 84,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-101-84",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 84,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-102-102",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 102,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-102-103",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 103,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-102-104",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 104,
+    "campo": "valor_reparacion_miles",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-103-120",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 120,
+    "campo": "valor_ampliacion_miles",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-103-123",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 123,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-103-124",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 124,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-104-142",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 142,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-104-143",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 143,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-104-144",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 144,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-105-157",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 157,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-105-158",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 158,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-105-159",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 159,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-105-160",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 160,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-106-176",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 176,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-106-177",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 177,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-107-192",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 192,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-107-193",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 193,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-107-194",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 194,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-108-209",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 209,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-108-210",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 210,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-108-211",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 211,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-108-212",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 212,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-109-229",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 229,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-109-230",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 230,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-109-230",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 230,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-109-231",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 231,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-109-232",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 232,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-110-248",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 248,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-110-249",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 249,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-110-250",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 250,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-110-251",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 251,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-111-264",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 264,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-111-265",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 265,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-111-266",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 266,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-111-267",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 267,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-112-279",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 279,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-112-280",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 280,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-112-282",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 282,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-113-300",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 300,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-113-300",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 300,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-113-301",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 301,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-113-302",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 302,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-113-303",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 303,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-113-303",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 303,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-114-317",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 317,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-114-318",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 318,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-114-319",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 319,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-117-359",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 359,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-117-360",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 360,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-117-361",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 361,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-118-372",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 372,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-118-373",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 373,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-118-374",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 374,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-119-391",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 391,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-119-392",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 392,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-119-393",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 393,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-119-394",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 394,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-120-408",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 408,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-120-408",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 408,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-120-409",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 409,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-120-410",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 410,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-201-458",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 458,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-201-459",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 459,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-201-459",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 459,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-201-460",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 460,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-201-460",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 460,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-201-461",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 461,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-202-480",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 480,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-202-481",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 481,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-202-482",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 482,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-202-483",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 483,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-203-500",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 500,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-203-501",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 501,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-203-502",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 502,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-203-503",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 503,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-204-520",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 520,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-204-521",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 521,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-204-522",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 522,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-204-523",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 523,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-205-537",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 537,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-205-538",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 538,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-205-539",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 539,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-206-554",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 554,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-206-554",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 554,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-206-555",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 555,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-206-556",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 556,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-206-556",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 556,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-207-573",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 573,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-207-574",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 574,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-207-575",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 575,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-207-576",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 576,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-208-591",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 591,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-208-592",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 592,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-208-593",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 593,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-208-594",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 594,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-209-609",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 609,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-209-610",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 610,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-209-611",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 611,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-210-629",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 629,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-210-630",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 630,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-210-630",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 630,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-210-631",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 631,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-211-649",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 649,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-211-650",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 650,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-212-662",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 662,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-212-663",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 663,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-212-664",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 664,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-213-679",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 679,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-213-680",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 680,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-213-681",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 681,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-213-682",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 682,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-214-697",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 697,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-214-698",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 698,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-214-699",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 699,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-216-724",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 724,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-301-768",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 768,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-301-768",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 768,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-301-769",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 769,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-301-769",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 769,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-301-770",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 770,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-301-771",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 771,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-302-785",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 785,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-302-785",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 785,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-302-786",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 786,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-302-787",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 787,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-302-787",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 787,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-303-805",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 805,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-303-806",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 806,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-304-821",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 821,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-304-822",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 822,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-304-823",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 823,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-305-842",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 842,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-305-842",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 842,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-305-843",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 843,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-305-844",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 844,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-305-845",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 845,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-305-845",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 845,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-306-861",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 861,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-306-861",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 861,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-306-862",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 862,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-306-863",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 863,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-306-864",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 864,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-306-864",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 864,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-307-880",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 880,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-307-880",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 880,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-307-881",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 881,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-307-882",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 882,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-307-883",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 883,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-307-883",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 883,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-308-900",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 900,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-308-901",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 901,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-308-902",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 902,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-308-903",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 903,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-401-944",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 944,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-401-945",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 945,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-401-945",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 945,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-401-946",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 946,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-401-947",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 947,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-402-967",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 967,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-402-968",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 968,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-402-969",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 969,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-403-987",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 987,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-403-988",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 988,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-403-988",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 988,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-403-989",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 989,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-404-1008",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1008,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-404-1008",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1008,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-404-1009",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1009,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-404-1009",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1009,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-404-1010",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1010,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-404-1011",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1011,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-404-1011",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1011,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-405-1026",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1026,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-405-1027",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1027,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-405-1028",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1028,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-405-1029",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1029,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-406-1049",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1049,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-406-1049",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1049,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-406-1050",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1050,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-406-1050",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1050,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-406-1051",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1051,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-406-1052",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1052,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-406-1052",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1052,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-407-1070",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1070,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-407-1070",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1070,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-407-1071",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1071,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-407-1072",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1072,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-407-1073",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1073,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-407-1073",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1073,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-408-1088",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1088,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-408-1089",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1089,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-408-1090",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1090,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-408-1091",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1091,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-409-1108",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1108,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-409-1108",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1108,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-409-1109",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1109,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-409-1110",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1110,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-409-1111",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1111,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-409-1111",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1111,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-410-1129",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1129,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-410-1130",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1130,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-410-1131",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1131,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-501-1171",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1171,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-501-1172",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1172,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-502-1190",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1190,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-502-1191",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1191,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-502-1192",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1192,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-503-1208",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1208,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-503-1208",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1208,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-503-1209",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1209,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-503-1209",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1209,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-503-1210",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1210,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-503-1211",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1211,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-504-1226",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1226,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-504-1227",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1227,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-504-1228",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1228,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-505-1246",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1246,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-505-1246",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1246,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-505-1247",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1247,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-506-1262",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1262,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-506-1263",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1263,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-506-1264",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1264,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-506-1265",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1265,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-507-1280",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1280,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-507-1282",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1282,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-508-1300",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1300,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-508-1300",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1300,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-508-1301",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1301,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-508-1301",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1301,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-508-1302",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1302,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-508-1303",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1303,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-508-1303",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1303,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-509-1319",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1319,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-509-1321",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1321,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-510-1336",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1336,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-510-1336",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1336,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-510-1337",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1337,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-510-1337",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1337,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-510-1338",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1338,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-510-1339",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1339,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-511-1357",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1357,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-511-1358",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1358,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-511-1359",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1359,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-601-1399",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1399,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-601-1400",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1400,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-601-1401",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1401,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-601-1402",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1402,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-602-1417",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1417,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-602-1418",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1418,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-603-1436",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1436,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-603-1436",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1436,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-603-1437",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1437,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-603-1437",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1437,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-603-1438",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1438,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-603-1438",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1438,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-603-1439",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1439,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-604-1450",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1450,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-604-1451",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1451,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-605-1467",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1467,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-605-1467",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1467,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-605-1468",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1468,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-605-1469",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1469,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-605-1469",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1469,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-606-1483",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1483,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-606-1484",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1484,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-606-1485",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1485,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-607-1499",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1499,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-607-1500",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1500,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-607-1501",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1501,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-607-1502",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1502,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-608-1516",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1516,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-608-1517",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1517,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-608-1520",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1520,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-608-1521",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1521,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-608-1522",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1522,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-609-1538",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1538,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-609-1539",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1539,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-609-1540",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1540,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-610-1552",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1552,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-610-1553",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1553,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-611-1573",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1573,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-611-1574",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1574,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-701-1612",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1612,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-701-1613",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1613,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-701-1614",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1614,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-701-1615",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1615,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-702-1634",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1634,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-702-1634",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1634,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-702-1635",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1635,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-702-1635",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1635,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-702-1636",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1636,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-702-1637",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1637,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-703-1652",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1652,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-704-1669",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1669,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-704-1669",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1669,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-704-1670",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1670,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-704-1671",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1671,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-704-1671",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1671,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-705-1684",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1684,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-705-1685",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1685,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-705-1686",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1686,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-706-1702",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1702,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-706-1703",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1703,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-706-1704",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1704,
+    "campo": "area_ampliacion_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2019-706-1705",
+    "archivo": "Construccion_2019.xlsx",
+    "fila": 1705,
+    "campo": "area_nueva_m2",
+    "original": "N.D",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  },
+  {
+    "id": "2020-608-1413",
+    "archivo": "Construccion_2020.xlsx",
+    "fila": 1413,
+    "campo": "obras_reparacion",
+    "original": "N",
+    "tratamiento": "nulo; no se infiere un valor numérico"
+  }
+]
