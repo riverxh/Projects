@@ -1,0 +1,882 @@
+[
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2017_CIUDADES_p041_9f3c1ab2a4f1cad0",
+    "grado": 2,
+    "justificacion": "Enumera restricciones de uso, altura, cobertura, lote y retiros.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 41
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p008_01b1ea6d61dbbe75",
+    "grado": 2,
+    "justificacion": "Explica edificabilidad y tamaño mínimo de lote como restricciones.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 8
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p008_321af24f7234ded8",
+    "grado": 1,
+    "justificacion": "Ejemplo comparativo de São Paulo sobre flexibilización, no describe directamente el caso costarricense.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 8
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p012_38547c643d582416",
+    "grado": 1,
+    "justificacion": "Discute impacto de regulación y límites de su cuantificación, con explicación parcial de restricciones.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 12
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p017_aabc9107fdcf69a2",
+    "grado": 2,
+    "justificacion": "Relaciona alturas, zonificación y cobertura con desarrollo permitido.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 17
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p018_a823bb974689858a",
+    "grado": 2,
+    "justificacion": "Explica prohibiciones y ambigüedad regulatoria en zonas de protección.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 18
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p021_b60a1a3c46bd1ce0",
+    "grado": 0,
+    "justificacion": "Nota de método sobre efectos espaciales, sin mecanismo regulatorio suficiente.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 21
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p022_625d8635629e2e77",
+    "grado": 2,
+    "justificacion": "Explica cómo el lote mínimo limita densidades y urbanización intensiva.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 22
+  },
+  {
+    "consulta_id": "Q01",
+    "fragmento_id": "PEN_2023_REGULACION_p026_e2d4af5f49ecb86f",
+    "grado": 1,
+    "justificacion": "Describe distribución de segregaciones; contexto del efecto regulatorio, sin explicarlo directamente.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 26
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2017_CIUDADES_p014_0bee2c28c9ca1e4f",
+    "grado": 1,
+    "justificacion": "Describe barrios con infraestructura insuficiente, pero no medidas de recuperación.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 14
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2017_CIUDADES_p030_9a9437a3625f022c",
+    "grado": 2,
+    "justificacion": "Propone conexión de buses, calles e infraestructura peatonal para barrios.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 30
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2017_CIUDADES_p030_e6f7bcd718911dc6",
+    "grado": 2,
+    "justificacion": "Propone rutas entre barrios y mejoras de red vial frente a problemas descritos.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 30
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2017_CIUDADES_p034_ccfb5fa02cb16ce6",
+    "grado": 2,
+    "justificacion": "Propone mejoras concretas de zonas verdes, árboles y pasos peatonales.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 34
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2018_GAM_p039_be47911d76120a63",
+    "grado": 2,
+    "justificacion": "Describe instrumentos de renovación urbana y aportes a infraestructura deficiente.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 39
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2021_TERRITORIO_p017_d185fbffc13493e8",
+    "grado": 1,
+    "justificacion": "Objetivos generales de planificación e infraestructura, sin mecanismo de rehabilitación de barrios.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 17
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2023_REGULACION_p013_a82cfc4ecee50deb",
+    "grado": 0,
+    "justificacion": "Metodología y conversión rural-urbana, sin recuperación de barrios.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 13
+  },
+  {
+    "consulta_id": "Q02",
+    "fragmento_id": "PEN_2023_REGULACION_p022_625d8635629e2e77",
+    "grado": 1,
+    "justificacion": "Contexto de infraestructura y regulación de densidad; no rehabilitación del barrio existente.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 22
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2017_CIUDADES_p014_0bee2c28c9ca1e4f",
+    "grado": 1,
+    "justificacion": "Pococí y crecimiento urbano, pero no vínculo explícito con inundación.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 14
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2017_CIUDADES_p038_32cdc410b7c9f278",
+    "grado": 0,
+    "justificacion": "Describe Ciudad Quesada/San Carlos, ubicación diferente de Pococí.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 38
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2017_CIUDADES_p039_37aed3503b8a9f59",
+    "grado": 0,
+    "justificacion": "Describe Ciudad Quesada/San Carlos y no responde por Pococí.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 39
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2017_CIUDADES_p040_5ad4e58528c3d2a3",
+    "grado": 2,
+    "justificacion": "Continuación de Pococí: crecimiento desordenado e inundaciones con ríos y poblados.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 40
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2017_CIUDADES_p040_b40636cf34a2894a",
+    "grado": 2,
+    "justificacion": "Pococí explícito; relaciona ocupación de planicies y crecimiento urbano con agravamiento de inundaciones.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 40
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2017_CIUDADES_p042_670e49678eac4bec",
+    "grado": 1,
+    "justificacion": "Regulación en Pococí y fragilidad ambiental, sin desarrollar inundación.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 42
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2023_REGULACION_p016_1c17333e0b44c5f0",
+    "grado": 0,
+    "justificacion": "Metodología de análisis espacial en la GAM, no inundación en Pococí.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 16
+  },
+  {
+    "consulta_id": "Q03",
+    "fragmento_id": "PEN_2023_REGULACION_p026_e2d4af5f49ecb86f",
+    "grado": 0,
+    "justificacion": "Lotes segregados de la GAM; no corresponde a la amenaza ni al territorio preguntado.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 26
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2017_CIUDADES_p042_8a18c5151116641e",
+    "grado": 0,
+    "justificacion": "Situaciones de 2017; no documenta inventario cantonal de 2021.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 42
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2018_GAM_p046_729314d0b600803b",
+    "grado": 0,
+    "justificacion": "Inventario de 2018, fuera del año solicitado.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 46
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2018_GAM_p050_6f2cdc3cf95be701",
+    "grado": 0,
+    "justificacion": "Procesos de 2016-2017 en documento de 2018, no situación de 2021.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 50
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2018_GAM_p054_2835227f302b2cd2",
+    "grado": 0,
+    "justificacion": "Reformas de 2015 en fuente de 2018, no situación de 2021.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 54
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2018_GAM_p058_5a62fabcaa79016c",
+    "grado": 0,
+    "justificacion": "Limitaciones e inventario actualizado hasta 2018, no 2021.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 58
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2021_TERRITORIO_p012_471c18168b456a34",
+    "grado": 2,
+    "justificacion": "Fuente de 2021 informa cantones con/sin plan y remite expresamente al anexo 1.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 12
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2021_TERRITORIO_p013_98f2ce90e861fe65",
+    "grado": 2,
+    "justificacion": "Fuente de 2021 documenta el estado de elaboración y la cobertura cantonal.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 13
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2021_TERRITORIO_p015_d0416b1f56ba3114",
+    "grado": 2,
+    "justificacion": "Cuadro de 2021 documenta estado de incorporación ambiental de planes cantonales.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 15
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2021_TERRITORIO_p016_5ad1340ac5c6f802",
+    "grado": 2,
+    "justificacion": "Identifica mapa cantonal de incorporación ambiental de planes reguladores, 2021.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 16
+  },
+  {
+    "consulta_id": "Q04",
+    "fragmento_id": "PEN_2023_REGULACION_p012_a9e251f4d260b575",
+    "grado": 1,
+    "justificacion": "Menciona cantones con y sin plan en 2021-2022, sin inventario de situación cantonal de 2021.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 12
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2017_CIUDADES_p003_6b1e151745ed20e9",
+    "grado": 1,
+    "justificacion": "Describe planificación débil en ciudades intermedias, sin desarrollar los indicadores de dispersión.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 3
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2017_CIUDADES_p006_b9b5587f02c32fb7",
+    "grado": 2,
+    "justificacion": "Explica falta de compacidad mediante bajas densidades y vacíos internos.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 6
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2017_CIUDADES_p016_eee2d9ce44d430d2",
+    "grado": 2,
+    "justificacion": "Relaciona expansión de mancha urbana con menor densidad y mayor dispersión.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 16
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2017_CIUDADES_p017_4898985264e77da0",
+    "grado": 2,
+    "justificacion": "Describe desarrollos lejanos y diferencia entre crecimiento disperso y relleno urbano.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 17
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2017_CIUDADES_p043_01d0767f04a1c94e",
+    "grado": 1,
+    "justificacion": "Diagnóstico de planificación débil y modelo urbano ausente; explicación contextual.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 43
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2018_GAM_p009_aa808208c9479f7d",
+    "grado": 2,
+    "justificacion": "Contrasta el relleno de la GAM con la dispersión de ciudades intermedias.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 9
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2021_TERRITORIO_p006_3e54e003848e6a4b",
+    "grado": 1,
+    "justificacion": "Resumen menciona patrones y potencial disperso, sin explicar el mecanismo.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 6
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2021_TERRITORIO_p048_35be1f52090d3a50",
+    "grado": 0,
+    "justificacion": "Tasas de construcción y COVID-19, sin explicar compacidad o dispersión.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 48
+  },
+  {
+    "consulta_id": "Q05",
+    "fragmento_id": "PEN_2021_TERRITORIO_p049_c79c5def720497ee",
+    "grado": 1,
+    "justificacion": "Identifica potencial disperso con planos APT, pero no lo explica en el fragmento.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 49
+  },
+  {
+    "consulta_id": "Q06",
+    "fragmento_id": "PEN_2018_GAM_p042_4d1fb8cfa88b65c7",
+    "grado": 1,
+    "justificacion": "Enumera etapas y requisitos; no desarrolla los problemas de aprobación.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 42
+  },
+  {
+    "consulta_id": "Q06",
+    "fragmento_id": "PEN_2018_GAM_p047_044acf01b4cf3551",
+    "grado": 2,
+    "justificacion": "Detalla obstáculos de viabilidad, etapas pendientes y estudios hidrogeológicos.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 47
+  },
+  {
+    "consulta_id": "Q06",
+    "fragmento_id": "PEN_2018_GAM_p048_3631b5f6d9b104fb",
+    "grado": 2,
+    "justificacion": "Identifica requisitos infralegales adicionales y dudas sobre competencias municipales.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 48
+  },
+  {
+    "consulta_id": "Q06",
+    "fragmento_id": "PEN_2018_GAM_p048_87b9820ceb546274",
+    "grado": 2,
+    "justificacion": "Explica complejidad institucional, cambios normativos y requisitos añadidos.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 48
+  },
+  {
+    "consulta_id": "Q06",
+    "fragmento_id": "PEN_2018_GAM_p051_2228263438c51545",
+    "grado": 2,
+    "justificacion": "Describe requisitos de SETENA, dificultades jurídicas y técnicas y efecto en aprobaciones.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 51
+  },
+  {
+    "consulta_id": "Q06",
+    "fragmento_id": "PEN_2018_GAM_p058_5a62fabcaa79016c",
+    "grado": 2,
+    "justificacion": "Sintetiza trabas institucionales, normativas y de legalidad en aprobación municipal.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 58
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2017_CIUDADES_p031_96b4267e8c197465",
+    "grado": 1,
+    "justificacion": "Incluye servicio Ciudad Quesada-San José, sin explicar la relación con congestión hacia la capital.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 31
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2017_CIUDADES_p031_e1fedf5394fad225",
+    "grado": 1,
+    "justificacion": "Explica flujos de viajes hacia San José por interacción y distancia, sin desarrollar congestión.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 31
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2017_CIUDADES_p032_4c298bc98e7c1708",
+    "grado": 0,
+    "justificacion": "Congestión local de Ciudad Quesada; San José de la Montaña no es la capital solicitada.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 32
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2017_CIUDADES_p032_578dab258122f24f",
+    "grado": 0,
+    "justificacion": "Red vial y congestión de Ciudad Quesada, no desplazamientos hacia San José.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 32
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2018_GAM_p036_c1b37462de1d481c",
+    "grado": 1,
+    "justificacion": "Costos por congestión de trabajadores de la GAM y San José; relación parcial sin flujos hacia la capital.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 36
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2018_GAM_p056_2a79d3b13a38ebb1",
+    "grado": 1,
+    "justificacion": "Aumento de duración de viajes laborales en hora pico en la GAM; no específica destino San José.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 56
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2018_GAM_p056_ad9bcb021ec05add",
+    "grado": 1,
+    "justificacion": "Accesibilidad hacia San José y costos de congestión de trabajadores en la GAM, sin vínculo completo entre ambos.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 56
+  },
+  {
+    "consulta_id": "Q07",
+    "fragmento_id": "PEN_2023_REGULACION_p006_6c5d143e482b629f",
+    "grado": 0,
+    "justificacion": "Distancias y edificabilidad, sin congestión ni flujos de viajeros.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 6
+  },
+  {
+    "consulta_id": "Q08",
+    "fragmento_id": "PEN_2017_CIUDADES_p003_6b1e151745ed20e9",
+    "grado": 0,
+    "justificacion": "Resumen de ciudades intermedias sin relación específica pendiente-valor.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 3
+  },
+  {
+    "consulta_id": "Q08",
+    "fragmento_id": "PEN_2017_CIUDADES_p006_b9b5587f02c32fb7",
+    "grado": 0,
+    "justificacion": "Geografía y densidad, sin valor de la tierra.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 6
+  },
+  {
+    "consulta_id": "Q08",
+    "fragmento_id": "PEN_2017_CIUDADES_p021_0954560c26cf5d60",
+    "grado": 2,
+    "justificacion": "Vincula pendiente y características físicas con valor del suelo en las tres ciudades intermedias.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 21
+  },
+  {
+    "consulta_id": "Q08",
+    "fragmento_id": "PEN_2017_CIUDADES_p022_30e48073081cde52",
+    "grado": 1,
+    "justificacion": "Modelo incluye pendientes, pero los efectos expuestos son de viajes y uso urbano, no el efecto de pendiente.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 22
+  },
+  {
+    "consulta_id": "Q08",
+    "fragmento_id": "PEN_2018_GAM_p027_d5d3076f527ec2cf",
+    "grado": 0,
+    "justificacion": "Modelo de la GAM, ámbito distinto de las ciudades intermedias solicitadas.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 27
+  },
+  {
+    "consulta_id": "Q08",
+    "fragmento_id": "PEN_2021_TERRITORIO_p051_8767850bd7f73c8f",
+    "grado": 0,
+    "justificacion": "Localización de planos APT, sin relación pendiente-valor.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 51
+  },
+  {
+    "consulta_id": "Q08",
+    "fragmento_id": "PEN_2023_REGULACION_p005_e5fbcd3bc5d88210",
+    "grado": 0,
+    "justificacion": "Pendiente y restricciones regulatorias en la GAM, no valor de tierra en ciudades intermedias.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 5
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2018_GAM_p005_33afca63dfea8ebf",
+    "grado": 1,
+    "justificacion": "Define extensión del anillo y contexto demográfico, sin efecto inmobiliario explícito.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 5
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2018_GAM_p009_1d21c6f943250d45",
+    "grado": 1,
+    "justificacion": "Relaciona escasez de suelo con verticalización; no atribuye explícitamente el efecto al anillo.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 9
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2018_GAM_p043_47175512caf63452",
+    "grado": 1,
+    "justificacion": "Explica origen y carácter obligatorio del anillo como zona de protección, sin evaluar impactos.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 43
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2018_GAM_p044_0217d3fec309351e",
+    "grado": 1,
+    "justificacion": "Debate cambios del anillo y zonas de recarga; efectos ambientales potenciales, no evaluación inmobiliaria directa.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 44
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2018_GAM_p044_99c7b5186ef71b81",
+    "grado": 2,
+    "justificacion": "Vincula propuestas de ampliación/eliminación del anillo con desarrollo en montaña y dispersión de edificaciones.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 44
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2018_GAM_p055_1d4d44831203d221",
+    "grado": 0,
+    "justificacion": "Concentración de construcciones por destino, sin relación con el anillo.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 55
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2023_REGULACION_p004_c3878647e1b21783",
+    "grado": 0,
+    "justificacion": "Introducción metodológica al ordenamiento de la GAM sin impacto del anillo.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 4
+  },
+  {
+    "consulta_id": "Q09",
+    "fragmento_id": "PEN_2023_REGULACION_p005_d8561ca48090d1b8",
+    "grado": 1,
+    "justificacion": "Incluye anillo como control del modelo y límite regional, sin resultados de sus impactos.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 5
+  },
+  {
+    "consulta_id": "Q10",
+    "fragmento_id": "PEN_2021_TERRITORIO_p006_0215546363417bef",
+    "grado": 1,
+    "justificacion": "Resumen anuncia afectación de zonas vulnerables por pandemia sin explicar magnitud o dirección.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 6
+  },
+  {
+    "consulta_id": "Q10",
+    "fragmento_id": "PEN_2021_TERRITORIO_p022_d04b9639fffe4396",
+    "grado": 1,
+    "justificacion": "Caída nacional de construcción por COVID; no desagrega zonas vulnerables.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 22
+  },
+  {
+    "consulta_id": "Q10",
+    "fragmento_id": "PEN_2021_TERRITORIO_p069_960961fc866e1bad",
+    "grado": 1,
+    "justificacion": "Define vulnerabilidad del ámbito de la pregunta; no contiene efecto de pandemia.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 69
+  },
+  {
+    "consulta_id": "Q10",
+    "fragmento_id": "PEN_2021_TERRITORIO_p069_df1b91dabfc800b5",
+    "grado": 1,
+    "justificacion": "Área acumulada en zonas vulnerables, sin cambio específico de 2020.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 69
+  },
+  {
+    "consulta_id": "Q10",
+    "fragmento_id": "PEN_2021_TERRITORIO_p070_05f6515f9970d24f",
+    "grado": 1,
+    "justificacion": "Geografía de acumulados 2014-2020, sin efecto de pandemia.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 70
+  },
+  {
+    "consulta_id": "Q10",
+    "fragmento_id": "PEN_2021_TERRITORIO_p071_c56177282ff3438f",
+    "grado": 1,
+    "justificacion": "Distribución por destino y vulnerabilidad, sin cambio por pandemia.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 71
+  },
+  {
+    "consulta_id": "Q10",
+    "fragmento_id": "PEN_2021_TERRITORIO_p073_b474d74d74c1b8ba",
+    "grado": 2,
+    "justificacion": "Describe caída de 2019 y agravamiento en 2020 del 19% en cantones de vulnerabilidad alta.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 73
+  },
+  {
+    "consulta_id": "Q11",
+    "fragmento_id": "PEN_2017_CIUDADES_p015_0412336de4408457",
+    "grado": 1,
+    "justificacion": "Conecta expansión residencial con costos y cobertura de servicios, sin renovación urbana.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 15
+  },
+  {
+    "consulta_id": "Q11",
+    "fragmento_id": "PEN_2017_CIUDADES_p015_921c2c02d25752ec",
+    "grado": 1,
+    "justificacion": "Relaciona barrios residenciales, parques y servicios insuficientes; no instrumentos de renovación.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 15
+  },
+  {
+    "consulta_id": "Q11",
+    "fragmento_id": "PEN_2018_GAM_p039_be47911d76120a63",
+    "grado": 2,
+    "justificacion": "Vincula renovación de asentamientos y áreas urbanas con inversión en espacio público e infraestructura.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 39
+  },
+  {
+    "consulta_id": "Q11",
+    "fragmento_id": "PEN_2018_GAM_p039_c0ceda5ebb78dd7b",
+    "grado": 2,
+    "justificacion": "Describe potencial edificable, reajuste de terrenos y financiamiento municipal para renovación e infraestructura.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 39
+  },
+  {
+    "consulta_id": "Q11",
+    "fragmento_id": "PEN_2021_TERRITORIO_p068_e9f77e2f1d9e8267",
+    "grado": 1,
+    "justificacion": "Cobertura de servicios frente a dispersión, sin medidas de renovación urbana.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 68
+  },
+  {
+    "consulta_id": "Q11",
+    "fragmento_id": "PEN_2021_TERRITORIO_p068_ec0f725c811d60ca",
+    "grado": 1,
+    "justificacion": "Cuantifica pérdida de cobertura de servicios, sin renovación urbana.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 68
+  },
+  {
+    "consulta_id": "Q12",
+    "fragmento_id": "PEN_2017_CIUDADES_p041_986adcbd65e71919",
+    "grado": 0,
+    "justificacion": "Conflicto de lotes mínimos anterior a 2017; no compara 2016 con 2022.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 41
+  },
+  {
+    "consulta_id": "Q12",
+    "fragmento_id": "PEN_2023_REGULACION_p010_144ff042d15150dd",
+    "grado": 1,
+    "justificacion": "Resultados generales del modelo de segregación, sin diferencias específicas entre los dos años.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 10
+  },
+  {
+    "consulta_id": "Q12",
+    "fragmento_id": "PEN_2023_REGULACION_p012_a9e251f4d260b575",
+    "grado": 1,
+    "justificacion": "Describe tendencias de tamaños en 2020-2022, sin contraste explícito con 2016.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 12
+  },
+  {
+    "consulta_id": "Q12",
+    "fragmento_id": "PEN_2023_REGULACION_p021_0402ec2ded46db32",
+    "grado": 1,
+    "justificacion": "Especificación del modelo de área de lote; no diferencias observadas entre años.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 21
+  },
+  {
+    "consulta_id": "Q12",
+    "fragmento_id": "PEN_2023_REGULACION_p021_88465a37682fa001",
+    "grado": 1,
+    "justificacion": "Describe muestras de 2016 y 2022 y filtros, no cambios observados en tamaños.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 21
+  },
+  {
+    "consulta_id": "Q12",
+    "fragmento_id": "PEN_2023_REGULACION_p026_e2d4af5f49ecb86f",
+    "grado": 2,
+    "justificacion": "Compara medianas 287 m² en 2016 y 236 m² en 2022 y semejanzas de distribución.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 26
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2017_CIUDADES_p041_9f3c1ab2a4f1cad0",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2017_CIUDADES",
+    "pagina_pdf": 41
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2018_GAM_p025_297ca78d2d515eb2",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 25
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2018_GAM_p052_f3ca103bada63d8b",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 52
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2018_GAM_p053_b4ad7bb323d20a1f",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 53
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2021_TERRITORIO_p017_b959601a4a2e647d",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 17
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2021_TERRITORIO_p075_a0f4b9a084391448",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 75
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2023_REGULACION_p016_1c17333e0b44c5f0",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 16
+  },
+  {
+    "consulta_id": "Q13",
+    "fragmento_id": "PEN_2023_REGULACION_p019_9ccdcc0884d869f6",
+    "grado": 0,
+    "justificacion": "El corpus no documenta requisitos de construcción en Marte.",
+    "documento_id": "PEN_2023_REGULACION",
+    "pagina_pdf": 19
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2018_GAM_p013_7c4a27063abc4523",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2018_GAM",
+    "pagina_pdf": 13
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p006_3e54e003848e6a4b",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 6
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p020_ec7c53290d290b88",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 20
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p021_03d4dc8f111a8049",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 21
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p022_d04b9639fffe4396",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 22
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p023_5f12330e753a84df",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 23
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p025_dca45241159178a2",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 25
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p026_e6488239cd4e5a45",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 26
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p050_d28f9c316d924af9",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 50
+  },
+  {
+    "consulta_id": "Q14",
+    "fragmento_id": "PEN_2021_TERRITORIO_p070_05f6515f9970d24f",
+    "grado": 0,
+    "justificacion": "No hay conteo observado de permisos de 2035 en publicaciones de 2017-2023.",
+    "documento_id": "PEN_2021_TERRITORIO",
+    "pagina_pdf": 70
+  }
+]

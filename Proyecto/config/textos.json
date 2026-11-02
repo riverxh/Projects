@@ -1,0 +1,44 @@
+{
+  "descripcion": "Rangos de páginas y cortes de extracción. Los límites de 400 tokens, solapamiento 40, lote 4 y dos hilos CPU se fijan explícitamente en functions/textos.py; esta configuración no toma archivos del piloto.",
+  "documentos": {
+    "PEN_2017_CIUDADES": {
+      "paginas_cuerpo": [
+        [
+          3,
+          43
+        ]
+      ],
+      "motivo_fuera_cuerpo": "Portada, índice y referencias bibliográficas."
+    },
+    "PEN_2018_GAM": {
+      "paginas_cuerpo": [
+        [
+          4,
+          59
+        ]
+      ],
+      "cortar_desde": {
+        "59": "Bibliografía"
+      },
+      "motivo_fuera_cuerpo": "Portada, índice, créditos, referencias y anexos con matrices que requieren extracción tabular."
+    },
+    "PEN_2021_TERRITORIO": {
+      "paginas_cuerpo": [
+        [
+          5,
+          75
+        ]
+      ],
+      "motivo_fuera_cuerpo": "Portada, ficha, índice y anexos pendientes de revisión específica; no se eliminan los originales."
+    },
+    "PEN_2023_REGULACION": {
+      "paginas_cuerpo": [
+        [
+          4,
+          26
+        ]
+      ],
+      "motivo_fuera_cuerpo": "Portada, ficha, índice y referencias."
+    }
+  }
+}

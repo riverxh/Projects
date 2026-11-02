@@ -1,0 +1,16 @@
+[
+  {"id":"Q01","grupo":"desarrollo","texto":"¿Cómo restringe la regulación urbana lo que se puede construir?","tipo":"parafrasis"},
+  {"id":"Q02","grupo":"desarrollo","texto":"¿Qué medidas permiten recuperar barrios con infraestructura deficiente?","tipo":"parafrasis"},
+  {"id":"Q03","grupo":"desarrollo","texto":"¿Cómo puede el crecimiento urbano aumentar el riesgo de inundación en Pococí?","tipo":"territorial"},
+  {"id":"Q04","grupo":"desarrollo","texto":"¿Dónde se documenta la situación de planes reguladores cantonales en 2021?","tipo":"documental"},
+  {"id":"Q05","grupo":"reserva","texto":"¿Por qué el crecimiento de las ciudades intermedias se describe como disperso y poco compacto?","tipo":"parafrasis"},
+  {"id":"Q06","grupo":"reserva","texto":"¿Qué problemas enfrenta la aprobación de planes reguladores municipales?","tipo":"literal"},
+  {"id":"Q07","grupo":"reserva","texto":"¿Cómo se relacionan la congestión vial y los desplazamientos hacia San José?","tipo":"territorial"},
+  {"id":"Q08","grupo":"reserva","texto":"¿Qué papel tiene la pendiente del terreno en el valor de la tierra de las ciudades intermedias?","tipo":"parafrasis"},
+  {"id":"Q09","grupo":"reserva","texto":"¿Qué impactos sobre el desarrollo inmobiliario se atribuyen al anillo de contención de la GAM?","tipo":"territorial"},
+  {"id":"Q10","grupo":"reserva","texto":"¿Cómo afectó la pandemia de 2020 a la actividad constructiva en zonas vulnerables?","tipo":"temporal"},
+  {"id":"Q11","grupo":"reserva","texto":"¿Qué vínculos hay entre renovación urbana, vivienda y servicios públicos?","tipo":"parafrasis"},
+  {"id":"Q12","grupo":"reserva","texto":"¿Qué diferencias se observan en el tamaño de los lotes segregados entre 2016 y 2022?","tipo":"temporal"},
+  {"id":"Q13","grupo":"control_sin_respuesta","texto":"¿Cuáles son los requisitos para construir una estación espacial en Marte?","tipo":"fuera_de_tema"},
+  {"id":"Q14","grupo":"control_sin_respuesta","texto":"¿Cuántos permisos de construcción se aprobaron en Costa Rica durante 2035?","tipo":"fuera_de_cobertura"}
+]

@@ -1,0 +1,126 @@
+{
+  "construccion": [
+    {
+      "anio": 2015,
+      "url": "https://admin.inec.cr/sites/default/files/media/reeconomestconstru2015-01_2.xlsx",
+      "bytes": 145505,
+      "sha256": "82e99e6278233ac6910ae96b0eca77697e939eb8a585f52aae4ed9c4c09c1033",
+      "archivo": "data/originales/construccion/Construccion_2015.xlsx"
+    },
+    {
+      "anio": 2016,
+      "url": "https://admin.inec.cr/sites/default/files/media/reeconomestconstru2016-01_0_2.xlsx",
+      "bytes": 150074,
+      "sha256": "e108baca78f7783eb1d307967850301db834aa28a730329f52d0ce4d05b2540e",
+      "archivo": "data/originales/construccion/Construccion_2016.xlsx"
+    },
+    {
+      "anio": 2017,
+      "url": "https://admin.inec.cr/sites/default/files/media/reeconomestconstru2017-01_3.xlsx",
+      "bytes": 138112,
+      "sha256": "a3d510b2d2bf8ee0c4b5b650dda0b23974cc688c83050793f199d7f98e0c1298",
+      "archivo": "data/originales/construccion/Construccion_2017.xlsx"
+    },
+    {
+      "anio": 2018,
+      "url": "https://admin.inec.cr/sites/default/files/media/reeconomestconstru2018-01_2.xlsx",
+      "bytes": 138770,
+      "sha256": "f40e30632451795dd352abb4d49edc52387ab8b04b76587443f30e270c9a7eb4",
+      "archivo": "data/originales/construccion/Construccion_2018.xlsx"
+    },
+    {
+      "anio": 2019,
+      "url": "https://admin.inec.cr/sites/default/files/media/reconstru-destobra-anual2019_2.xlsx",
+      "bytes": 142805,
+      "sha256": "e8e723d30a5a87fd88a81e7bcc1a892be3a0c88e94a429bf00ab538253cb5e56",
+      "archivo": "data/originales/construccion/Construccion_2019.xlsx"
+    },
+    {
+      "anio": 2020,
+      "url": "https://admin.inec.cr/sites/default/files/media/reconstru-destobra-anual2020_2.xlsx",
+      "bytes": 132555,
+      "sha256": "c16c8f1f1d3b116dd5beebd4cfcfe0ca3baebab2397376bb6191ecd28df31a44",
+      "archivo": "data/originales/construccion/Construccion_2020.xlsx"
+    },
+    {
+      "anio": 2021,
+      "url": "https://admin.inec.cr/sites/default/files/media/recontru-detobra-anual2021_1.xlsx",
+      "bytes": 150629,
+      "sha256": "775d3a4390770faa29e7ba972d534d0f805d5464814f7b6a383cf7cc5237e18d",
+      "archivo": "data/originales/construccion/Construccion_2021.xlsx"
+    },
+    {
+      "anio": 2022,
+      "url": "https://admin.inec.cr/sites/default/files/2023-10/reCONSTRU-DESTOBRA%20-%20anual2022.xlsx",
+      "bytes": 157313,
+      "sha256": "65e2a467d17662236e8df15745851f6ce65f0fec752f26b10945c9cc9659cf69",
+      "archivo": "data/originales/construccion/Construccion_2022.xlsx"
+    },
+    {
+      "anio": 2023,
+      "url": "https://admin.inec.cr/sites/default/files/2024-10/reCONSTRU-DESTOBRA-anual%202023.xlsx",
+      "bytes": 151926,
+      "sha256": "2671dae807d185c90d5ca08f8d92e3e16678cf9a09858cc9fbab324a532af6a7",
+      "archivo": "data/originales/construccion/Construccion_2023.xlsx"
+    },
+    {
+      "anio": 2024,
+      "url": "https://admin.inec.cr/sites/default/files/2025-11/reCONSTRU-DEOBRA-anual2024.xlsx",
+      "bytes": 157443,
+      "sha256": "9737709c0649cdd7df4a9aeec05adb33c9bac0eee602da4f4b6a03d1dfc282ce",
+      "archivo": "data/originales/construccion/Construccion_2024.xlsx"
+    }
+  ],
+  "poblacion": {
+    "archivo": "data/originales/poblacion/Poblacion_2000_2050_INEC.xlsx",
+    "sha256": "5b85259af60067712d2d606cb9f5b7d396cf21440799d6274e21754595a3aedf",
+    "url": "https://admin.inec.cr/node/56328",
+    "hoja": "C4"
+  },
+  "textos": [
+    {
+      "id": "PEN_2017_CIUDADES",
+      "anio": 2017,
+      "autor": "Leonardo Sánchez Hernández",
+      "titulo": "Tendencias de crecimiento en ciudades intermedias. Los casos de San Isidro de El General, Ciudad Quesada y Guápiles",
+      "ficha": "https://repositorio.conare.ac.cr/items/9ece2768-86f1-445e-9dae-0193d2f31606",
+      "url": "https://repositorio.conare.ac.cr/bitstreams/ffc6654a-b2d9-45e4-8bb6-abdc001435d6/download",
+      "bytes": 2812754,
+      "sha256": "ce8b075354c073dd11be9f1c824c685a5b53a067232198d79f4c6ff3d09d7411",
+      "archivo": "data/originales/textos/PEN_2017_CIUDADES.pdf"
+    },
+    {
+      "id": "PEN_2018_GAM",
+      "anio": 2018,
+      "autor": "Leonardo Sánchez Hernández",
+      "titulo": "Tendencias y patrones del crecimiento urbano en la GAM, implicaciones sociales, económicas y ambientales y desafíos desde el ordenamiento territorial",
+      "ficha": "https://repositorio.conare.ac.cr/items/f359815a-d0fb-47cc-b981-5ad3f0a4b0b0",
+      "url": "https://repositorio.conare.ac.cr/bitstreams/601c86c8-23bd-42b4-a015-b5c4131b08f4/download",
+      "bytes": 3352370,
+      "sha256": "db977dca52dee6efa0733314db97d982bf91bc15df831178f5dc7b41b289d486",
+      "archivo": "data/originales/textos/PEN_2018_GAM.pdf"
+    },
+    {
+      "id": "PEN_2021_TERRITORIO",
+      "anio": 2021,
+      "autor": "Leonardo Sánchez Hernández",
+      "titulo": "Ordenamiento territorial y crecimiento urbano: desafíos e impactos para las ciudades intermedias y la zona marino costera",
+      "ficha": "https://repositorio.conare.ac.cr/items/f93f1d77-df0d-4635-b790-003ea2e7bb6b",
+      "url": "https://repositorio.conare.ac.cr/bitstreams/eae69823-2edf-474a-8a7d-88fb21cb9b13/download",
+      "bytes": 4155440,
+      "sha256": "86f883f48c8421dd4ed8df8f8730da707d424998d600d3cf80828910fe1ade18",
+      "archivo": "data/originales/textos/PEN_2021_TERRITORIO.pdf"
+    },
+    {
+      "id": "PEN_2023_REGULACION",
+      "anio": 2023,
+      "autor": "Eduardo Pérez Molina",
+      "titulo": "Ordenamiento territorial: impactos de la regulación territorial en la Gran Área Metropolitana",
+      "ficha": "https://repositorio.conare.ac.cr/items/61b3536b-3de6-4fde-a003-c2c15e976387",
+      "url": "https://repositorio.conare.ac.cr/bitstreams/1a6a0295-f5bc-4e19-8be6-c6f55a057f8f/download",
+      "bytes": 1668369,
+      "sha256": "b5db3276e359c133134a4f531c971625a293b6297ecc73228ccf106428b0b85c",
+      "archivo": "data/originales/textos/PEN_2023_REGULACION.pdf"
+    }
+  ]
+}
