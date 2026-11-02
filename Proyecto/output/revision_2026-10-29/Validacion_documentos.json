@@ -1,0 +1,41 @@
+{
+  "manual": {
+    "paginas": 12,
+    "limites_texto_correctos": true,
+    "sha256": "0271633027fd15e4254bcb2003746a175ce8c8068341091519666513afd574d9"
+  },
+  "guia": {
+    "paginas": 36,
+    "limites_texto_correctos": true,
+    "sha256": "06a3ce955042cc2db889acb368bc37e85bf1a931bff0eeba54cd0d262c4b9799"
+  },
+  "presentacion": {
+    "diapositivas": 15,
+    "tablas_nativas": [
+      2,
+      3,
+      5,
+      8,
+      11
+    ],
+    "graficos_nativos": [
+      6,
+      7,
+      10
+    ],
+    "fuentes": {
+      "Arial": 833
+    },
+    "sin_modificaciones": true,
+    "validacion_paquete": {
+      "chart_count": 3,
+      "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+      "finding_count": 0,
+      "findings": [],
+      "notes_parts_skipped": 15,
+      "relationship_part_count": 43,
+      "slide_count": 15,
+      "status": "pass"
+    }
+  }
+}

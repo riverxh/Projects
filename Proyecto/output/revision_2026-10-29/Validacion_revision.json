@@ -1,0 +1,22 @@
+{
+  "fecha": "2026-10-29",
+  "resultado": "revision_local_completa",
+  "pruebas": {
+    "aprobadas": 15,
+    "segundos_finales": 20.83
+  },
+  "correccion": "provincia en destinos para el filtro global de Kibana",
+  "casos_temporales_verificados": 648,
+  "celdas_fuente_comparadas": 144849,
+  "vectores_limpios_identicos": 312,
+  "rankings_identicos": 28,
+  "juicios_conservados": 110,
+  "originales_hash_identicos": 15,
+  "publicado": false,
+  "correo_enviado": false,
+  "documentos_previos_conservados": true,
+  "pendientes": [
+    "ensayo y revisión personal de juicios",
+    "publicación y envío solo cuando Adrián lo autorice"
+  ]
+}

@@ -1,0 +1,6 @@
+...............                                                          [100%]
+============================= slowest 3 durations ==============================
+4.59s call     tests/test_proyecto.py::test_signo_no_se_convierte_en_cero
+3.51s setup    tests/test_proyecto.py::test_fragmentos_conservan_texto_y_respetan_prefijo
+2.71s call     tests/test_proyecto.py::test_categorias_y_detalles_se_conservan_en_niveles_distintos
+15 passed in 20.83s

@@ -1,0 +1,28 @@
+{
+  "embeddings.npz": {
+    "identico_bit_a_bit": true,
+    "max_diferencia_absoluta": 0.0
+  },
+  "consultas_vectores.npz": {
+    "identico_bit_a_bit": true,
+    "max_diferencia_absoluta": 0.0
+  },
+  "codificacion_sin_cache": {
+    "entradas": 298,
+    "nuevos": 298,
+    "reutilizados": 0,
+    "segundos": 38.893354433999775,
+    "lote": 4
+  },
+  "consultas_sin_cache": {
+    "entradas": 14,
+    "nuevos": 14,
+    "reutilizados": 0,
+    "segundos": 0.1395239169978595,
+    "lote": 4
+  },
+  "ranking_y_juicios_sin_cambios": true,
+  "decisiones_sin_cambios": true,
+  "pesos_compartidos_solo_lectura": true,
+  "sin_parquet_modelos_previos_ni_cache_vectores": true
+}

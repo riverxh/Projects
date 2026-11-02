@@ -1,0 +1,54 @@
+{
+  "etl.json": {
+    "identico": true
+  },
+  "decisiones_antes_prueba.json": {
+    "identico": true
+  },
+  "embeddings_inicial.json": {
+    "identico": true
+  },
+  "protocolo_busqueda.json": {
+    "identico": true
+  },
+  "evaluacion_busqueda.json": {
+    "identico": true
+  },
+  "modelos_configuracion": {
+    "filas_supervisadas": true,
+    "particiones": true,
+    "folds": true,
+    "seleccion": true,
+    "escala_objetivo_ajuste": true,
+    "escala_seleccion_y_metricas": true,
+    "limitacion_cv": true,
+    "limitacion_versiones": true
+  },
+  "segundos_entrenamiento": {
+    "28_oct": 23.906546469000205,
+    "29_oct": 22.981368927001313
+  },
+  "predicciones.csv": {
+    "filas": 324,
+    "cambios_redondeo": 63,
+    "max_diferencia": 4.656612873077393e-10
+  },
+  "casos_supervisados.csv": {
+    "filas": 648,
+    "cambios_redondeo": 0,
+    "max_diferencia": 0
+  },
+  "integrado.csv": {
+    "filas": 810,
+    "cambios_redondeo": 0,
+    "max_diferencia": 0
+  },
+  "resumen_busqueda.csv": {
+    "filas": 6,
+    "cambios_redondeo": 0,
+    "max_diferencia": 0
+  },
+  "ranking_28_busquedas_identico": true,
+  "doc/Presentacion_proyecto.pptx": "sin modificaciones",
+  "output/pdf/Manual_proyecto.pdf": "sin modificaciones"
+}

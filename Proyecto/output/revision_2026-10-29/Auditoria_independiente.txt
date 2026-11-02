@@ -1,0 +1,51 @@
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+26/10/29 16:16:18 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+{
+  "originales_hash_validado": 15,
+  "celdas_releidas_y_comparadas": 144849,
+  "integrados_reconstruidos_independientemente": 810,
+  "casos_rezagados_sin_datos_contemporaneos": 648,
+  "metricas_recalculadas_numpy": true,
+  "consultas_y_juicios": {
+    "consultas": 14,
+    "busquedas": 28,
+    "pares_unicos": 110,
+    "sin_juicios_nuevos": true
+  },
+  "vectores_y_tokens": {
+    "pasajes": 298,
+    "consultas": 14,
+    "dimensiones": 384,
+    "max_tokens": 397,
+    "vectores_finitos_normalizados": true
+  },
+  "cache_comparada_vector_por_vector": 312,
+  "modelos_finales_inspeccionados": {
+    "lineal": {
+      "atributos_correctos": true,
+      "escalador_solo_486_casos_2017_2022": true
+    },
+    "bosque": {
+      "atributos_correctos": true,
+      "escalador_solo_486_casos_2017_2022": true
+    }
+  },
+  "contenido_completo_indices_tabulares": {
+    "cp-construccion": 818,
+    "cp-poblacion": 840,
+    "cp-destinos": 12121,
+    "cp-integrado": 810,
+    "cp-predicciones": 324
+  },
+  "restricciones_sql": {
+    "f": 4,
+    "c": 2,
+    "p": 8
+  },
+  "filtro_destinos_Heredia_2024": {
+    "area_m2": 377135.0,
+    "sql_y_elasticsearch_coinciden": true,
+    "resultados": 54
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "archivo": "config/textos.json",
+  "motivo": "Eliminar parámetros heredados del piloto que no eran leídos por el programa final (rutas externas, fragmentos por documento, benchmark e hilos 4).",
+  "claves_retiradas": [
+    "entrada",
+    "inventario_originales",
+    "max_tokens_fragmento_con_prefijo",
+    "solapamiento_tokens_aproximado",
+    "fragmentos_por_documento",
+    "hilos_cpu",
+    "dispositivo",
+    "lotes_comparados",
+    "repeticiones_benchmark",
+    "fragmentos_benchmark"
+  ],
+  "impacto": "Ningún cambio en corpus, tokenización, lotes reales, modelo, consultas, hiperparámetros ni juicios. Se mantienen las reglas efectivamente usadas."
+}

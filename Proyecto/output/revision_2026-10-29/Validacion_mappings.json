@@ -1,0 +1,31 @@
+{
+  "cp-construccion": {
+    "propiedades_configuradas_coinciden": true,
+    "documentos": 818
+  },
+  "cp-destinos": {
+    "propiedades_configuradas_coinciden": true,
+    "documentos": 12121
+  },
+  "cp-integrado": {
+    "propiedades_configuradas_coinciden": true,
+    "documentos": 810
+  },
+  "cp-poblacion": {
+    "propiedades_configuradas_coinciden": true,
+    "documentos": 840
+  },
+  "cp-predicciones": {
+    "propiedades_configuradas_coinciden": true,
+    "documentos": 324
+  },
+  "cp-texto": {
+    "propiedades_configuradas_coinciden": true,
+    "documentos": 298
+  },
+  "cp-vector": {
+    "propiedades_configuradas_coinciden": true,
+    "documentos": 298
+  },
+  "nota": "Elasticsearch añade los valores predeterminados HNSW m=16, ef_construction=100; se contrastaron todas las propiedades explícitas."
+}
