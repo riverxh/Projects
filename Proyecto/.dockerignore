@@ -1,0 +1,8 @@
+.git
+.cache
+output
+data
+doc
+notebooks
+__pycache__
+*.zip

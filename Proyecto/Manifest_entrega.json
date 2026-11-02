@@ -1,0 +1,726 @@
+{
+  "version": "2026-10-29",
+  "descripcion": "Versión revisada para GitHub. Población completa disponible en el ZIP de entrega.",
+  "archivos": [
+    {
+      "archivo": ".dockerignore",
+      "bytes": 56,
+      "sha256": "cfce380847de444aa9597cb31ec8acc140e9d6fca9e88c1f16be464082c27626"
+    },
+    {
+      "archivo": ".env.example",
+      "bytes": 62,
+      "sha256": "5c28f7e7fb1fd95fab3375b383468c6a3e75ec2c7e2d3d2bf22760f40ff1d444"
+    },
+    {
+      "archivo": ".gitignore",
+      "bytes": 258,
+      "sha256": "3fe337d14cd54ba4a638e7ef2fb87ddf9869fdf9926eb274f26025ae4f9fcd2e"
+    },
+    {
+      "archivo": "Dockerfile",
+      "bytes": 979,
+      "sha256": "8152f51789856cc337f78900b9a14c442e3247fb945d9afb86d641e9de0fa03d"
+    },
+    {
+      "archivo": "LEER.md",
+      "bytes": 862,
+      "sha256": "0a8b3ecb814a1f3c4efd4f44e73b7e27b0fc23a4c0cb8b1b4854fd48bfabef42"
+    },
+    {
+      "archivo": "README.md",
+      "bytes": 8405,
+      "sha256": "b90b4b008ab418f070728a4aa8b5195979ae78df828b9ae6ad1930a33b737349"
+    },
+    {
+      "archivo": "config/consultas.json",
+      "bytes": 2105,
+      "sha256": "b7287c391bc33d86534760523d24de088864850b27b527fbb256a3042e180283"
+    },
+    {
+      "archivo": "config/fuentes.json",
+      "bytes": 5887,
+      "sha256": "7aba3dcbd8a909c2ebb14781de88de3584fe91755017d6d55c06f2a7f47a00ee"
+    },
+    {
+      "archivo": "config/modelo.json",
+      "bytes": 158,
+      "sha256": "f369a50ae805c9640f2993e5f3df496554de78c0a7aacd702dcbebb27543df18"
+    },
+    {
+      "archivo": "config/relevancia.json",
+      "bytes": 30849,
+      "sha256": "d3d3b3abdf7cde0bf417c60de2faee55516fd7ce719e69d8790b704b2e65c4f0"
+    },
+    {
+      "archivo": "config/textos.json",
+      "bytes": 1187,
+      "sha256": "5a14e76e45b69d8dd618f1c6d349b095692f2484427972c33f46bb6d599a11ce"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2015.xlsx",
+      "bytes": 145505,
+      "sha256": "82e99e6278233ac6910ae96b0eca77697e939eb8a585f52aae4ed9c4c09c1033"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2016.xlsx",
+      "bytes": 150074,
+      "sha256": "e108baca78f7783eb1d307967850301db834aa28a730329f52d0ce4d05b2540e"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2017.xlsx",
+      "bytes": 138112,
+      "sha256": "a3d510b2d2bf8ee0c4b5b650dda0b23974cc688c83050793f199d7f98e0c1298"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2018.xlsx",
+      "bytes": 138770,
+      "sha256": "f40e30632451795dd352abb4d49edc52387ab8b04b76587443f30e270c9a7eb4"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2019.xlsx",
+      "bytes": 142805,
+      "sha256": "e8e723d30a5a87fd88a81e7bcc1a892be3a0c88e94a429bf00ab538253cb5e56"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2020.xlsx",
+      "bytes": 132555,
+      "sha256": "c16c8f1f1d3b116dd5beebd4cfcfe0ca3baebab2397376bb6191ecd28df31a44"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2021.xlsx",
+      "bytes": 150629,
+      "sha256": "775d3a4390770faa29e7ba972d534d0f805d5464814f7b6a383cf7cc5237e18d"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2022.xlsx",
+      "bytes": 157313,
+      "sha256": "65e2a467d17662236e8df15745851f6ce65f0fec752f26b10945c9cc9659cf69"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2023.xlsx",
+      "bytes": 151926,
+      "sha256": "2671dae807d185c90d5ca08f8d92e3e16678cf9a09858cc9fbab324a532af6a7"
+    },
+    {
+      "archivo": "data/originales/construccion/Construccion_2024.xlsx",
+      "bytes": 157443,
+      "sha256": "9737709c0649cdd7df4a9aeec05adb33c9bac0eee602da4f4b6a03d1dfc282ce"
+    },
+    {
+      "archivo": "data/originales/textos/PEN_2017_CIUDADES.pdf",
+      "bytes": 2812754,
+      "sha256": "ce8b075354c073dd11be9f1c824c685a5b53a067232198d79f4c6ff3d09d7411"
+    },
+    {
+      "archivo": "data/originales/textos/PEN_2018_GAM.pdf",
+      "bytes": 3352370,
+      "sha256": "db977dca52dee6efa0733314db97d982bf91bc15df831178f5dc7b41b289d486"
+    },
+    {
+      "archivo": "data/originales/textos/PEN_2021_TERRITORIO.pdf",
+      "bytes": 4155440,
+      "sha256": "86f883f48c8421dd4ed8df8f8730da707d424998d600d3cf80828910fe1ade18"
+    },
+    {
+      "archivo": "data/originales/textos/PEN_2023_REGULACION.pdf",
+      "bytes": 1668369,
+      "sha256": "b5db3276e359c133134a4f531c971625a293b6297ecc73228ccf106428b0b85c"
+    },
+    {
+      "archivo": "doc/Analisis_resultados.md",
+      "bytes": 9664,
+      "sha256": "5c836d4f4d4652c185052241cf62bdde6949065faa8768f56ff44b735bbb3c28"
+    },
+    {
+      "archivo": "doc/Criterio_relevancia.md",
+      "bytes": 2050,
+      "sha256": "89563dd3fcd9d521fc5b053ee544e63d886765077ae1021e7d9787d835533284"
+    },
+    {
+      "archivo": "doc/Esquemas.md",
+      "bytes": 5108,
+      "sha256": "9515bc93ed2f7e4266b2c1c8c96e14a444419ab199cdbbe9334d343e34adb7c7"
+    },
+    {
+      "archivo": "doc/Fuentes_y_procedimientos.md",
+      "bytes": 5270,
+      "sha256": "51c5dd6f606b980e9b4f06d814614cfd6d8fe046808387cb3ad094cc75021d20"
+    },
+    {
+      "archivo": "doc/Guion_presentacion.md",
+      "bytes": 14000,
+      "sha256": "75dac1c4ac25500e78f55ff101f2a908b861e6507dff985351be3bf8cf6dee2b"
+    },
+    {
+      "archivo": "doc/Lista_entrega.md",
+      "bytes": 2288,
+      "sha256": "7f0b68f7bf8bad4ed176122bde3d3a78e38540b33781a9fe45c3adeb2f1fa36a"
+    },
+    {
+      "archivo": "doc/Presentacion_proyecto.pptx",
+      "bytes": 77865,
+      "sha256": "3f04243b4fdde8df1e8ec9af3c493805d4d35889d679cab25e5b0e9706b4efcc"
+    },
+    {
+      "archivo": "doc/Revision_2026-10-29.md",
+      "bytes": 16494,
+      "sha256": "80235b5bcb11699bc8fb7fb188167348e9d3f5c583fd985a4612f030f7a6d1d5"
+    },
+    {
+      "archivo": "doc/Validacion.md",
+      "bytes": 3582,
+      "sha256": "2b3fd7b44109f79b02ffdd52536e6b7d173627eedf8a733e9858075beb18dbcf"
+    },
+    {
+      "archivo": "docker-compose.yaml",
+      "bytes": 2222,
+      "sha256": "951e20fb3763b1621818d6c033eda7355434d5088eb1fba5319d8c21fbd105df"
+    },
+    {
+      "archivo": "elastic/Consultas_Kibana.http",
+      "bytes": 38731,
+      "sha256": "17d85437060c413047a1390f1c3b045181f2d2be7e0f479b52feb34d7d353186"
+    },
+    {
+      "archivo": "elastic/cp-construccion_mapping.json",
+      "bytes": 1491,
+      "sha256": "076c52d64d4f9da2f7a74848c04cea19d3a896a8cd2cf8d77e85fb18c176c5e9"
+    },
+    {
+      "archivo": "elastic/cp-destinos_mapping.json",
+      "bytes": 1913,
+      "sha256": "d21c41052c7ff0e538b08e967be7ec1d24d70fccbfee60a40b90c5cb77942541"
+    },
+    {
+      "archivo": "elastic/cp-integrado_mapping.json",
+      "bytes": 1797,
+      "sha256": "eb09204e1c7e316003bb7d529f4b7694c568011a7279817a8219e81442172272"
+    },
+    {
+      "archivo": "elastic/cp-poblacion_mapping.json",
+      "bytes": 1157,
+      "sha256": "033bd21239f94925ee2c935a6ffc9d9549abbadafe168e202af9d69d8d217afe"
+    },
+    {
+      "archivo": "elastic/cp-predicciones_mapping.json",
+      "bytes": 959,
+      "sha256": "137b814f02ccdef54ad05a47d4690041f7aec8149d0234643b462869fd6b11ce"
+    },
+    {
+      "archivo": "elastic/cp-texto_mapping.json",
+      "bytes": 1084,
+      "sha256": "2e55930d0ff0b29549cee77c4e9d0252fc365c4675444bfa8316da79583f8ec7"
+    },
+    {
+      "archivo": "elastic/cp-vector_mapping.json",
+      "bytes": 1284,
+      "sha256": "d34d423805f927911eda8af48d45bf4828097d5a4c5d69b61996727fe47a219b"
+    },
+    {
+      "archivo": "functions/__init__.py",
+      "bytes": 64,
+      "sha256": "b44606f1186857c48a04d93e582ae7882893733f174eec25630ff9cb3729135a"
+    },
+    {
+      "archivo": "functions/busquedas.py",
+      "bytes": 5391,
+      "sha256": "957b1948335a5b9b3ce8f7d3dbdf7664594fac83d4dd0b57a06bc4506d618ffb"
+    },
+    {
+      "archivo": "functions/dashboard.py",
+      "bytes": 7190,
+      "sha256": "696951fb49073de3a3e76944a84eb177c92de66205295ef1b794141a9cac6d8f"
+    },
+    {
+      "archivo": "functions/datos.py",
+      "bytes": 16857,
+      "sha256": "668d5910435982b96470ef5ad872038c78b006c57ada7672e5aec5effe9cd235"
+    },
+    {
+      "archivo": "functions/entorno.py",
+      "bytes": 578,
+      "sha256": "038497ee6bde3e90ebe8d57ab4c62c732034c897b27cdf8b405c2dcc538e144c"
+    },
+    {
+      "archivo": "functions/fragmentacion.py",
+      "bytes": 4887,
+      "sha256": "01c291dd1162d09904e6df4e0cdad645ef99eef11e79b5467b56a95325f24cac"
+    },
+    {
+      "archivo": "functions/materializacion.py",
+      "bytes": 12612,
+      "sha256": "edee58a401191b7c5369c2c18b5e6697159aa7f9bb9d0b247dcf87f6a27ee3c1"
+    },
+    {
+      "archivo": "functions/modelos.py",
+      "bytes": 10636,
+      "sha256": "376ce6483d0fca698f90a2bf83971b5f289fc0c442c9d8b4d9dd01061f97367d"
+    },
+    {
+      "archivo": "functions/textos.py",
+      "bytes": 10104,
+      "sha256": "a06e00813cd4693260085d80c94c3a5d60b7f9eeee0875a6db37637f00336eff"
+    },
+    {
+      "archivo": "kibana/cp-viz-area.json",
+      "bytes": 1318,
+      "sha256": "7e311a53b488bee10a07ca4ebd467a9458a4e8572ab06053e585937824cd1f6a"
+    },
+    {
+      "archivo": "kibana/cp-viz-destinos.json",
+      "bytes": 1459,
+      "sha256": "cf0288b8731a4a0e66f4ac47b34c959cadcc77205c2876e8611ba567987e1770"
+    },
+    {
+      "archivo": "kibana/cp-viz-errores.json",
+      "bytes": 1170,
+      "sha256": "acb8e386927557952108cc54a240085f6ed998d423be14d7254c16a4af7aee55"
+    },
+    {
+      "archivo": "kibana/cp-viz-habitante.json",
+      "bytes": 1434,
+      "sha256": "023aec4cc29d8480024d716d05dcfb165b2266e6c61f7e3387f073ca1f374026"
+    },
+    {
+      "archivo": "kibana/cp-viz-obras.json",
+      "bytes": 1187,
+      "sha256": "2d441d1dad6faa57a5e93dbd71eebe32a70c3f3687b1c76dbd6998be99e3df06"
+    },
+    {
+      "archivo": "kibana/dashboard.ndjson",
+      "bytes": 11787,
+      "sha256": "aa635e1a79976928193aa6a5d53655061072b4841232ec3686c5011719f5e6fe"
+    },
+    {
+      "archivo": "notebooks/Proyecto_Construccion_Poblacion.ipynb",
+      "bytes": 544393,
+      "sha256": "a92b20b9910d6a2d246c8bc53a4d36958635cb3fa4201ec534e44fe3ad05f0ef"
+    },
+    {
+      "archivo": "output/Consulta_BM25_Kibana.png",
+      "bytes": 96815,
+      "sha256": "d0bf548863bb28c0ff4d2fb1e376dde6c7a5751205ebae6f992c8e33f48d2dbd"
+    },
+    {
+      "archivo": "output/Consulta_vectorial_Kibana.png",
+      "bytes": 119543,
+      "sha256": "f75028b7d750ca1479a546e543840faf60a08b46281f3f1e0202f20dc4e58fd8"
+    },
+    {
+      "archivo": "output/Dashboard_completo.png",
+      "bytes": 125368,
+      "sha256": "99885d1cbb99095099ba82ab6d98327f09bcc73a6a3b21ba07114ccbb4e6ca73"
+    },
+    {
+      "archivo": "output/Dashboard_filtro_Heredia.png",
+      "bytes": 78647,
+      "sha256": "b03d18d1af05e95d5199c9219426f339de5ba1e7d152f41a9db625eb9691addf"
+    },
+    {
+      "archivo": "output/Dashboard_inferior.png",
+      "bytes": 100911,
+      "sha256": "603215d195efb9d93278e88837782035b38461f12f13012348e0584fb2699fc4"
+    },
+    {
+      "archivo": "output/Ejecucion_completa.txt",
+      "bytes": 6415,
+      "sha256": "254c43188bbe33edfc666266f6006ceb9350f860b72e4d18fe0084746050faf0"
+    },
+    {
+      "archivo": "output/Pruebas.txt",
+      "bytes": 100,
+      "sha256": "5362f5c3dab3b9bb8d0d09c1f7e290c199338fe3486111e7f4d672eff009e327"
+    },
+    {
+      "archivo": "output/Verificacion_SQL.txt",
+      "bytes": 9745,
+      "sha256": "23d20781e2d434fb10056c82619eeb0e3b922edd9b96ec52b5810e7f8b5a226a"
+    },
+    {
+      "archivo": "output/atributos_modelos.csv",
+      "bytes": 683,
+      "sha256": "8a160c63fc88d4d795075d0bfca36a090f37cedcad19f1e8c402f6c96aa79fb3"
+    },
+    {
+      "archivo": "output/auditoria_signos.json",
+      "bytes": 65118,
+      "sha256": "942d21d490fa9c6016d304ac6d42ec14d667f1d6c21375cd2cec748c0ed0ae4b"
+    },
+    {
+      "archivo": "output/cargas.json",
+      "bytes": 593,
+      "sha256": "856816b7cc94a61a0b88bde185c407e3009ad04927e11756b749693ae7c5f3c2"
+    },
+    {
+      "archivo": "output/casos_supervisados.csv",
+      "bytes": 110350,
+      "sha256": "9d98ab351a1078648832cc8ddedaa4500929edb5882b5301c0e8b6c140ee5805"
+    },
+    {
+      "archivo": "output/consultas_vectores.npz",
+      "bytes": 20266,
+      "sha256": "db341263a5b090ff6567784304a4541bbe3db055621b19fe02922bc8a24d11ca"
+    },
+    {
+      "archivo": "output/cv_particiones.csv",
+      "bytes": 49,
+      "sha256": "08d2530c62cf81e256757a5e0db27101971974120af8532c5dcd3279e3ebc2fa"
+    },
+    {
+      "archivo": "output/dashboard.json",
+      "bytes": 13820,
+      "sha256": "44c587e4eeb4f7a9443a363d78933d18c07cf2cfee68701f0c1339c27f7d37c3"
+    },
+    {
+      "archivo": "output/decisiones_antes_prueba.json",
+      "bytes": 449,
+      "sha256": "5c558d3e7081b041f1ef71b5843c5b9ac0960537957536150493d19363a116c0"
+    },
+    {
+      "archivo": "output/embeddings.json",
+      "bytes": 1355,
+      "sha256": "b769e47168f6289590dbb9c9715b774c304cacc507de8c00bfacbb6cd681459e"
+    },
+    {
+      "archivo": "output/embeddings.npz",
+      "bytes": 426148,
+      "sha256": "946ec0acce8b8e2265b1b3694787e74b474c30244873162378ee4f2286926c66"
+    },
+    {
+      "archivo": "output/embeddings_inicial.json",
+      "bytes": 1345,
+      "sha256": "186ebf2d51b1727a75baa0803e9f2c0f591501587972c8f4de062c56022903d8"
+    },
+    {
+      "archivo": "output/errores_territorio.csv",
+      "bytes": 11360,
+      "sha256": "bdf56d9c965c2495bb7c29a045c0a61324b2f32345d9005e0a5b1239b6cf9cbf"
+    },
+    {
+      "archivo": "output/etl.json",
+      "bytes": 514,
+      "sha256": "f06345c50623fd92b9a99e22ba2bc7b085c6b6192a8b460acc2e08c7bc15f403"
+    },
+    {
+      "archivo": "output/evaluacion_busqueda.json",
+      "bytes": 1410,
+      "sha256": "b905ee30654aacce7016853d04002ae8bb21eea326921a4e4ced425569617a42"
+    },
+    {
+      "archivo": "output/fragmentos.jsonl",
+      "bytes": 640417,
+      "sha256": "f687d93f8b948979ed25f53456f58589e0cb83accfe4770c6cbdc46f2a7688c8"
+    },
+    {
+      "archivo": "output/graficos/arquitectura.png",
+      "bytes": 89164,
+      "sha256": "c2314fa941aded433df4f91a7fa007bccbb216ce5470bf0d688c3fd4bb826c9c"
+    },
+    {
+      "archivo": "output/graficos/atributos_modelos.png",
+      "bytes": 58888,
+      "sha256": "9f74a3b674b8fd7f3ccaf60af6a62e39c64aa1f5f61a2202df0f56523a544e09"
+    },
+    {
+      "archivo": "output/graficos/comparacion_busquedas.png",
+      "bytes": 37534,
+      "sha256": "94e42bb2a38a61f3705bdbc530905062fd83ab342edd315fb31260173a940272"
+    },
+    {
+      "archivo": "output/graficos/errores_modelos.png",
+      "bytes": 33125,
+      "sha256": "d24aaa13b8ac50e073f81a0451ef3878f229f22a8218310802ae7abd86c7259b"
+    },
+    {
+      "archivo": "output/graficos/errores_territorio.png",
+      "bytes": 64152,
+      "sha256": "24f11fbb0679fb7329f6345e4a94dc5e4dfe42cddecc41b2bce35d6c82041145"
+    },
+    {
+      "archivo": "output/graficos/evaluacion_temporal.png",
+      "bytes": 54099,
+      "sha256": "fbd8317ef0b7428f37b60c6db06a71d8ff7e8d8847f84e724fdd5a5f3b81b50a"
+    },
+    {
+      "archivo": "output/graficos/evolucion_area.png",
+      "bytes": 51398,
+      "sha256": "922a09b4cd78899dea11e3aa3782340e2d775b52221bab0ad0d16bb191034d84"
+    },
+    {
+      "archivo": "output/graficos/observado_predicho.png",
+      "bytes": 76793,
+      "sha256": "cb2211089315299e89a9c9b21f6f0415a9976029f29c38905d743c1705d4633c"
+    },
+    {
+      "archivo": "output/integrado.csv",
+      "bytes": 216015,
+      "sha256": "4e850042212b4f7e853ecbe03ce147e94d1a7d563c3785b1c09bdb565232368f"
+    },
+    {
+      "archivo": "output/metricas_busqueda.csv",
+      "bytes": 2107,
+      "sha256": "ad864f574abd48b1e6b9c723a9d15d262bbbcc3bea9ce4bf5511f4ae287dad2a"
+    },
+    {
+      "archivo": "output/metricas_modelos.csv",
+      "bytes": 741,
+      "sha256": "072f4f515b4b62e8ced7e879b2a486f9e09f6847c1292b6b473390a6b8ddfdc2"
+    },
+    {
+      "archivo": "output/modelos.json",
+      "bytes": 3080,
+      "sha256": "0f6203add4f9407cc972a222b7f9cf0073a7e0a3cccc7a49d6c6ab95f8c4457d"
+    },
+    {
+      "archivo": "output/pdf/Manual_proyecto.pdf",
+      "bytes": 446599,
+      "sha256": "0271633027fd15e4254bcb2003746a175ce8c8068341091519666513afd574d9"
+    },
+    {
+      "archivo": "output/pool_relevancia.json",
+      "bytes": 251798,
+      "sha256": "a055abbaf62dd1283fa6244efcf8061396933b66217c62501d4e05f348de2ed6"
+    },
+    {
+      "archivo": "output/predicciones.csv",
+      "bytes": 36428,
+      "sha256": "1efd6df90d36b9c19231a2f84b91e97e26a8257f0ab2e9c286117f8bf4249f0e"
+    },
+    {
+      "archivo": "output/protocolo_busqueda.json",
+      "bytes": 758,
+      "sha256": "f03388f7aa4c2656149c5599a30c24210e9dd10645c44d46e6e68b53f30e170d"
+    },
+    {
+      "archivo": "output/reconciliacion_nacional.csv",
+      "bytes": 839,
+      "sha256": "11477b52c413e6a105f01a8757aed2cbe54ddc4dc5c38a58a788a7b10a2b1d56"
+    },
+    {
+      "archivo": "output/resultados_busqueda.json",
+      "bytes": 327867,
+      "sha256": "d7df95ce1ce4d6befc1535c9e06d7b7367558374048694cb42fee8698aee8988"
+    },
+    {
+      "archivo": "output/resumen_anual.csv",
+      "bytes": 419,
+      "sha256": "4e11e4586680f53742accd621c1e2bbbfc56afebd4b5b4113cbef5b2506174b3"
+    },
+    {
+      "archivo": "output/resumen_busqueda.csv",
+      "bytes": 317,
+      "sha256": "26b1d8bd213c438f67cf8391cbaaa6f393abe6cf4219d1b9efe6a98fdf9a0844"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Auditoria_independiente.txt",
+      "bytes": 1461,
+      "sha256": "a9a3c57f0e1307903ab98848ab5bcf313a27ad45d6ddedac193d68ab03e60161"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Auditoria_resultados.json",
+      "bytes": 1188,
+      "sha256": "3ec52816c277da4d1737135c0e7899bf1c6b3fbeab2aa121a07aef0e537364d2"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Busquedas_finales.txt",
+      "bytes": 71,
+      "sha256": "15ff41cbef3554f6853d0faff868c15b2610ae0f83624b4ca604c8d1626bac36"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Cambios_configuracion.json",
+      "bytes": 667,
+      "sha256": "cfc32821a5cbcb7bc9199a78f73e25308a69ef564045c04cfe12135196651aef"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Comparacion_28_29.json",
+      "bytes": 1226,
+      "sha256": "2a8482f95073cdf64e23f23780f90f0106fd2e13085683d806e3bb04e7274398"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Comparacion_ejecucion_limpia.json",
+      "bytes": 664,
+      "sha256": "f263bf75a9b259fd431c03a2748356b9d4c6479523fd7e50eeda296869a3a06d"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Dashboard_Heredia_inferior.png",
+      "bytes": 85998,
+      "sha256": "6d1e168edc61da882e49bba646d0c177993cb973b9fa38ab250450367922048d"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Dashboard_Heredia_superior.png",
+      "bytes": 78796,
+      "sha256": "f78990dca4719cbab8d4b5ae977ea5d69d535ec9fd2f438f73b485e1c8d865f4"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Dashboard_completo_inferior.png",
+      "bytes": 101501,
+      "sha256": "bd128d05806604bba39e50afe43d5b1dcfd75f79a5a5c6d72eed8fad1265361a"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Dashboard_completo_superior.png",
+      "bytes": 91694,
+      "sha256": "e0f77cc4bd63a9b04773017a600c346d11459521ec4cb3679ddbaf8261777fad"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/DevTools_texto_Q03.png",
+      "bytes": 104545,
+      "sha256": "9fbea4b1cb7e5d3223de70fc3adc5034b871daf4330280a882fb1239b2bc214e"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/DevTools_vector_Q03.png",
+      "bytes": 132994,
+      "sha256": "b8d0c938edb1dc9b4983c325d5abc00ea7c95b7c315ccb326d8bc71aa2769c37"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Ejecucion_corregida.txt",
+      "bytes": 6422,
+      "sha256": "1841b6633d6c633369140b131c5513bef6f6d4e98d755ca722e991775c00ecfa"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Ejecucion_limpia.txt",
+      "bytes": 6556,
+      "sha256": "01140514a28dbf868d65df916ae03f94f6f4c0441947ebeade47b460025b19f3"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/LEER.md",
+      "bytes": 914,
+      "sha256": "b556451856509d596f7cd76adeb0902811b0a5a1c20117b9353478d74edf25ef"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Notebook.txt",
+      "bytes": 357,
+      "sha256": "913725039cf2d8974244960b6f64142c42ecac7b9c3980db852b3b9e8fa68913"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Notebook_verificado.json",
+      "bytes": 158,
+      "sha256": "f39e60fc397452e419168613567e4309154d61bc3bffd42667b1705dd9ec35c4"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Pruebas_finales.txt",
+      "bytes": 445,
+      "sha256": "cbb8724bbdfccd5e086ba54d9e30d91259e66de1c25aab4ae7be1bc72c98a78b"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Recarga_final.txt",
+      "bytes": 1320,
+      "sha256": "0de2eb68ebc1f3061eb532a46ce22aa72313d73c24fd107ed680b99a0a14058c"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Validacion_PPTX.json",
+      "bytes": 314,
+      "sha256": "b6d93cbfbe844fcffb141695e12be368d8f6763fe1edbddc3d961c4e1e34beb0"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Validacion_documentos.json",
+      "bytes": 949,
+      "sha256": "9583f76d20a0f46e4c9b334c9b185b17b47967cf40b24dc10f7f70cd8353096f"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Validacion_mappings.json",
+      "bytes": 813,
+      "sha256": "31cfca04ba940295d097eb6f3b705bd210f742ab6f645e4881036248e2a07dae"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Validacion_revision.json",
+      "bytes": 641,
+      "sha256": "1263f34c9d587b6feebe53d5ec461ab565d3a39d3799814da0ed11efc93006d8"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/Versiones.json",
+      "bytes": 49,
+      "sha256": "ab82d948a42c35b24de4f130c7bc9f2006e3d7d3d922611f47906265c42042ce"
+    },
+    {
+      "archivo": "output/revision_2026-10-29/auditar_resultados.py",
+      "bytes": 11261,
+      "sha256": "05665b5cdd5d61af77c77018008b89de70fff8ad690e57853ce713f62af7b47e"
+    },
+    {
+      "archivo": "output/revision_corpus.json",
+      "bytes": 181639,
+      "sha256": "62825871f88b9279ee455053128f47d6b213ed28fcfafd0f7051936ac67a8d55"
+    },
+    {
+      "archivo": "output/validacion_cruzada.csv",
+      "bytes": 873,
+      "sha256": "ff23a77b18eec41f9f9af4ac7a3767f27c2cfcf15aeecba5db848a4d45729e00"
+    },
+    {
+      "archivo": "output/validacion_entrega.json",
+      "bytes": 1154,
+      "sha256": "55320b9d1c1d102b799944e06d90aa6b85b1d930474de203a1eaea08eafaf817"
+    },
+    {
+      "archivo": "output/validacion_mappings_2026-10-29.json",
+      "bytes": 813,
+      "sha256": "31cfca04ba940295d097eb6f3b705bd210f742ab6f645e4881036248e2a07dae"
+    },
+    {
+      "archivo": "output/validacion_modelos.csv",
+      "bytes": 481,
+      "sha256": "3cf886cf3869348e17b1844f07d9cbbd8b025ab33798fb9f8d8a63c8cfbdb040"
+    },
+    {
+      "archivo": "output/verificacion_bases.json",
+      "bytes": 860,
+      "sha256": "d666f02950c132e2c59f7e47b6c0e9b91be1973b792bafa9d056d29151641ad5"
+    },
+    {
+      "archivo": "programa.py",
+      "bytes": 1621,
+      "sha256": "8f26b4cd668d5660d4bc7779e913c1026aff570f173f24546a833dc5b4bca716"
+    },
+    {
+      "archivo": "pytest.ini",
+      "bytes": 42,
+      "sha256": "b160d82f7811555051f8966d8e02750a985227c1d022208c784e606946f2eada"
+    },
+    {
+      "archivo": "requirements.lock.txt",
+      "bytes": 2380,
+      "sha256": "a8e33e89878f625ef47ece6e0a658bb13989ea3645b11a50e566fdc8fd2e309e"
+    },
+    {
+      "archivo": "requirements.txt",
+      "bytes": 289,
+      "sha256": "70c92d8789f883907ecead3865d0a67414dafa6c6df5b864c033fffaf361699a"
+    },
+    {
+      "archivo": "scripts/crear_notebook.py",
+      "bytes": 7844,
+      "sha256": "7a53f334bb302148ddda8302ec7604d17067de794889d238b5abfb982da25ab8"
+    },
+    {
+      "archivo": "scripts/descargar_modelo.py",
+      "bytes": 635,
+      "sha256": "21ea69691f92c9f32cb270ce7b3833eca3792b8a3371a250dea01ea08c9d2003"
+    },
+    {
+      "archivo": "scripts/ejecutar_notebook.py",
+      "bytes": 405,
+      "sha256": "a74f8fa44891090581d1a7c042bb9bd3fdb26a4d745c919c62d67cdbb36f75da"
+    },
+    {
+      "archivo": "scripts/generar_analisis.py",
+      "bytes": 15522,
+      "sha256": "4f00aca9d3a5380fd9bd8896c10805bb6ce98074675ea54252b3e24fc93bbc97"
+    },
+    {
+      "archivo": "sql/Esquema.sql",
+      "bytes": 9025,
+      "sha256": "45ba6227741070945481a6421b3e50102cdb065bdb497b986f7346b16ea42927"
+    },
+    {
+      "archivo": "sql/Verificacion.sql",
+      "bytes": 1808,
+      "sha256": "3f95465def87dcd1513feb365c7fd8684a8b6b7cad5c5e882749571add80b325"
+    },
+    {
+      "archivo": "tests/test_proyecto.py",
+      "bytes": 8208,
+      "sha256": "11a65e7368adb378a50613cef97778bb1054bd84b90bfc9b61f3d05debaa293c"
+    }
+  ]
+}

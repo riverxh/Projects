@@ -1,0 +1,77 @@
+name: construccion-poblacion
+services:
+  postgres:
+    image: postgres:16.6
+    environment:
+      POSTGRES_DB: proyecto
+      POSTGRES_USER: estudiante
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-proyecto_local}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    mem_limit: 256m
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U estudiante -d proyecto"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+    environment:
+      discovery.type: single-node
+      xpack.security.enabled: "false"
+      ES_JAVA_OPTS: -Xms384m -Xmx384m
+    ports:
+      - "127.0.0.1:9204:9200"
+    volumes:
+      - elastic_data:/usr/share/elasticsearch/data
+    mem_limit: 1g
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:9200/_cluster/health?wait_for_status=yellow || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 40
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.14.3
+    environment:
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+      NODE_OPTIONS: --max-old-space-size=384
+      TELEMETRY_ENABLED: "false"
+    ports:
+      - "127.0.0.1:5604:5601"
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    mem_limit: 768m
+  app:
+    build: .
+    image: construccion-poblacion:local
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_DB: proyecto
+      POSTGRES_USER: estudiante
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-proyecto_local}
+      ELASTICSEARCH_URL: http://elasticsearch:9200
+      KIBANA_URL: http://kibana:5601
+      JUPYTER_TOKEN: ${JUPYTER_TOKEN:-proyecto-local}
+      SPARK_LOCAL_IP: 127.0.0.1
+      PYSPARK_SUBMIT_ARGS: --driver-memory 768m pyspark-shell
+      OPENBLAS_NUM_THREADS: "1"
+      OMP_NUM_THREADS: "2"
+      HF_HUB_DISABLE_TELEMETRY: "1"
+      HF_HOME: /src/.cache/huggingface
+      TOKENIZERS_PARALLELISM: "false"
+    ports:
+      - "127.0.0.1:8894:8888"
+    volumes:
+      - .:/src
+    working_dir: /src
+    mem_limit: 1856m
+    shm_size: 256m
+    depends_on:
+      postgres:
+        condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
+volumes:
+  postgres_data:
+  elastic_data:

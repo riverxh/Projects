@@ -1,0 +1,15 @@
+.env
+.cache/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+output/cache_vectores.sqlite*
+output/modelos/
+output/spark-warehouse/
+data/preparados/
+*.log
+.DS_Store
+tmp/
+.codex-finalizer/
+.chart-data-*/
+data/originales/poblacion/Poblacion_2000_2050_INEC.xlsx
