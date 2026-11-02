@@ -6,14 +6,14 @@ Las referencias de grabación identifican intervalos aproximados, no citas liter
 
 | Fuente del curso | Procedimiento utilizado |
 |---|---|
-| Enunciado `project/2026-02-M4-P.md`, distribuido en L4 | Dos fuentes cruzables, texto adicional permitido, Spark, pruebas antes de materializar, PostgreSQL y Elasticsearch, dos modelos, notebook, PDF, dashboard de cinco visualizaciones y presentación de 20 minutos |
-| L4, `video1908915064.mp4`, 00:15:40-00:38:30 | Compose, servicios, conectores, mappings, dimensiones e idioma del modelo, materialización y relectura |
-| L4, misma grabación, 00:38:30-00:50:00 | Preparar texto, generar embeddings con Hugging Face, guardar vectores y reutilizarlos |
-| L4, misma grabación, 00:50:00-01:04:30 | Consultas textuales y kNN; comparar casos concretos y explicar pertinencia |
-| L5, `video1324764996.mp4`, 00:02:40-00:06:10 | Separar preparación y pruebas de carga; petición de K-fold también para el proyecto, usando CrossValidator de Spark |
-| L5, `video1400804262.mp4`, 00:44:00-01:29:30 | Compartir trabajo, agrupar por claves y escoger puntos de materialización |
-| L5, misma grabación, 01:29:30-01:34:30 | Batch adecuado para publicaciones anuales almacenadas |
-| L5, misma grabación, aproximadamente 01:44-01:46 | Evaluar codificación por lotes; se eligieron lotes pequeños medidos, no se traslada el tiempo del ejemplo al equipo propio |
+| Enunciado distribuido en L4 | Dos fuentes cruzables, texto adicional permitido, Spark, pruebas antes de materializar, PostgreSQL y Elasticsearch, dos modelos, notebook, PDF, dashboard de cinco visualizaciones y presentación de 20 minutos |
+| L4 | Compose, servicios, conectores, mappings, dimensiones e idioma del modelo, materialización y relectura |
+| L4 | Preparar texto, generar embeddings con Hugging Face, guardar vectores y reutilizarlos |
+| L4 | Consultas textuales y kNN; comparar casos concretos y explicar pertinencia |
+| L5 | Separar preparación y pruebas de carga; petición de K-fold también para el proyecto, usando CrossValidator de Spark |
+| L5 | Compartir trabajo, agrupar por claves y escoger puntos de materialización |
+| L5 | Batch adecuado para publicaciones anuales almacenadas |
+| L5 | Evaluar codificación por lotes; se eligieron lotes pequeños medidos, no se traslada el tiempo del ejemplo al equipo propio |
 | Feedback del anteproyecto, Gerardo Nereo Campos Araya, correo del 25/10/2026 | Control del volumen, límite de 512 tokens, chunking para evitar truncamiento; subconjunto aceptable si el tiempo fuera excesivo |
 
 Aplicación concreta del feedback: cuatro PDF completos como fuentes, selección de cuerpo y anexo pertinente, auditoría de exclusiones, fragmentación con tokenizador E5 hasta 400 tokens incluyendo prefijo y especiales, solapamiento aproximado de 40 tokens, máximo observado 397, lotes de cuatro y caché. La elección 400/40 es del proyecto; no se presenta como valor exigido por el docente.
